@@ -1,0 +1,25 @@
+.header-top {
+  background: #391e66;
+  color: #fff;
+  padding: 7px 0;
+}
+.header-top-links a {
+  color: white;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.header-top-right-inner a {
+  color: white;
+}
+
+@media screen and (max-width: 767px) {
+  .header-top {
+    display: inline-table;
+    width: 100%;
+    padding: 10px 0px;
+    background: #f4cc07;
+  }
+}
