@@ -43,9 +43,9 @@ var MyClass = React.createClass({
                           </a>{" "}
                           <a
                             className="icon-link fa-envelope-o"
-                            href="mailto:contact@vedicvaani.com"
+                            href="mailto:contact@sanskar.com"
                           >
-                            contact@vedicvaani.com
+                            contact@sanskar.com
                           </a>
                         </div>
                       </div>
@@ -80,7 +80,7 @@ var MyClass = React.createClass({
                                   <li className="currency-AUD switcher-option">
                                     <a
                                       href="#"
-                                      data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"AUD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                      data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"AUD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                     >
                                       AUD - Australian Dollar
                                     </a>
@@ -88,7 +88,7 @@ var MyClass = React.createClass({
                                   <li className="currency-GBP switcher-option">
                                     <a
                                       href="#"
-                                      data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"GBP","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                      data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"GBP","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                     >
                                       GBP - British Pound
                                     </a>
@@ -96,7 +96,7 @@ var MyClass = React.createClass({
                                   <li className="currency-CAD switcher-option">
                                     <a
                                       href="#"
-                                      data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"CAD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                      data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"CAD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                     >
                                       CAD - Canadian Dollar
                                     </a>
@@ -104,7 +104,7 @@ var MyClass = React.createClass({
                                   <li className="currency-EUR switcher-option">
                                     <a
                                       href="#"
-                                      data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"EUR","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                      data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"EUR","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                     >
                                       EUR - Euro
                                     </a>
@@ -112,7 +112,7 @@ var MyClass = React.createClass({
                                   <li className="currency-MYR switcher-option">
                                     <a
                                       href="#"
-                                      data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"MYR","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                      data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"MYR","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                     >
                                       MYR - Malaysian Ringgit
                                     </a>
@@ -120,7 +120,7 @@ var MyClass = React.createClass({
                                   <li className="currency-SGD switcher-option">
                                     <a
                                       href="#"
-                                      data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"SGD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                      data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"SGD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                     >
                                       SGD - Singapore Dollar
                                     </a>
@@ -128,7 +128,7 @@ var MyClass = React.createClass({
                                   <li className="currency-USD switcher-option">
                                     <a
                                       href="#"
-                                      data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"USD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                      data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"USD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                     >
                                       USD - US Dollar
                                     </a>
@@ -206,29 +206,29 @@ var MyClass = React.createClass({
                           </span>{" "}
                           <a
                             className="logo"
-                            href="https://vedicvaani.com/"
-                            title="Vedic Vaani- The Voice of The Vedas"
+                            href="https://sanskar.com/"
+                            title="Sanskar- The Voice of The Vedas"
                           >
                             <picture className="main-logo hidden-xs">
                               <source
                                 type="image/webp"
-                                srcSet="https://vedicvaani.com/pub/media/logo/stores/1/logo_1.webp"
+                                srcSet="https://sanskar.com/pub/media/logo/stores/1/logo_1.webp"
                               />
                               <source
                                 type="image/png"
-                                srcSet="https://vedicvaani.com/pub/media/logo/stores/1/logo_1.png"
+                                srcSet="https://sanskar.com/pub/media/logo/stores/1/logo_1.png"
                               />
                               <img
                                 className="main-logo hidden-xs"
-                                src="https://vedicvaani.com/pub/media/logo/stores/1/logo_1.png"
-                                alt="Vedic Vaani- The Voice of The Vedas"
+                                src="https://sanskar.com/pub/media/logo/stores/1/logo_1.png"
+                                alt="Sanskar- The Voice of The Vedas"
                                 loading="lazy"
                               />
                             </picture>
                             <img
                               className="small-logo visible-xs"
-                              src="https://vedicvaani.com/pub/media/logo/stores/1/logo_1.png"
-                              alt="Vedic Vaani- The Voice of The Vedas"
+                              src="https://sanskar.com/pub/media/logo/stores/1/logo_1.png"
+                              alt="Sanskar- The Voice of The Vedas"
                             />
                           </a>
                         </div>
@@ -261,7 +261,7 @@ var MyClass = React.createClass({
                                     <form
                                       className="form minisearch active"
                                       id="search_mini_form"
-                                      action="https://vedicvaani.com/catalogsearch/result/"
+                                      action="https://sanskar.com/catalogsearch/result/"
                                       method="get"
                                     >
                                       <div className="field search">
@@ -290,7 +290,7 @@ var MyClass = React.createClass({
                                           <div className="nested">
                                             <a
                                               className="action advanced"
-                                              href="https://vedicvaani.com/catalogsearch/advanced/"
+                                              href="https://sanskar.com/catalogsearch/advanced/"
                                               data-action="advanced-search"
                                             >
                                               <span className="advanced-label">
@@ -462,7 +462,7 @@ var MyClass = React.createClass({
                                               </div>
                                               <form
                                                 name="loginForm"
-                                                action="https://vedicvaani.com/customer/account/loginPost/"
+                                                action="https://sanskar.com/customer/account/loginPost/"
                                                 method="post"
                                                 noValidate="novalidate"
                                               >
@@ -550,7 +550,7 @@ var MyClass = React.createClass({
                                                   <div className="secondary">
                                                     <a
                                                       className="action remind"
-                                                      href="https://vedicvaani.com/customer/account/forgotpassword/"
+                                                      href="https://sanskar.com/customer/account/forgotpassword/"
                                                     >
                                                       <span>
                                                         Forgot Your Password?
@@ -567,7 +567,7 @@ var MyClass = React.createClass({
                                                 </span>{" "}
                                                 <a
                                                   className="create-account-link"
-                                                  href="https://vedicvaani.com/customer/account/create/"
+                                                  href="https://sanskar.com/customer/account/create/"
                                                 >
                                                   Start Here.
                                                 </a>
@@ -641,7 +641,7 @@ var MyClass = React.createClass({
                     <ul className="header links visible-xs">
                       <li>
                         <a
-                          href="https://vedicvaani.com/customer/account/"
+                          href="https://sanskar.com/customer/account/"
                           id="id0QLamebf"
                         >
                           My Account
@@ -654,14 +654,14 @@ var MyClass = React.createClass({
                       >
                         <a
                           className="cdz-top-link"
-                          href="https://vedicvaani.com/wishlist/"
+                          href="https://sanskar.com/wishlist/"
                         >
                           My Wish List {/* ko if: wishlist().counter */}
                           {/* /ko */}
                         </a>
                       </li>{" "}
                       <li className="link authorization-link" data-label="or">
-                        <a href="https://vedicvaani.com/customer/account/login/">
+                        <a href="https://sanskar.com/customer/account/login/">
                           Sign In
                         </a>
                       </li>
@@ -695,7 +695,7 @@ var MyClass = React.createClass({
                       </li>{" "}
                       <li>
                         <a
-                          href="https://vedicvaani.com/customer/account/create/"
+                          href="https://sanskar.com/customer/account/create/"
                           id="idU7aRwKUW"
                         >
                           Create an Account
@@ -727,7 +727,7 @@ var MyClass = React.createClass({
                                 <li className="item level0 level-top parent cat-tree no-full">
                                   <a
                                     className="menu-link"
-                                    href="https://vedicvaani.com/puja-items-and-pooja-services"
+                                    href="https://sanskar.com/puja-items-and-pooja-services"
                                   >
                                     {" "}
                                     Puja Items
@@ -738,7 +738,7 @@ var MyClass = React.createClass({
                                   >
                                     <li className="item tablet-item visible-tablet">
                                       <a
-                                        href="https://vedicvaani.com/puja-items-and-pooja-services"
+                                        href="https://sanskar.com/puja-items-and-pooja-services"
                                         className="menu-go-link"
                                       >
                                         <span className="link-prefix">
@@ -753,14 +753,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-1 item first parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items"
+                                        href="https://sanskar.com/puja-items-and-pooja-services/puja-items"
                                       >
                                         Puja items/Poojan Samagri
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -774,7 +774,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/puja-kits"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/puja-kits"
                                           >
                                             Ritual Daily Puja kits
                                           </a>
@@ -782,7 +782,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/puja-essentials"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/puja-essentials"
                                           >
                                             Puja Essentials
                                           </a>
@@ -790,7 +790,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/havan-items"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/havan-items"
                                           >
                                             Havan Items/Hawan Samagri
                                           </a>
@@ -798,7 +798,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/divine-touch-cream"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/divine-touch-cream"
                                           >
                                             Divine Touch Cream
                                           </a>
@@ -806,7 +806,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/cotton-wicks"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/cotton-wicks"
                                           >
                                             Puja Cotton Wicks/Kapus
                                           </a>
@@ -814,7 +814,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/sacred-threads"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/sacred-threads"
                                           >
                                             Holy Sacred threads
                                           </a>
@@ -822,7 +822,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-7 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/essential-oils"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/essential-oils"
                                           >
                                             Essential Oils
                                           </a>
@@ -830,14 +830,14 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-8 item parent">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/attar"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/attar"
                                           >
                                             Attar/Ittar Scent
                                           </a>
                                           <ul className="level2 groupmenu-drop">
                                             <li className="item tablet-item visible-tablet">
                                               <a
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/attar"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/puja-items/attar"
                                                 className="menu-go-link"
                                               >
                                                 <span className="link-prefix">
@@ -851,7 +851,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-8-1 item first">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/catalog/category/view/s/nitya-seva-attars/id/377/"
+                                                href="https://sanskar.com/catalog/category/view/s/nitya-seva-attars/id/377/"
                                               >
                                                 Nitya Seva Attars
                                               </a>
@@ -859,7 +859,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-8-2 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/catalog/category/view/s/flower-attars/id/378/"
+                                                href="https://sanskar.com/catalog/category/view/s/flower-attars/id/378/"
                                               >
                                                 Flower Attars
                                               </a>
@@ -867,7 +867,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-8-3 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/catalog/category/view/s/vedic-divine-attars/id/379/"
+                                                href="https://sanskar.com/catalog/category/view/s/vedic-divine-attars/id/379/"
                                               >
                                                 Vedic Divine Attars
                                               </a>
@@ -875,7 +875,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-8-4 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/catalog/category/view/s/oudh-bakhoor-attars/id/380/"
+                                                href="https://sanskar.com/catalog/category/view/s/oudh-bakhoor-attars/id/380/"
                                               >
                                                 Oudh Bakhoor Attars
                                               </a>
@@ -883,7 +883,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-8-5 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/catalog/category/view/s/spices-attars/id/381/"
+                                                href="https://sanskar.com/catalog/category/view/s/spices-attars/id/381/"
                                               >
                                                 Spices Attars
                                               </a>
@@ -891,7 +891,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-8-6 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/catalog/category/view/s/7-chakra-attars/id/382/"
+                                                href="https://sanskar.com/catalog/category/view/s/7-chakra-attars/id/382/"
                                               >
                                                 7 Chakra Attars
                                               </a>
@@ -899,7 +899,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-8-7 item last">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/catalog/category/view/s/fruit-attars/id/383/"
+                                                href="https://sanskar.com/catalog/category/view/s/fruit-attars/id/383/"
                                               >
                                                 Fruit Attars
                                               </a>
@@ -909,7 +909,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-9 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/natural-floral-water"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/natural-floral-water"
                                           >
                                             Natural Floral water
                                           </a>
@@ -917,7 +917,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-10 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/deity-garlands"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/deity-garlands"
                                           >
                                             Flower Garlands for Deity
                                           </a>
@@ -925,7 +925,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-11 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/dhoop-camphor"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/dhoop-camphor"
                                           >
                                             Dhoop / Camphor
                                           </a>
@@ -933,7 +933,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-12 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/rangoli"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/rangoli"
                                           >
                                             Rangoli
                                           </a>
@@ -941,7 +941,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-13 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/diyas"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/diyas"
                                           >
                                             Diyas
                                           </a>
@@ -949,7 +949,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-14 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/puja-coins-and-frames"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/puja-coins-and-frames"
                                           >
                                             Puja Coins and Frames
                                           </a>
@@ -957,7 +957,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-15 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/envelopes"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/envelopes"
                                           >
                                             Shagun Envelopes
                                           </a>
@@ -965,7 +965,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-16 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/rare-items"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/rare-items"
                                           >
                                             Rare items
                                           </a>
@@ -973,7 +973,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-17 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/rakhi-thread"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/rakhi-thread"
                                           >
                                             Rakhi Thread
                                           </a>
@@ -981,7 +981,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-18 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/navgraha-shanti-packs"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/navgraha-shanti-packs"
                                           >
                                             Navgraha Shanti Packs
                                           </a>
@@ -989,7 +989,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-19 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/kumkum-sindoor-sandal-tilaks-and-paste"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/kumkum-sindoor-sandal-tilaks-and-paste"
                                           >
                                             Kumkum, Sindoor, Sandal Tilaks &amp;
                                             Paste
@@ -1000,14 +1000,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-2 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels"
+                                        href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels"
                                       >
                                         Prayer Vessels/Puja Utensils
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -1021,7 +1021,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/abhishek-items"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/abhishek-items"
                                           >
                                             Abhishek Patra/Tray/Pots
                                           </a>
@@ -1029,7 +1029,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/havan-kund-and-sticks"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/havan-kund-and-sticks"
                                           >
                                             Havan Kund &amp; Sticks
                                           </a>
@@ -1037,7 +1037,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/diyas-lamps"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/diyas-lamps"
                                           >
                                             Temple Diyas/Lantern Lamps
                                           </a>
@@ -1045,7 +1045,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/deity-thrones"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/deity-thrones"
                                           >
                                             Deity Singhasan/Thrones
                                           </a>
@@ -1053,7 +1053,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/puja-thalis"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/puja-thalis"
                                           >
                                             Puja Thalis/Prayer Plates
                                           </a>
@@ -1061,7 +1061,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/panchapatra-and-glass"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/panchapatra-and-glass"
                                           >
                                             Panchapatra &amp; Glass
                                           </a>
@@ -1069,7 +1069,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-7 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/incense-stands"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/incense-stands"
                                           >
                                             Incense stands
                                           </a>
@@ -1077,7 +1077,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-8 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/haldi-kumkum-containers"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/haldi-kumkum-containers"
                                           >
                                             Haldi Kumkum Containers
                                           </a>
@@ -1085,7 +1085,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-9 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/mata-ka-chatar-crowns"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/mata-ka-chatar-crowns"
                                           >
                                             Mata Ka Chatar, Crowns
                                           </a>
@@ -1093,7 +1093,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-10 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/netipatra"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/netipatra"
                                           >
                                             Netipatra
                                           </a>
@@ -1101,7 +1101,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-11 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/kalash-pots"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/kalash-pots"
                                           >
                                             Puja Kalash/Kalasham/Lota
                                           </a>
@@ -1109,7 +1109,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-12 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/flower-containers"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/flower-containers"
                                           >
                                             Flower containers
                                           </a>
@@ -1117,14 +1117,14 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-13 item parent">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/shankh-conch"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/shankh-conch"
                                           >
                                             Shankh/Conch
                                           </a>
                                           <ul className="level2 groupmenu-drop">
                                             <li className="item tablet-item visible-tablet">
                                               <a
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/shankh-conch"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/shankh-conch"
                                                 className="menu-go-link"
                                               >
                                                 <span className="link-prefix">
@@ -1138,7 +1138,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-2-13-1 item first">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/shankh-conch/abhishek-puja-shank"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/shankh-conch/abhishek-puja-shank"
                                               >
                                                 Abhishek Puja Shank
                                               </a>
@@ -1146,7 +1146,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-2-13-2 item last">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/shankh-conch/blowing-shank"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/shankh-conch/blowing-shank"
                                               >
                                                 Blowing Shank
                                               </a>
@@ -1156,7 +1156,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-14 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/puja-plates-and-bowls"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/puja-plates-and-bowls"
                                           >
                                             Puja Plates &amp; Bowls
                                           </a>
@@ -1164,7 +1164,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-15 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/bells-damrus"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/bells-damrus"
                                           >
                                             Bells, Trishuls ,Damrus
                                           </a>
@@ -1172,7 +1172,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-16 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/padukas"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/padukas"
                                           >
                                             Charan Padukas
                                           </a>
@@ -1182,14 +1182,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-3 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/puja-items-and-pooja-services/dhotis-chunri"
+                                        href="https://sanskar.com/puja-items-and-pooja-services/dhotis-chunri"
                                       >
                                         Dhotis, Chunri
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/dhotis-chunri"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/dhotis-chunri"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -1203,7 +1203,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/dhotis-chunri/dhotis"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/dhotis-chunri/dhotis"
                                           >
                                             Dhotis
                                           </a>
@@ -1211,7 +1211,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/dhotis-chunri/chunris"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/dhotis-chunri/chunris"
                                           >
                                             Chunris
                                           </a>
@@ -1219,7 +1219,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/dhotis-chunri/shawls"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/dhotis-chunri/shawls"
                                           >
                                             Shawls
                                           </a>
@@ -1227,7 +1227,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/dhotis-chunri/kurtas"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/dhotis-chunri/kurtas"
                                           >
                                             Kurtas
                                           </a>
@@ -1235,7 +1235,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-5 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/dhotis-chunri/mata-ki-chunri"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/dhotis-chunri/mata-ki-chunri"
                                           >
                                             Mata ki Chunri
                                           </a>
@@ -1245,14 +1245,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-4 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories"
+                                        href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories"
                                       >
                                         Vedic Accessories
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -1266,14 +1266,14 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-1 item first parent">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings"
                                           >
                                             Home Decor
                                           </a>
                                           <ul className="level2 groupmenu-drop">
                                             <li className="item tablet-item visible-tablet">
                                               <a
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings"
                                                 className="menu-go-link"
                                               >
                                                 <span className="link-prefix">
@@ -1287,7 +1287,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-1-1 item first">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings/wall-hanging"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings/wall-hanging"
                                               >
                                                 Wall hanging
                                               </a>
@@ -1295,7 +1295,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-1-2 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings/divine-ganesha-idols"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings/divine-ganesha-idols"
                                               >
                                                 Desktop Idols
                                               </a>
@@ -1303,7 +1303,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-1-3 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings/designer-boxes-plates"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings/designer-boxes-plates"
                                               >
                                                 Designer Boxes / Plates
                                               </a>
@@ -1311,7 +1311,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-1-4 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings/desktop-items"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings/desktop-items"
                                               >
                                                 Desktop items
                                               </a>
@@ -1319,7 +1319,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-1-5 item last">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings/white-metal-idols"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/desktop-and-wall-hangings/white-metal-idols"
                                               >
                                                 White metal Idols
                                               </a>
@@ -1329,14 +1329,14 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-2 item parent">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/mystic-items"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/mystic-items"
                                           >
                                             Mystic Items
                                           </a>
                                           <ul className="level2 groupmenu-drop">
                                             <li className="item tablet-item visible-tablet">
                                               <a
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/mystic-items"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/mystic-items"
                                                 className="menu-go-link"
                                               >
                                                 <span className="link-prefix">
@@ -1350,7 +1350,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-2-1 item first">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/mystic-items/feng-shui-tree"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/mystic-items/feng-shui-tree"
                                               >
                                                 Feng Shui Tree
                                               </a>
@@ -1358,7 +1358,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-2-2 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/mystic-items/lucky-charms"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/mystic-items/lucky-charms"
                                               >
                                                 Lucky Charms
                                               </a>
@@ -1366,7 +1366,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-2-3 item last">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/mystic-items/books-cds"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/mystic-items/books-cds"
                                               >
                                                 Books &amp; CDs
                                               </a>
@@ -1376,14 +1376,14 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-3 item parent">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/wedding-items"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/wedding-items"
                                           >
                                             Indian Wedding Items
                                           </a>
                                           <ul className="level2 groupmenu-drop">
                                             <li className="item tablet-item visible-tablet">
                                               <a
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/wedding-items"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/wedding-items"
                                                 className="menu-go-link"
                                               >
                                                 <span className="link-prefix">
@@ -1397,7 +1397,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-3-1 item first">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/wedding-items/maharashtrian-wedding-items"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/wedding-items/maharashtrian-wedding-items"
                                               >
                                                 Maharashtrian Wedding Items
                                               </a>
@@ -1405,7 +1405,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-3-2 item last">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/wedding-items/gujarati-wedding-items"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/wedding-items/gujarati-wedding-items"
                                               >
                                                 Gujarati Wedding Items
                                               </a>
@@ -1415,14 +1415,14 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-4 item last parent">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries"
                                           >
                                             Spiritual rosaries
                                           </a>
                                           <ul className="level2 groupmenu-drop">
                                             <li className="item tablet-item visible-tablet">
                                               <a
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries"
                                                 className="menu-go-link"
                                               >
                                                 <span className="link-prefix">
@@ -1436,7 +1436,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-4-1 item first">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries/tulsi-malas"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries/tulsi-malas"
                                               >
                                                 Tulsi Malas
                                               </a>
@@ -1444,7 +1444,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-4-2 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries/gemstone-malas"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries/gemstone-malas"
                                               >
                                                 Gemstone Malas
                                               </a>
@@ -1452,7 +1452,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-4-3 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries/shaligram-malas"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries/shaligram-malas"
                                               >
                                                 Shaligram Malas
                                               </a>
@@ -1460,7 +1460,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-4-4 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries/rudraksha-malas"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries/rudraksha-malas"
                                               >
                                                 Rudraksha Malas
                                               </a>
@@ -1468,7 +1468,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-4-5 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries/crystal-malas"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries/crystal-malas"
                                               >
                                                 Crystal Malas
                                               </a>
@@ -1476,7 +1476,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-4-4-6 item last">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries/other-mix-malas"
+                                                href="https://sanskar.com/puja-items-and-pooja-services/vedic-accessories/spiritual-rosaries/other-mix-malas"
                                               >
                                                 Other Mix Malas
                                               </a>
@@ -1488,14 +1488,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-5 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/puja-items-and-pooja-services/silver-puja-articles"
+                                        href="https://sanskar.com/puja-items-and-pooja-services/silver-puja-articles"
                                       >
                                         Silver Puja Collections
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/silver-puja-articles"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/silver-puja-articles"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -1509,7 +1509,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/silver-puja-articles/idols-in-silver"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/silver-puja-articles/idols-in-silver"
                                           >
                                             Idols / Murtis in Silver
                                           </a>
@@ -1517,7 +1517,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/silver-puja-articles/sindoor-dibbi-in-silver"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/silver-puja-articles/sindoor-dibbi-in-silver"
                                           >
                                             Sindoor Dibbi in Silver
                                           </a>
@@ -1525,7 +1525,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/silver-puja-articles/silver-diyas"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/silver-puja-articles/silver-diyas"
                                           >
                                             Diyas / Oil Lamp in Silver
                                           </a>
@@ -1533,7 +1533,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/silver-puja-articles/puja-vessels-in-silver"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/silver-puja-articles/puja-vessels-in-silver"
                                           >
                                             Puja Vessels in Silver
                                           </a>
@@ -1541,7 +1541,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/silver-puja-articles/set-of-shivling-in-silver"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/silver-puja-articles/set-of-shivling-in-silver"
                                           >
                                             Shivling Abhishek in Silver
                                           </a>
@@ -1549,7 +1549,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/silver-puja-articles/bracelets-in-silver"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/silver-puja-articles/bracelets-in-silver"
                                           >
                                             Bracelets / Kada in Silver
                                           </a>
@@ -1557,7 +1557,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-7 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/silver-puja-articles/silver-idols"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/silver-puja-articles/silver-idols"
                                           >
                                             Silver Idols
                                           </a>
@@ -1567,14 +1567,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-6 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/puja-items-and-pooja-services/essential-oils-attars"
+                                        href="https://sanskar.com/puja-items-and-pooja-services/essential-oils-attars"
                                       >
                                         Essential oils &amp; Attars
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/essential-oils-attars"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/essential-oils-attars"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -1588,7 +1588,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-6-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/essential-oils-attars/essential-oils"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/essential-oils-attars/essential-oils"
                                           >
                                             Essential Oils
                                           </a>
@@ -1596,7 +1596,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-6-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/essential-oils-attars/aromatherapy-massage-oils"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/essential-oils-attars/aromatherapy-massage-oils"
                                           >
                                             Aroma Oils
                                           </a>
@@ -1604,7 +1604,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-6-3 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/puja-items-and-pooja-services/essential-oils-attars/attars"
+                                            href="https://sanskar.com/puja-items-and-pooja-services/essential-oils-attars/attars"
                                           >
                                             Attars
                                           </a>
@@ -1614,7 +1614,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-7 item last">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/puja-items-and-pooja-services/japamalas-rosaries"
+                                        href="https://sanskar.com/puja-items-and-pooja-services/japamalas-rosaries"
                                       >
                                         Japamalas/Rosaries
                                       </a>
@@ -1624,7 +1624,7 @@ var MyClass = React.createClass({
                                 <li className="item level0 level-top parent cat-tree no-full">
                                   <a
                                     className="menu-link"
-                                    href="https://vedicvaani.com/agarbatti-and-dhoops"
+                                    href="https://sanskar.com/agarbatti-and-dhoops"
                                   >
                                     {" "}
                                     Agarbatti &amp; Dhoops
@@ -1635,7 +1635,7 @@ var MyClass = React.createClass({
                                   >
                                     <li className="item tablet-item visible-tablet">
                                       <a
-                                        href="https://vedicvaani.com/agarbatti-and-dhoops"
+                                        href="https://sanskar.com/agarbatti-and-dhoops"
                                         className="menu-go-link"
                                       >
                                         <span className="link-prefix">
@@ -1650,14 +1650,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-1 item first parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks"
+                                        href="https://sanskar.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks"
                                       >
                                         Agarbattis / Incense sticks
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks"
+                                            href="https://sanskar.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -1671,7 +1671,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks/perfumed-incense"
+                                            href="https://sanskar.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks/perfumed-incense"
                                           >
                                             Perfumed Incense
                                           </a>
@@ -1679,7 +1679,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-2 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks/masala-incense-sticks"
+                                            href="https://sanskar.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks/masala-incense-sticks"
                                           >
                                             Masala Incense sticks
                                           </a>
@@ -1689,14 +1689,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-2 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks"
+                                        href="https://sanskar.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks"
                                       >
                                         Dhoops &amp; Dhoop Sticks
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks"
+                                            href="https://sanskar.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -1710,7 +1710,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks/bambooless-incense-sticks"
+                                            href="https://sanskar.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks/bambooless-incense-sticks"
                                           >
                                             Bambooless Incense Sticks
                                           </a>
@@ -1718,7 +1718,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks/fragrance-cones"
+                                            href="https://sanskar.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks/fragrance-cones"
                                           >
                                             Dhoop Cones
                                           </a>
@@ -1726,7 +1726,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks/dhoop-sticks-online"
+                                            href="https://sanskar.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks/dhoop-sticks-online"
                                           >
                                             Dhoop cups &amp; Samrani
                                           </a>
@@ -1734,7 +1734,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks/aroma-powders"
+                                            href="https://sanskar.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks/aroma-powders"
                                           >
                                             Aroma Powders
                                           </a>
@@ -1742,7 +1742,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks/dhoops-and-powders"
+                                            href="https://sanskar.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks/dhoops-and-powders"
                                           >
                                             Dhoop and Amber Solid Resin
                                           </a>
@@ -1750,7 +1750,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-6 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks/backflow-cones"
+                                            href="https://sanskar.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks/backflow-cones"
                                           >
                                             Backflow Cones
                                           </a>
@@ -1760,7 +1760,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-3 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/agarbatti-and-dhoops/vedic-divine-collection"
+                                        href="https://sanskar.com/agarbatti-and-dhoops/vedic-divine-collection"
                                       >
                                         Vedic Divine Collection
                                       </a>
@@ -1768,7 +1768,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-4 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/agarbatti-and-dhoops/7-chakra-healing-collection"
+                                        href="https://sanskar.com/agarbatti-and-dhoops/7-chakra-healing-collection"
                                       >
                                         7 Chakra Healing Collection
                                       </a>
@@ -1776,7 +1776,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-5 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/agarbatti-and-dhoops/vedic-indian-classic-agarbattis"
+                                        href="https://sanskar.com/agarbatti-and-dhoops/vedic-indian-classic-agarbattis"
                                       >
                                         Vedic Indian Classic Agarbattis
                                       </a>
@@ -1784,7 +1784,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-6 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/agarbatti-and-dhoops/krishna-vrindavan-incense"
+                                        href="https://sanskar.com/agarbatti-and-dhoops/krishna-vrindavan-incense"
                                       >
                                         Krishna Vrindavan Incense
                                       </a>
@@ -1792,7 +1792,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-7 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/agarbatti-and-dhoops/pushp-phool-collections"
+                                        href="https://sanskar.com/agarbatti-and-dhoops/pushp-phool-collections"
                                       >
                                         Pushp Phool Collections
                                       </a>
@@ -1800,7 +1800,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-8 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/agarbatti-and-dhoops/natural-fruit-spices"
+                                        href="https://sanskar.com/agarbatti-and-dhoops/natural-fruit-spices"
                                       >
                                         Natural Fruit &amp; Spices
                                       </a>
@@ -1808,7 +1808,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-9 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/agarbatti-and-dhoops/oudh-bakhoor-collection"
+                                        href="https://sanskar.com/agarbatti-and-dhoops/oudh-bakhoor-collection"
                                       >
                                         Oudh Bakhoor Collection
                                       </a>
@@ -1816,7 +1816,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-10 item last">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/agarbatti-and-dhoops/gaumay-cowdung-collections"
+                                        href="https://sanskar.com/agarbatti-and-dhoops/gaumay-cowdung-collections"
                                       >
                                         Gaumay Cowdung Collections
                                       </a>
@@ -1826,7 +1826,7 @@ var MyClass = React.createClass({
                                 <li className="item level0 level-top parent cat-tree no-full">
                                   <a
                                     className="menu-link"
-                                    href="https://vedicvaani.com/rudraksha-and-yantras"
+                                    href="https://sanskar.com/rudraksha-and-yantras"
                                   >
                                     {" "}
                                     Rudraksha &amp; Yantras
@@ -1837,7 +1837,7 @@ var MyClass = React.createClass({
                                   >
                                     <li className="item tablet-item visible-tablet">
                                       <a
-                                        href="https://vedicvaani.com/rudraksha-and-yantras"
+                                        href="https://sanskar.com/rudraksha-and-yantras"
                                         className="menu-go-link"
                                       >
                                         <span className="link-prefix">
@@ -1852,14 +1852,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-1 item first parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha"
+                                        href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha"
                                       >
                                         Energised Rudraksha
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha"
+                                            href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -1873,7 +1873,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-combination"
+                                            href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-combination"
                                           >
                                             Rudraksha Combination
                                           </a>
@@ -1881,14 +1881,14 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-2 item parent">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-beads"
+                                            href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-beads"
                                           >
                                             Rudraksha Beads
                                           </a>
                                           <ul className="level2 groupmenu-drop">
                                             <li className="item tablet-item visible-tablet">
                                               <a
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-beads"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-beads"
                                                 className="menu-go-link"
                                               >
                                                 <span className="link-prefix">
@@ -1902,7 +1902,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-2-1 item first">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-beads/nepal-rudraksha"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-beads/nepal-rudraksha"
                                               >
                                                 Rudraksha 1 to 21 Mukhi Nepal
                                               </a>
@@ -1910,7 +1910,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-2-2 item last">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-beads/indonesia-rudraksha"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-beads/indonesia-rudraksha"
                                               >
                                                 Rudraksha 1 to 21 Mukhi Java
                                               </a>
@@ -1920,7 +1920,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-kantha-malas"
+                                            href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-kantha-malas"
                                           >
                                             Rudraksha Kantha Malas
                                           </a>
@@ -1928,14 +1928,14 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-4 item parent">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads"
+                                            href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads"
                                           >
                                             Rudraksha Collector Beads
                                           </a>
                                           <ul className="level2 groupmenu-drop">
                                             <li className="item tablet-item visible-tablet">
                                               <a
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads"
                                                 className="menu-go-link"
                                               >
                                                 <span className="link-prefix">
@@ -1949,7 +1949,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-4-1 item first">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/six-mukhi-collector-beads"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/six-mukhi-collector-beads"
                                               >
                                                 6 Mukhi Collector
                                               </a>
@@ -1957,7 +1957,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-4-2 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/7-mukhi-collector"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/7-mukhi-collector"
                                               >
                                                 7 Mukhi Collector
                                               </a>
@@ -1965,7 +1965,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-4-3 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/8-mukhi-collector"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/8-mukhi-collector"
                                               >
                                                 8 Mukhi Collector
                                               </a>
@@ -1973,7 +1973,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-4-4 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/9-mukhi-collector"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/9-mukhi-collector"
                                               >
                                                 9 Mukhi Collector
                                               </a>
@@ -1981,7 +1981,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-4-5 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/10-mukhi-collector"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/10-mukhi-collector"
                                               >
                                                 10 Mukhi Collector
                                               </a>
@@ -1989,7 +1989,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-4-6 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/11-mukhi-collector"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/11-mukhi-collector"
                                               >
                                                 11 Mukhi Collector
                                               </a>
@@ -1997,7 +1997,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-4-7 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/12-mukhi-collector"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/12-mukhi-collector"
                                               >
                                                 12 Mukhi Collector
                                               </a>
@@ -2005,7 +2005,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-4-8 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/13-mukhi-collector"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/13-mukhi-collector"
                                               >
                                                 13 Mukhi Collector
                                               </a>
@@ -2013,7 +2013,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-1-4-9 item last">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/gauri-shankar-collector"
+                                                href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-collector-beads/gauri-shankar-collector"
                                               >
                                                 Gauri Shankar Collector
                                               </a>
@@ -2023,7 +2023,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-rosaries"
+                                            href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-rosaries"
                                           >
                                             Rudraksha Rosaries
                                           </a>
@@ -2031,7 +2031,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-bracelets"
+                                            href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-bracelets"
                                           >
                                             Rudraksha Bracelets
                                           </a>
@@ -2039,7 +2039,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-7 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/ganesh-rudraksha"
+                                            href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/ganesh-rudraksha"
                                           >
                                             Ganesh Rudraksha
                                           </a>
@@ -2047,7 +2047,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-8 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/divine-sacred-rudraksha"
+                                            href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/divine-sacred-rudraksha"
                                           >
                                             Divine Sacred Rudraksha
                                           </a>
@@ -2057,14 +2057,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-2 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams"
+                                        href="https://sanskar.com/rudraksha-and-yantras/shaligrams"
                                       >
                                         Shaligrams
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams"
+                                            href="https://sanskar.com/rudraksha-and-yantras/shaligrams"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -2078,7 +2078,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams/shaligram-shilas"
+                                            href="https://sanskar.com/rudraksha-and-yantras/shaligrams/shaligram-shilas"
                                           >
                                             Shaligram Shilas
                                           </a>
@@ -2086,7 +2086,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams/exotic-shaligrams"
+                                            href="https://sanskar.com/rudraksha-and-yantras/shaligrams/exotic-shaligrams"
                                           >
                                             Exotic Shaligram Shilas
                                           </a>
@@ -2094,7 +2094,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams/shaligram-accessories"
+                                            href="https://sanskar.com/rudraksha-and-yantras/shaligrams/shaligram-accessories"
                                           >
                                             Shaligram Accessories
                                           </a>
@@ -2102,7 +2102,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams/shaligram-small-shilas"
+                                            href="https://sanskar.com/rudraksha-and-yantras/shaligrams/shaligram-small-shilas"
                                           >
                                             Shaligram Small Shilas
                                           </a>
@@ -2110,7 +2110,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams/dashavtara-shaligram-collection"
+                                            href="https://sanskar.com/rudraksha-and-yantras/shaligrams/dashavtara-shaligram-collection"
                                           >
                                             Dashavtara Shaligram Collection
                                           </a>
@@ -2118,7 +2118,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-6 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/catalog/category/view/s/shaligram-shila-statues/id/387/"
+                                            href="https://sanskar.com/catalog/category/view/s/shaligram-shila-statues/id/387/"
                                           >
                                             Shaligram Shila Statues
                                           </a>
@@ -2128,14 +2128,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-3 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/rudraksha-and-yantras/yantras"
+                                        href="https://sanskar.com/rudraksha-and-yantras/yantras"
                                       >
                                         Yantras
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/yantras"
+                                            href="https://sanskar.com/rudraksha-and-yantras/yantras"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -2149,14 +2149,14 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-1 item first parent">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/yantras/vedic-plate-yantras"
+                                            href="https://sanskar.com/rudraksha-and-yantras/yantras/vedic-plate-yantras"
                                           >
                                             Vedic Plate Yantras
                                           </a>
                                           <ul className="level2 groupmenu-drop">
                                             <li className="item tablet-item visible-tablet">
                                               <a
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/yantras/vedic-plate-yantras"
+                                                href="https://sanskar.com/rudraksha-and-yantras/yantras/vedic-plate-yantras"
                                                 className="menu-go-link"
                                               >
                                                 <span className="link-prefix">
@@ -2170,7 +2170,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-3-1-1 item first">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/yantras/vedic-plate-yantras/pocket-yantras"
+                                                href="https://sanskar.com/rudraksha-and-yantras/yantras/vedic-plate-yantras/pocket-yantras"
                                               >
                                                 2x2 Yantras
                                               </a>
@@ -2178,7 +2178,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-3-1-2 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/yantras/vedic-plate-yantras/3x3-yantras"
+                                                href="https://sanskar.com/rudraksha-and-yantras/yantras/vedic-plate-yantras/3x3-yantras"
                                               >
                                                 3x3 Yantras
                                               </a>
@@ -2186,7 +2186,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-3-1-3 item last">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/yantras/vedic-plate-yantras/6x6-yantras"
+                                                href="https://sanskar.com/rudraksha-and-yantras/yantras/vedic-plate-yantras/6x6-yantras"
                                               >
                                                 6x6 Yantras
                                               </a>
@@ -2196,7 +2196,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/yantras/shri-yantra"
+                                            href="https://sanskar.com/rudraksha-and-yantras/yantras/shri-yantra"
                                           >
                                             Shree Yantra
                                           </a>
@@ -2204,14 +2204,14 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-3 item parent">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/yantras/locket-yantra"
+                                            href="https://sanskar.com/rudraksha-and-yantras/yantras/locket-yantra"
                                           >
                                             Locket Yantra
                                           </a>
                                           <ul className="level2 groupmenu-drop">
                                             <li className="item tablet-item visible-tablet">
                                               <a
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/yantras/locket-yantra"
+                                                href="https://sanskar.com/rudraksha-and-yantras/yantras/locket-yantra"
                                                 className="menu-go-link"
                                               >
                                                 <span className="link-prefix">
@@ -2225,7 +2225,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-3-3-1 item first">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/yantras/locket-yantra/deity-locket-yantras"
+                                                href="https://sanskar.com/rudraksha-and-yantras/yantras/locket-yantra/deity-locket-yantras"
                                               >
                                                 Deity Locket Yantras
                                               </a>
@@ -2233,7 +2233,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-3-3-2 item">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/yantras/locket-yantra/das-mahavidya-locket-yantra"
+                                                href="https://sanskar.com/rudraksha-and-yantras/yantras/locket-yantra/das-mahavidya-locket-yantra"
                                               >
                                                 Das Mahavidya Locket Yantra
                                               </a>
@@ -2241,7 +2241,7 @@ var MyClass = React.createClass({
                                             <li className="level3 nav-3-3-3 item last">
                                               <a
                                                 className="menu-link"
-                                                href="https://vedicvaani.com/rudraksha-and-yantras/yantras/locket-yantra/navgraha-locket-yantras"
+                                                href="https://sanskar.com/rudraksha-and-yantras/yantras/locket-yantra/navgraha-locket-yantras"
                                               >
                                                 Navgraha Locket Yantras
                                               </a>
@@ -2251,7 +2251,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/yantras/mahayantras"
+                                            href="https://sanskar.com/rudraksha-and-yantras/yantras/mahayantras"
                                           >
                                             Mahayantras
                                           </a>
@@ -2259,7 +2259,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/yantras/yantra-frame"
+                                            href="https://sanskar.com/rudraksha-and-yantras/yantras/yantra-frame"
                                           >
                                             Yantra Frame
                                           </a>
@@ -2267,7 +2267,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/yantras/altar-yantras"
+                                            href="https://sanskar.com/rudraksha-and-yantras/yantras/altar-yantras"
                                           >
                                             Altar Yantras
                                           </a>
@@ -2275,7 +2275,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-7 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/yantras/silver-yantras"
+                                            href="https://sanskar.com/rudraksha-and-yantras/yantras/silver-yantras"
                                           >
                                             Silver Yantras
                                           </a>
@@ -2283,7 +2283,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-8 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/yantras/desktop-yantras"
+                                            href="https://sanskar.com/rudraksha-and-yantras/yantras/desktop-yantras"
                                           >
                                             Desktop Yantras
                                           </a>
@@ -2293,14 +2293,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-4 item last parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/rudraksha-and-yantras/shree-yantra"
+                                        href="https://sanskar.com/rudraksha-and-yantras/shree-yantra"
                                       >
                                         Shree Yantra
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/rudraksha-and-yantras/shree-yantra"
+                                            href="https://sanskar.com/rudraksha-and-yantras/shree-yantra"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -2314,7 +2314,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/shree-yantra/crystal-shree-yantra"
+                                            href="https://sanskar.com/deity-idols-and-pictures/shree-yantra/crystal-shree-yantra"
                                           >
                                             Crystal Shree Yantra
                                           </a>
@@ -2322,7 +2322,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/shree-yantra/parad-shree-yantra"
+                                            href="https://sanskar.com/deity-idols-and-pictures/shree-yantra/parad-shree-yantra"
                                           >
                                             Parad Shree Yantra
                                           </a>
@@ -2330,7 +2330,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/shree-yantra/gemstones-shree-yantra"
+                                            href="https://sanskar.com/deity-idols-and-pictures/shree-yantra/gemstones-shree-yantra"
                                           >
                                             Gemstones Shree Yantra
                                           </a>
@@ -2338,7 +2338,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-4 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/shree-yantra/punchdhatu-shree-yantra"
+                                            href="https://sanskar.com/deity-idols-and-pictures/shree-yantra/punchdhatu-shree-yantra"
                                           >
                                             Punchdhatu Shree yantra
                                           </a>
@@ -2350,7 +2350,7 @@ var MyClass = React.createClass({
                                 <li className="item level0 level-top parent cat-tree no-full">
                                   <a
                                     className="menu-link"
-                                    href="https://vedicvaani.com/deity-idols-and-pictures"
+                                    href="https://sanskar.com/deity-idols-and-pictures"
                                   >
                                     {" "}
                                     Deity Idols
@@ -2361,7 +2361,7 @@ var MyClass = React.createClass({
                                   >
                                     <li className="item tablet-item visible-tablet">
                                       <a
-                                        href="https://vedicvaani.com/deity-idols-and-pictures"
+                                        href="https://sanskar.com/deity-idols-and-pictures"
                                         className="menu-go-link"
                                       >
                                         <span className="link-prefix">
@@ -2376,14 +2376,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-1 item first parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures"
+                                        href="https://sanskar.com/deity-idols-and-pictures/god-sculptures"
                                       >
                                         God sculptures
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -2397,7 +2397,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/brass-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/brass-idols"
                                           >
                                             Brass Idols
                                           </a>
@@ -2405,7 +2405,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/god-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/god-idols"
                                           >
                                             God Idols/Murtis/Statues
                                           </a>
@@ -2413,7 +2413,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/lord-ganesha-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/lord-ganesha-idols"
                                           >
                                             Ganesh Idols/Murtis/Statues
                                           </a>
@@ -2421,7 +2421,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/lord-shiva-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/lord-shiva-idols"
                                           >
                                             Shiva Idols/Murtis/Statues
                                           </a>
@@ -2429,7 +2429,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/god-shree-krishna-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/god-shree-krishna-idols"
                                           >
                                             Krishna Idols/Murtis/Statues
                                           </a>
@@ -2437,7 +2437,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/idols-of-hanuman"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/idols-of-hanuman"
                                           >
                                             Hanuman Idols/Murtis/Statues
                                           </a>
@@ -2445,7 +2445,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-7 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/dashavatar-vishnu-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/dashavatar-vishnu-idols"
                                           >
                                             Vishnu Idols/Murtis/Statues
                                           </a>
@@ -2453,7 +2453,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-8 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/nataraja-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/nataraja-idols"
                                           >
                                             Natraja Idols/Murtis/Statues
                                           </a>
@@ -2461,7 +2461,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-9 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/shirdi-saibaba-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/shirdi-saibaba-idols"
                                           >
                                             Saibaba Idols/Murtis/Statues
                                           </a>
@@ -2469,7 +2469,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-10 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/goddess-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/goddess-idols"
                                           >
                                             Goddess Idols/Murtis/Statues
                                           </a>
@@ -2477,7 +2477,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-11 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/lakshmi-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/lakshmi-idols"
                                           >
                                             Lakshmi Idols/Murtis/Statues
                                           </a>
@@ -2485,7 +2485,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-12 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/durga-ambe-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/durga-ambe-idols"
                                           >
                                             Durga Idols/Murtis/Statues
                                           </a>
@@ -2493,7 +2493,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-13 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/statue-of-kali-maa"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/statue-of-kali-maa"
                                           >
                                             Kali Idols/Murtis/Statues
                                           </a>
@@ -2501,7 +2501,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-14 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/navgraha-nine-planets"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/navgraha-nine-planets"
                                           >
                                             Navgraha Idols
                                           </a>
@@ -2509,7 +2509,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-15 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/parad-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/parad-idols"
                                           >
                                             Parad Idols
                                           </a>
@@ -2517,7 +2517,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-16 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/deity-pictures"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/deity-pictures"
                                           >
                                             God pictures
                                           </a>
@@ -2525,7 +2525,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-17 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/navdurga-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/navdurga-idols"
                                           >
                                             Navdurga Idols
                                           </a>
@@ -2533,7 +2533,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-18 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/catalog/category/view/s/cow-idols/id/244/"
+                                            href="https://sanskar.com/catalog/category/view/s/cow-idols/id/244/"
                                           >
                                             Cow Idols
                                           </a>
@@ -2541,7 +2541,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-19 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/laxmi-ganesh-saraswati-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/laxmi-ganesh-saraswati-idols"
                                           >
                                             Laxmi Ganesh Saraswati Idols
                                           </a>
@@ -2549,7 +2549,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-20 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/dattatreya-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/dattatreya-idols"
                                           >
                                             Dattatreya Idols/Murtis/Statues
                                           </a>
@@ -2557,7 +2557,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-21 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/kartikeya-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/kartikeya-idols"
                                           >
                                             Kartikeya Idols/Murtis/Statues
                                           </a>
@@ -2565,7 +2565,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-22 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/dattatrya-swami-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/dattatrya-swami-idols"
                                           >
                                             Dattatrya &amp; Swami Idols
                                           </a>
@@ -2573,7 +2573,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-23 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/ram-darbar-idol"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/ram-darbar-idol"
                                           >
                                             Ram Darbar Idol
                                           </a>
@@ -2581,7 +2581,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-24 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/swaminarayan-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/swaminarayan-idols"
                                           >
                                             Swaminarayan Idols
                                           </a>
@@ -2589,7 +2589,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-25 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/maa-annapurna"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/maa-annapurna"
                                           >
                                             Annapurna Devi Idols/Murtis
                                           </a>
@@ -2597,7 +2597,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-26 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/saraswati-mata"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/saraswati-mata"
                                           >
                                             Saraswati Mata
                                           </a>
@@ -2605,7 +2605,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-27 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/lord-kubera"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/lord-kubera"
                                           >
                                             Kubera Idols/Murtis/Statues
                                           </a>
@@ -2615,14 +2615,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-2 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/deity-idols-and-pictures/shivling"
+                                        href="https://sanskar.com/deity-idols-and-pictures/shivling"
                                       >
                                         Shivling/Shiva Lingam
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/shivling"
+                                            href="https://sanskar.com/deity-idols-and-pictures/shivling"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -2636,7 +2636,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/shivling/gemstone-shivling"
+                                            href="https://sanskar.com/deity-idols-and-pictures/shivling/gemstone-shivling"
                                           >
                                             Gemstone Shivling
                                           </a>
@@ -2644,7 +2644,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/shivling/shivling-in-parad-mercury"
+                                            href="https://sanskar.com/deity-idols-and-pictures/shivling/shivling-in-parad-mercury"
                                           >
                                             Shivling In Parad (Mercury)
                                           </a>
@@ -2652,7 +2652,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/shivling/shivling-lockets"
+                                            href="https://sanskar.com/deity-idols-and-pictures/shivling/shivling-lockets"
                                           >
                                             Shivling Lockets
                                           </a>
@@ -2660,7 +2660,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-4 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/shivling/narmada-shivling"
+                                            href="https://sanskar.com/deity-idols-and-pictures/shivling/narmada-shivling"
                                           >
                                             Narmada Stone Shivling
                                           </a>
@@ -2670,14 +2670,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-3 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/deity-idols-and-pictures/handicrafts"
+                                        href="https://sanskar.com/deity-idols-and-pictures/handicrafts"
                                       >
                                         Handicrafts
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/handicrafts"
+                                            href="https://sanskar.com/deity-idols-and-pictures/handicrafts"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -2691,7 +2691,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/handicrafts/handicraft-gemstone-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/handicrafts/handicraft-gemstone-idols"
                                           >
                                             Handicraft Gemstone Idols
                                           </a>
@@ -2699,7 +2699,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/handicrafts/crystal-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/handicrafts/crystal-idols"
                                           >
                                             Crystal Idols
                                           </a>
@@ -2707,7 +2707,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/handicrafts/handicraft-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/handicrafts/handicraft-idols"
                                           >
                                             Handicraft Idols
                                           </a>
@@ -2715,7 +2715,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/handicrafts/gemstone-idols"
+                                            href="https://sanskar.com/deity-idols-and-pictures/handicrafts/gemstone-idols"
                                           >
                                             Gemstone Idols
                                           </a>
@@ -2723,7 +2723,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/gemstone-bowl"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/gemstone-bowl"
                                           >
                                             Gemstone Bowl
                                           </a>
@@ -2731,7 +2731,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/handicrafts/handicraft-items"
+                                            href="https://sanskar.com/deity-idols-and-pictures/handicrafts/handicraft-items"
                                           >
                                             Handicraft Items
                                           </a>
@@ -2739,7 +2739,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-7 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/handicrafts/gemstone-charan-padukas"
+                                            href="https://sanskar.com/deity-idols-and-pictures/handicrafts/gemstone-charan-padukas"
                                           >
                                             Gemstone Charan Padukas
                                           </a>
@@ -2749,14 +2749,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-4 item last parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/deity-idols-and-pictures/god-photos-frames"
+                                        href="https://sanskar.com/deity-idols-and-pictures/god-photos-frames"
                                       >
                                         Photos &amp; Frames
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-photos-frames"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-photos-frames"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -2770,7 +2770,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-photos-frames/deity-photo-frame"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-photos-frames/deity-photo-frame"
                                           >
                                             Deity Photo Frame
                                           </a>
@@ -2778,7 +2778,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-photos-frames/elegant-golden-divine-frame"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-photos-frames/elegant-golden-divine-frame"
                                           >
                                             Elegant Golden Divine Frame
                                           </a>
@@ -2786,7 +2786,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-photos-frames/god-and-goddess-copper-pratima"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-photos-frames/god-and-goddess-copper-pratima"
                                           >
                                             God And Goddess Copper Pratima
                                           </a>
@@ -2794,7 +2794,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-4 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/deity-idols-and-pictures/god-photos-frames/silver-frames"
+                                            href="https://sanskar.com/deity-idols-and-pictures/god-photos-frames/silver-frames"
                                           >
                                             Silver Frames
                                           </a>
@@ -2806,7 +2806,7 @@ var MyClass = React.createClass({
                                 <li className="item level0 level-top parent cat-tree no-full">
                                   <a
                                     className="menu-link"
-                                    href="https://vedicvaani.com/pujas-and-yagnas"
+                                    href="https://sanskar.com/pujas-and-yagnas"
                                   >
                                     {" "}
                                     Puja Services
@@ -2817,7 +2817,7 @@ var MyClass = React.createClass({
                                   >
                                     <li className="item tablet-item visible-tablet">
                                       <a
-                                        href="https://vedicvaani.com/pujas-and-yagnas"
+                                        href="https://sanskar.com/pujas-and-yagnas"
                                         className="menu-go-link"
                                       >
                                         <span className="link-prefix">
@@ -2832,14 +2832,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-1 item first parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/pujas-and-yagnas/online-puja"
+                                        href="https://sanskar.com/pujas-and-yagnas/online-puja"
                                       >
                                         Online Puja &amp; Yagna Services
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/pujas-and-yagnas/online-puja"
+                                            href="https://sanskar.com/pujas-and-yagnas/online-puja"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -2853,7 +2853,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/online-puja/mantra-siddhi-japas"
+                                            href="https://sanskar.com/pujas-and-yagnas/online-puja/mantra-siddhi-japas"
                                           >
                                             Mantra Siddhi Japa
                                           </a>
@@ -2861,7 +2861,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/online-puja/yagnas-homas"
+                                            href="https://sanskar.com/pujas-and-yagnas/online-puja/yagnas-homas"
                                           >
                                             Yagnas &amp; Homams
                                           </a>
@@ -2869,7 +2869,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/online-puja/dosh-nivaran-pujas"
+                                            href="https://sanskar.com/pujas-and-yagnas/online-puja/dosh-nivaran-pujas"
                                           >
                                             Dosh Nivaran Pujas
                                           </a>
@@ -2877,7 +2877,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/online-puja/sanskara"
+                                            href="https://sanskar.com/pujas-and-yagnas/online-puja/sanskara"
                                           >
                                             Sanskara
                                           </a>
@@ -2885,7 +2885,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/online-puja/navgraha-puja-and-yagna"
+                                            href="https://sanskar.com/pujas-and-yagnas/online-puja/navgraha-puja-and-yagna"
                                           >
                                             Navgraha (Nine Planets) Puja
                                           </a>
@@ -2893,7 +2893,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/online-puja/sacred-rituals-for-cows"
+                                            href="https://sanskar.com/pujas-and-yagnas/online-puja/sacred-rituals-for-cows"
                                           >
                                             Rituals / Pujas for Sacred Cows
                                           </a>
@@ -2901,7 +2901,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-7 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/online-puja/dasamahavidya-puja-anushthan"
+                                            href="https://sanskar.com/pujas-and-yagnas/online-puja/dasamahavidya-puja-anushthan"
                                           >
                                             DasaMahavidya Puja and Yagna
                                           </a>
@@ -2909,7 +2909,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-8 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/online-puja/navdurga-mata-puja-and-homam"
+                                            href="https://sanskar.com/pujas-and-yagnas/online-puja/navdurga-mata-puja-and-homam"
                                           >
                                             Navratri Navdurga Mata Puja and
                                             Homams
@@ -2918,7 +2918,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-9 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/online-puja/daan-dakshina-donation"
+                                            href="https://sanskar.com/pujas-and-yagnas/online-puja/daan-dakshina-donation"
                                           >
                                             Daan Dakshina (Donation)
                                           </a>
@@ -2926,7 +2926,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-10 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/online-puja/vrat-katha-and-patha"
+                                            href="https://sanskar.com/pujas-and-yagnas/online-puja/vrat-katha-and-patha"
                                           >
                                             Katha, Vrat (Fast) Stories
                                           </a>
@@ -2934,7 +2934,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-11 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/online-puja/puja-for-departed-ancestors-soul-to-rest-in-peace"
+                                            href="https://sanskar.com/pujas-and-yagnas/online-puja/puja-for-departed-ancestors-soul-to-rest-in-peace"
                                           >
                                             Pujas for Departed Ancestors and
                                             Peace of Soul
@@ -2945,14 +2945,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-2 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/pujas-and-yagnas/pujas-for-god-and-goddess"
+                                        href="https://sanskar.com/pujas-and-yagnas/pujas-for-god-and-goddess"
                                       >
                                         God and Goddess Puja
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/pujas-and-yagnas/pujas-for-god-and-goddess"
+                                            href="https://sanskar.com/pujas-and-yagnas/pujas-for-god-and-goddess"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -2966,7 +2966,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/pujas-for-god-and-goddess/lord-ganesh-pujas"
+                                            href="https://sanskar.com/pujas-and-yagnas/pujas-for-god-and-goddess/lord-ganesh-pujas"
                                           >
                                             Lord Ganesh Pujas
                                           </a>
@@ -2974,7 +2974,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/pujas-for-god-and-goddess/lord-shiva-pujas"
+                                            href="https://sanskar.com/pujas-and-yagnas/pujas-for-god-and-goddess/lord-shiva-pujas"
                                           >
                                             Lord Shiva Pujas
                                           </a>
@@ -2982,7 +2982,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/pujas-for-god-and-goddess/lord-vishnu-puja-yagnas"
+                                            href="https://sanskar.com/pujas-and-yagnas/pujas-for-god-and-goddess/lord-vishnu-puja-yagnas"
                                           >
                                             Lord Vishnu Pujas
                                           </a>
@@ -2990,7 +2990,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/pujas-for-god-and-goddess/hanuman-pujas-online"
+                                            href="https://sanskar.com/pujas-and-yagnas/pujas-for-god-and-goddess/hanuman-pujas-online"
                                           >
                                             Lord Hanuman Pujas
                                           </a>
@@ -2998,7 +2998,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/pujas-for-god-and-goddess/goddess-mahalaxmi-puja"
+                                            href="https://sanskar.com/pujas-and-yagnas/pujas-for-god-and-goddess/goddess-mahalaxmi-puja"
                                           >
                                             Goddess Mahalakshmi Pujas
                                           </a>
@@ -3006,7 +3006,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/pujas-for-god-and-goddess/shani-dev-puja"
+                                            href="https://sanskar.com/pujas-and-yagnas/pujas-for-god-and-goddess/shani-dev-puja"
                                           >
                                             Lord Shani Pujas
                                           </a>
@@ -3014,7 +3014,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-7 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/pujas-for-god-and-goddess/goddess-pujas"
+                                            href="https://sanskar.com/pujas-and-yagnas/pujas-for-god-and-goddess/goddess-pujas"
                                           >
                                             Goddess/Devi Pujas
                                           </a>
@@ -3022,7 +3022,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-8 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/pujas-for-god-and-goddess/lord-shri-rama-puja"
+                                            href="https://sanskar.com/pujas-and-yagnas/pujas-for-god-and-goddess/lord-shri-rama-puja"
                                           >
                                             Lord Shri Ram Pujas
                                           </a>
@@ -3032,7 +3032,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-3 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/pujas-and-yagnas/auspicious-hindu-festivals-puja"
+                                        href="https://sanskar.com/pujas-and-yagnas/auspicious-hindu-festivals-puja"
                                       >
                                         Auspicious Hindu Festivals Puja
                                       </a>
@@ -3040,7 +3040,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-4 item last parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/pujas-and-yagnas/puja-remedies-solutions-for-problems"
+                                        href="https://sanskar.com/pujas-and-yagnas/puja-remedies-solutions-for-problems"
                                       >
                                         Pujas for Resolving Problems and
                                         Purposes
@@ -3048,7 +3048,7 @@ var MyClass = React.createClass({
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/pujas-and-yagnas/puja-remedies-solutions-for-problems"
+                                            href="https://sanskar.com/pujas-and-yagnas/puja-remedies-solutions-for-problems"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -3063,7 +3063,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/puja-remedies-solutions-for-problems/pujas-wealth-prosperity"
+                                            href="https://sanskar.com/pujas-and-yagnas/puja-remedies-solutions-for-problems/pujas-wealth-prosperity"
                                           >
                                             Pujas for Wealth and Prosperity
                                           </a>
@@ -3071,7 +3071,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/puja-remedies-solutions-for-problems/marriage-vivah-puja"
+                                            href="https://sanskar.com/pujas-and-yagnas/puja-remedies-solutions-for-problems/marriage-vivah-puja"
                                           >
                                             Puja for Marriage
                                           </a>
@@ -3079,7 +3079,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/puja-remedies-solutions-for-problems/health-protection-puja"
+                                            href="https://sanskar.com/pujas-and-yagnas/puja-remedies-solutions-for-problems/health-protection-puja"
                                           >
                                             Pujas for Health and Protection
                                           </a>
@@ -3087,7 +3087,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-4 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/pujas-and-yagnas/puja-remedies-solutions-for-problems/puja-for-family-childs"
+                                            href="https://sanskar.com/pujas-and-yagnas/puja-remedies-solutions-for-problems/puja-for-family-childs"
                                           >
                                             Puja For Family and Children
                                           </a>
@@ -3099,7 +3099,7 @@ var MyClass = React.createClass({
                                 <li className="item level0 level-top parent cat-tree no-full">
                                   <a
                                     className="menu-link"
-                                    href="https://vedicvaani.com/gemstones-and-jewelry"
+                                    href="https://sanskar.com/gemstones-and-jewelry"
                                   >
                                     {" "}
                                     Gemstones
@@ -3110,7 +3110,7 @@ var MyClass = React.createClass({
                                   >
                                     <li className="item tablet-item visible-tablet">
                                       <a
-                                        href="https://vedicvaani.com/gemstones-and-jewelry"
+                                        href="https://sanskar.com/gemstones-and-jewelry"
                                         className="menu-go-link"
                                       >
                                         <span className="link-prefix">
@@ -3125,14 +3125,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-1 item first parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/gemstones-and-jewelry/gemstones"
+                                        href="https://sanskar.com/gemstones-and-jewelry/gemstones"
                                       >
                                         Gemstones
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -3146,7 +3146,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/natural-rock-stones"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/natural-rock-stones"
                                           >
                                             Natural Rock Stones
                                           </a>
@@ -3154,7 +3154,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/crystal"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/crystal"
                                           >
                                             Crystal
                                           </a>
@@ -3162,7 +3162,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/rare-gemstones"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/rare-gemstones"
                                           >
                                             Rare Gemstones
                                           </a>
@@ -3170,7 +3170,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/rose-quartz"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/rose-quartz"
                                           >
                                             Rose Quartz
                                           </a>
@@ -3178,7 +3178,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/red-garnet"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/red-garnet"
                                           >
                                             Red Garnet
                                           </a>
@@ -3186,7 +3186,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/south-sea-pearl"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/south-sea-pearl"
                                           >
                                             Real Pearl Moti Stone
                                           </a>
@@ -3194,7 +3194,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-7 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/turquoise"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/turquoise"
                                           >
                                             Turquoise
                                           </a>
@@ -3202,7 +3202,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-8 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/opal"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/opal"
                                           >
                                             Opal
                                           </a>
@@ -3210,7 +3210,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-9 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/amethyst"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/amethyst"
                                           >
                                             Amethyst
                                           </a>
@@ -3218,7 +3218,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-10 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/moonstone"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/moonstone"
                                           >
                                             Moonstone
                                           </a>
@@ -3226,7 +3226,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-11 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/cat-s-eye"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/cat-s-eye"
                                           >
                                             Cat's Eye
                                           </a>
@@ -3234,7 +3234,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-12 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/red-italian-coral-triangular"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/red-italian-coral-triangular"
                                           >
                                             Red Italian Coral - Triangular
                                           </a>
@@ -3242,7 +3242,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-13 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/gomed-hessonite"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/gomed-hessonite"
                                           >
                                             Gomed-Hessonite
                                           </a>
@@ -3250,7 +3250,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-14 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/yellow-topaz"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/yellow-topaz"
                                           >
                                             Yellow Topaz
                                           </a>
@@ -3258,7 +3258,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-15 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/indian-ruby"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/indian-ruby"
                                           >
                                             Indian Ruby
                                           </a>
@@ -3266,7 +3266,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-16 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/red-italian-coral"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/red-italian-coral"
                                           >
                                             Red Italian Coral
                                           </a>
@@ -3274,7 +3274,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-1-17 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/gemstones/white-topaz"
+                                            href="https://sanskar.com/gemstones-and-jewelry/gemstones/white-topaz"
                                           >
                                             White Topaz
                                           </a>
@@ -3284,14 +3284,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-2 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/gemstones-and-jewelry/sapphire-gemstones"
+                                        href="https://sanskar.com/gemstones-and-jewelry/sapphire-gemstones"
                                       >
                                         Sapphire Gemstones
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/sapphire-gemstones"
+                                            href="https://sanskar.com/gemstones-and-jewelry/sapphire-gemstones"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -3305,7 +3305,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/sapphire-gemstones/yellow-sapphire"
+                                            href="https://sanskar.com/gemstones-and-jewelry/sapphire-gemstones/yellow-sapphire"
                                           >
                                             Yellow Sapphire
                                           </a>
@@ -3313,7 +3313,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/sapphire-gemstones/white-sapphire"
+                                            href="https://sanskar.com/gemstones-and-jewelry/sapphire-gemstones/white-sapphire"
                                           >
                                             White Sapphire
                                           </a>
@@ -3321,7 +3321,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/sapphire-gemstones/blue-sapphire"
+                                            href="https://sanskar.com/gemstones-and-jewelry/sapphire-gemstones/blue-sapphire"
                                           >
                                             Blue Sapphire
                                           </a>
@@ -3329,7 +3329,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/sapphire-gemstones/ruby"
+                                            href="https://sanskar.com/gemstones-and-jewelry/sapphire-gemstones/ruby"
                                           >
                                             Ruby
                                           </a>
@@ -3337,7 +3337,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-2-5 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/sapphire-gemstones/emerald"
+                                            href="https://sanskar.com/gemstones-and-jewelry/sapphire-gemstones/emerald"
                                           >
                                             Emerald
                                           </a>
@@ -3347,14 +3347,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-3 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/gemstones-and-jewelry/orgone-healing-theraphy"
+                                        href="https://sanskar.com/gemstones-and-jewelry/orgone-healing-theraphy"
                                       >
                                         Orgone Healing Theraphy
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/orgone-healing-theraphy"
+                                            href="https://sanskar.com/gemstones-and-jewelry/orgone-healing-theraphy"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -3368,7 +3368,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/orgone-healing-theraphy/baby-orgone-pyramids"
+                                            href="https://sanskar.com/gemstones-and-jewelry/orgone-healing-theraphy/baby-orgone-pyramids"
                                           >
                                             Baby Orgone Pyramids
                                           </a>
@@ -3376,7 +3376,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/orgone-healing-theraphy/orgone-products"
+                                            href="https://sanskar.com/gemstones-and-jewelry/orgone-healing-theraphy/orgone-products"
                                           >
                                             Orgone Products
                                           </a>
@@ -3384,7 +3384,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/orgone-healing-theraphy/orgone-energy-pendant"
+                                            href="https://sanskar.com/gemstones-and-jewelry/orgone-healing-theraphy/orgone-energy-pendant"
                                           >
                                             Orgone Energy Pendant
                                           </a>
@@ -3392,7 +3392,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/orgone-healing-theraphy/orgone-pyramids"
+                                            href="https://sanskar.com/gemstones-and-jewelry/orgone-healing-theraphy/orgone-pyramids"
                                           >
                                             Orgone Pyramids
                                           </a>
@@ -3400,7 +3400,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/orgone-healing-theraphy/orgone-cabachons"
+                                            href="https://sanskar.com/gemstones-and-jewelry/orgone-healing-theraphy/orgone-cabachons"
                                           >
                                             Orgone Cabachons
                                           </a>
@@ -3408,7 +3408,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/orgone-healing-theraphy/orgone-energy-massage"
+                                            href="https://sanskar.com/gemstones-and-jewelry/orgone-healing-theraphy/orgone-energy-massage"
                                           >
                                             Orgone Energy Massage
                                           </a>
@@ -3416,7 +3416,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-7 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/orgone-healing-theraphy/pendulum-dowser"
+                                            href="https://sanskar.com/gemstones-and-jewelry/orgone-healing-theraphy/pendulum-dowser"
                                           >
                                             Pendulum (Dowser)
                                           </a>
@@ -3424,7 +3424,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-3-8 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/orgone-healing-theraphy/gemstone-balls"
+                                            href="https://sanskar.com/gemstones-and-jewelry/orgone-healing-theraphy/gemstone-balls"
                                           >
                                             Gemstone Balls
                                           </a>
@@ -3434,14 +3434,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-4 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/gemstones-and-jewelry/chains-and-bracelets"
+                                        href="https://sanskar.com/gemstones-and-jewelry/chains-and-bracelets"
                                       >
                                         Chains &amp; Bracelets
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/chains-and-bracelets"
+                                            href="https://sanskar.com/gemstones-and-jewelry/chains-and-bracelets"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -3455,7 +3455,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/chains-and-bracelets/silver-chains"
+                                            href="https://sanskar.com/gemstones-and-jewelry/chains-and-bracelets/silver-chains"
                                           >
                                             Silver Chains
                                           </a>
@@ -3463,7 +3463,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/chains-and-bracelets/silver-bracelets"
+                                            href="https://sanskar.com/gemstones-and-jewelry/chains-and-bracelets/silver-bracelets"
                                           >
                                             Silver Bracelets
                                           </a>
@@ -3471,7 +3471,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/chains-and-bracelets/gemstone-bracelets"
+                                            href="https://sanskar.com/gemstones-and-jewelry/chains-and-bracelets/gemstone-bracelets"
                                           >
                                             Gemstone Bracelets
                                           </a>
@@ -3479,7 +3479,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-4-4 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/chains-and-bracelets/bracelets"
+                                            href="https://sanskar.com/gemstones-and-jewelry/chains-and-bracelets/bracelets"
                                           >
                                             Bracelets
                                           </a>
@@ -3489,14 +3489,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-5 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/gemstones-and-jewelry/deity-lockets"
+                                        href="https://sanskar.com/gemstones-and-jewelry/deity-lockets"
                                       >
                                         Deity lockets
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/deity-lockets"
+                                            href="https://sanskar.com/gemstones-and-jewelry/deity-lockets"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -3510,7 +3510,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/deity-lockets/om-lockets"
+                                            href="https://sanskar.com/gemstones-and-jewelry/deity-lockets/om-lockets"
                                           >
                                             Om Lockets
                                           </a>
@@ -3518,7 +3518,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/deity-lockets/amulet-tabeez"
+                                            href="https://sanskar.com/gemstones-and-jewelry/deity-lockets/amulet-tabeez"
                                           >
                                             Amulet Tabeez
                                           </a>
@@ -3526,7 +3526,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/deity-lockets/ganesha-lockets"
+                                            href="https://sanskar.com/gemstones-and-jewelry/deity-lockets/ganesha-lockets"
                                           >
                                             Ganesha Lockets
                                           </a>
@@ -3534,7 +3534,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/deity-lockets/saibaba-lockets"
+                                            href="https://sanskar.com/gemstones-and-jewelry/deity-lockets/saibaba-lockets"
                                           >
                                             Saibaba Lockets
                                           </a>
@@ -3542,7 +3542,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/deity-lockets/others"
+                                            href="https://sanskar.com/gemstones-and-jewelry/deity-lockets/others"
                                           >
                                             Others
                                           </a>
@@ -3550,7 +3550,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/deity-lockets/hanuman-lockets"
+                                            href="https://sanskar.com/gemstones-and-jewelry/deity-lockets/hanuman-lockets"
                                           >
                                             Hanuman Lockets
                                           </a>
@@ -3558,7 +3558,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-7 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/deity-lockets/shiva-lockets"
+                                            href="https://sanskar.com/gemstones-and-jewelry/deity-lockets/shiva-lockets"
                                           >
                                             Shiva Lockets
                                           </a>
@@ -3566,7 +3566,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-5-8 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/deity-lockets/gemstone-ratna-lockets"
+                                            href="https://sanskar.com/gemstones-and-jewelry/deity-lockets/gemstone-ratna-lockets"
                                           >
                                             Gemstone (Ratna) Lockets
                                           </a>
@@ -3576,14 +3576,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-6 item last parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/gemstones-and-jewelry/chakra-healing-items"
+                                        href="https://sanskar.com/gemstones-and-jewelry/chakra-healing-items"
                                       >
                                         Chakra Healing Items
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/chakra-healing-items"
+                                            href="https://sanskar.com/gemstones-and-jewelry/chakra-healing-items"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -3597,7 +3597,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-6-1 item first last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/gemstones-and-jewelry/chakra-healing-items/chakra-accessories"
+                                            href="https://sanskar.com/gemstones-and-jewelry/chakra-healing-items/chakra-accessories"
                                           >
                                             Chakra Accessories
                                           </a>
@@ -3629,7 +3629,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-1 item first">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/god-dresses-and-poshakh/god-mukut-crown"
+                                        href="https://sanskar.com/god-dresses-and-poshakh/god-mukut-crown"
                                       >
                                         God Mukut (Crown)
                                       </a>
@@ -3637,7 +3637,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-2 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/god-dresses-and-poshakh/deity-shringar"
+                                        href="https://sanskar.com/god-dresses-and-poshakh/deity-shringar"
                                       >
                                         Deity Shringar &amp; Vastra
                                       </a>
@@ -3645,7 +3645,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-3 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/god-dresses-and-poshakh/deity-sinhasan"
+                                        href="https://sanskar.com/god-dresses-and-poshakh/deity-sinhasan"
                                       >
                                         Deity Sinhasan
                                       </a>
@@ -3653,7 +3653,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-4 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/god-dresses-and-poshakh/gemstone-kanthi"
+                                        href="https://sanskar.com/god-dresses-and-poshakh/gemstone-kanthi"
                                       >
                                         Gemstone Kanthi
                                       </a>
@@ -3661,7 +3661,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-5 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/god-dresses-and-poshakh/deity-chatra"
+                                        href="https://sanskar.com/god-dresses-and-poshakh/deity-chatra"
                                       >
                                         Deity Chatra
                                       </a>
@@ -3669,7 +3669,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-6 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/god-dresses-and-poshakh/divine-sudarshan-chakra"
+                                        href="https://sanskar.com/god-dresses-and-poshakh/divine-sudarshan-chakra"
                                       >
                                         Divine Sudarshan Chakra
                                       </a>
@@ -3677,14 +3677,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-7 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/god-dresses-and-poshakh/kanha-ji-poshak"
+                                        href="https://sanskar.com/god-dresses-and-poshakh/kanha-ji-poshak"
                                       >
                                         Laddu Gopal Kanha Ji Poshak
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/kanha-ji-poshak"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/kanha-ji-poshak"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -3698,7 +3698,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-7-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/kanha-ji-poshak/4-inches-poshak"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/kanha-ji-poshak/4-inches-poshak"
                                           >
                                             4 inches Poshak
                                           </a>
@@ -3706,7 +3706,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-7-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/kanha-ji-poshak/5-inches-poshak"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/kanha-ji-poshak/5-inches-poshak"
                                           >
                                             5 inches Poshak
                                           </a>
@@ -3714,7 +3714,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-7-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/kanha-ji-poshak/6-inches-poshak"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/kanha-ji-poshak/6-inches-poshak"
                                           >
                                             6 inches Poshak
                                           </a>
@@ -3722,7 +3722,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-7-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/kanha-ji-poshak/8-inches-poshak"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/kanha-ji-poshak/8-inches-poshak"
                                           >
                                             8 inches Poshak
                                           </a>
@@ -3730,7 +3730,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-7-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/kanha-ji-poshak/10-inches-poshak"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/kanha-ji-poshak/10-inches-poshak"
                                           >
                                             10 inches Poshak
                                           </a>
@@ -3738,7 +3738,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-7-6 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/kanha-ji-poshak/12-inches-poshak"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/kanha-ji-poshak/12-inches-poshak"
                                           >
                                             12 inches Poshak
                                           </a>
@@ -3748,14 +3748,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-8 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka"
+                                        href="https://sanskar.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka"
                                       >
                                         Devi Dresses Lehenga Patka
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -3769,7 +3769,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-8-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/2-inches-dresses"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/2-inches-dresses"
                                           >
                                             2 Inches Dresses
                                           </a>
@@ -3777,7 +3777,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-8-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/3-inches-dresses"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/3-inches-dresses"
                                           >
                                             3 Inches Dresses
                                           </a>
@@ -3785,7 +3785,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-8-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/4-inches-dresses"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/4-inches-dresses"
                                           >
                                             4 Inches Dresses
                                           </a>
@@ -3793,7 +3793,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-8-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/5-inches-dresses"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/5-inches-dresses"
                                           >
                                             5 Inches Dresses
                                           </a>
@@ -3801,7 +3801,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-8-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/6-inches-dresses"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/6-inches-dresses"
                                           >
                                             6 Inches Dresses
                                           </a>
@@ -3809,7 +3809,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-8-6 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/7-inches-dresses"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/7-inches-dresses"
                                           >
                                             7 Inches Dresses
                                           </a>
@@ -3817,7 +3817,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-8-7 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/9-inches-dresses"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/9-inches-dresses"
                                           >
                                             9 Inches Dresses
                                           </a>
@@ -3825,7 +3825,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-8-8 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/12-inches-dresses"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-dresses-lehenga-patka/12-inches-dresses"
                                           >
                                             12 Inches Dresses
                                           </a>
@@ -3835,14 +3835,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-9 item parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set"
+                                        href="https://sanskar.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set"
                                       >
                                         Devi Mata Dress Poshak set
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -3856,7 +3856,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-9-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set/7-inches-set"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set/7-inches-set"
                                           >
                                             7 inches set
                                           </a>
@@ -3864,7 +3864,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-9-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set/9-inches-set"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set/9-inches-set"
                                           >
                                             9 inches set
                                           </a>
@@ -3872,7 +3872,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-9-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set/12-inches-set"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set/12-inches-set"
                                           >
                                             12 inches set
                                           </a>
@@ -3880,7 +3880,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-9-4 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set/15-inches-set"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set/15-inches-set"
                                           >
                                             15 inches set
                                           </a>
@@ -3888,7 +3888,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-9-5 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set/18-inches-set"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set/18-inches-set"
                                           >
                                             18 inches set
                                           </a>
@@ -3896,7 +3896,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-9-6 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set/21-inches-set"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/devi-mata-dress-poshak-set/21-inches-set"
                                           >
                                             21 inches set
                                           </a>
@@ -3906,14 +3906,14 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-10 item last parent">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/god-dresses-and-poshakh/margashirsha-laxmi-puja-items"
+                                        href="https://sanskar.com/god-dresses-and-poshakh/margashirsha-laxmi-puja-items"
                                       >
                                         Margashirsha Laxmi Puja Items
                                       </a>
                                       <ul className="level1 groupmenu-drop">
                                         <li className="item tablet-item visible-tablet">
                                           <a
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/margashirsha-laxmi-puja-items"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/margashirsha-laxmi-puja-items"
                                             className="menu-go-link"
                                           >
                                             <span className="link-prefix">
@@ -3927,7 +3927,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-10-1 item first">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/margashirsha-laxmi-puja-items/devi-face"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/margashirsha-laxmi-puja-items/devi-face"
                                           >
                                             Devi Face
                                           </a>
@@ -3935,7 +3935,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-10-2 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/margashirsha-laxmi-puja-items/devi-face-with-shringar-set"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/margashirsha-laxmi-puja-items/devi-face-with-shringar-set"
                                           >
                                             Devi Face With Shringar Set
                                           </a>
@@ -3943,7 +3943,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-10-3 item">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/margashirsha-laxmi-puja-items/lehenga-dupatta-dress"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/margashirsha-laxmi-puja-items/lehenga-dupatta-dress"
                                           >
                                             Lehenga Dupatta Dress
                                           </a>
@@ -3951,7 +3951,7 @@ var MyClass = React.createClass({
                                         <li className="level2 nav-10-4 item last">
                                           <a
                                             className="menu-link"
-                                            href="https://vedicvaani.com/god-dresses-and-poshakh/margashirsha-laxmi-puja-items/devi-shringar-jewellery"
+                                            href="https://sanskar.com/god-dresses-and-poshakh/margashirsha-laxmi-puja-items/devi-shringar-jewellery"
                                           >
                                             Devi Shringar Jewellery
                                           </a>
@@ -3983,7 +3983,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-1 item first">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/deity-idols-and-pictures/shivling/gemstone-shivling"
+                                        href="https://sanskar.com/deity-idols-and-pictures/shivling/gemstone-shivling"
                                       >
                                         Gemstone Shivling
                                       </a>
@@ -3991,7 +3991,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-2 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/deity-idols-and-pictures/shivling/shivling-in-parad-mercury"
+                                        href="https://sanskar.com/deity-idols-and-pictures/shivling/shivling-in-parad-mercury"
                                       >
                                         Shivling In Parad (Mercury)
                                       </a>
@@ -3999,7 +3999,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-3 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/deity-idols-and-pictures/shivling/narmada-shivling"
+                                        href="https://sanskar.com/deity-idols-and-pictures/shivling/narmada-shivling"
                                       >
                                         Narmada Stone Shivling
                                       </a>
@@ -4007,7 +4007,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-4 item last">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/deity-idols-and-pictures/shivling/shivling-lockets"
+                                        href="https://sanskar.com/deity-idols-and-pictures/shivling/shivling-lockets"
                                       >
                                         Shivling Lockets
                                       </a>
@@ -4040,7 +4040,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-1 item first">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams/shaligram-shilas"
+                                        href="https://sanskar.com/rudraksha-and-yantras/shaligrams/shaligram-shilas"
                                       >
                                         Shaligram Shilas
                                       </a>
@@ -4048,7 +4048,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-2 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams/exotic-shaligrams"
+                                        href="https://sanskar.com/rudraksha-and-yantras/shaligrams/exotic-shaligrams"
                                       >
                                         Exotic Shaligram Shilas
                                       </a>
@@ -4056,7 +4056,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-3 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams/shaligram-accessories"
+                                        href="https://sanskar.com/rudraksha-and-yantras/shaligrams/shaligram-accessories"
                                       >
                                         Shaligram Accessories
                                       </a>
@@ -4064,7 +4064,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-4 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams/shaligram-small-shilas"
+                                        href="https://sanskar.com/rudraksha-and-yantras/shaligrams/shaligram-small-shilas"
                                       >
                                         Shaligram Small Shilas
                                       </a>
@@ -4072,7 +4072,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-5 item">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams/dashavtara-shaligram-collection"
+                                        href="https://sanskar.com/rudraksha-and-yantras/shaligrams/dashavtara-shaligram-collection"
                                       >
                                         Dashavtara Shaligram Collection
                                       </a>
@@ -4080,7 +4080,7 @@ var MyClass = React.createClass({
                                     <li className="level1 nav-6 item last">
                                       <a
                                         className="menu-link"
-                                        href="https://vedicvaani.com/catalog/category/view/s/shaligram-shila-statues/id/387/"
+                                        href="https://sanskar.com/catalog/category/view/s/shaligram-shila-statues/id/387/"
                                       >
                                         Shaligram Shila Statues
                                       </a>
@@ -4173,7 +4173,7 @@ var MyClass = React.createClass({
                 <ul className="header links visible-xs">
                   <li>
                     <a
-                      href="https://vedicvaani.com/customer/account/"
+                      href="https://sanskar.com/customer/account/"
                       id="id0QLamebf_mobile"
                     >
                       My Account
@@ -4183,14 +4183,14 @@ var MyClass = React.createClass({
                   <li className="link wishlist" data-bind="scope: 'wishlist'">
                     <a
                       className="cdz-top-link"
-                      href="https://vedicvaani.com/wishlist/"
+                      href="https://sanskar.com/wishlist/"
                     >
                       My Wish List {/* ko if: wishlist().counter */}
                       {/* /ko */}
                     </a>
                   </li>{" "}
                   <li className="link authorization-link" data-label="or">
-                    <a href="https://vedicvaani.com/customer/account/login/">
+                    <a href="https://sanskar.com/customer/account/login/">
                       Sign In
                     </a>
                   </li>
@@ -4218,7 +4218,7 @@ var MyClass = React.createClass({
                   </li>{" "}
                   <li>
                     <a
-                      href="https://vedicvaani.com/customer/account/create/"
+                      href="https://sanskar.com/customer/account/create/"
                       id="idU7aRwKUW_mobile"
                     >
                       Create an Account
@@ -4284,7 +4284,7 @@ var MyClass = React.createClass({
                         <li className="currency-AUD switcher-option">
                           <a
                             href="#"
-                            data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"AUD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                            data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"AUD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                           >
                             AUD - Australian Dollar
                           </a>
@@ -4292,7 +4292,7 @@ var MyClass = React.createClass({
                         <li className="currency-GBP switcher-option">
                           <a
                             href="#"
-                            data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"GBP","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                            data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"GBP","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                           >
                             GBP - British Pound
                           </a>
@@ -4300,7 +4300,7 @@ var MyClass = React.createClass({
                         <li className="currency-CAD switcher-option">
                           <a
                             href="#"
-                            data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"CAD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                            data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"CAD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                           >
                             CAD - Canadian Dollar
                           </a>
@@ -4308,7 +4308,7 @@ var MyClass = React.createClass({
                         <li className="currency-EUR switcher-option">
                           <a
                             href="#"
-                            data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"EUR","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                            data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"EUR","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                           >
                             EUR - Euro
                           </a>
@@ -4316,7 +4316,7 @@ var MyClass = React.createClass({
                         <li className="currency-MYR switcher-option">
                           <a
                             href="#"
-                            data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"MYR","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                            data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"MYR","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                           >
                             MYR - Malaysian Ringgit
                           </a>
@@ -4324,7 +4324,7 @@ var MyClass = React.createClass({
                         <li className="currency-SGD switcher-option">
                           <a
                             href="#"
-                            data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"SGD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                            data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"SGD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                           >
                             SGD - Singapore Dollar
                           </a>
@@ -4332,7 +4332,7 @@ var MyClass = React.createClass({
                         <li className="currency-USD switcher-option">
                           <a
                             href="#"
-                            data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"USD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                            data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"USD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                           >
                             USD - US Dollar
                           </a>
@@ -4370,20 +4370,20 @@ var MyClass = React.createClass({
                     <div className="col-sm-24 main-slideshow">
                       <div className="col-md-6 col-sm-12">
                         <a
-                          href="https://vedicvaani.com/catalogsearch/result/?q=Gudi"
+                          href="https://sanskar.com/catalogsearch/result/?q=Gudi"
                           aria-label="gudi padwa"
                         >
                           <picture>
                             <source
                               type="image/webp"
-                              srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/gudi-padwa-banner-2.webp"
+                              srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/gudi-padwa-banner-2.webp"
                             />
                             <source
                               type="image/jpg"
-                              srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/gudi-padwa-banner-2.jpg"
+                              srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/gudi-padwa-banner-2.jpg"
                             />
                             <img
-                              src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/gudi-padwa-banner-2.jpg"
+                              src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/gudi-padwa-banner-2.jpg"
                               alt=""
                               loading="lazy"
                             />
@@ -4392,20 +4392,20 @@ var MyClass = React.createClass({
                       </div>
                       <div className="col-md-6 col-sm-12">
                         <a
-                          href="https://vedicvaani.com/catalogsearch/result/?q=Chaitra+Navratri"
+                          href="https://sanskar.com/catalogsearch/result/?q=Chaitra+Navratri"
                           aria-label="chaitra navratri"
                         >
                           <picture>
                             <source
                               type="image/webp"
-                              srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/chaitra-navratri-banner.webp"
+                              srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/chaitra-navratri-banner.webp"
                             />
                             <source
                               type="image/jpg"
-                              srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/chaitra-navratri-banner.jpg"
+                              srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/chaitra-navratri-banner.jpg"
                             />
                             <img
-                              src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/chaitra-navratri-banner.jpg"
+                              src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/chaitra-navratri-banner.jpg"
                               alt=""
                               loading="lazy"
                             />
@@ -4414,20 +4414,20 @@ var MyClass = React.createClass({
                       </div>
                       <div className="col-md-6 col-sm-12">
                         <a
-                          href="https://vedicvaani.com/pujas-and-yagnas/online-puja"
+                          href="https://sanskar.com/pujas-and-yagnas/online-puja"
                           aria-label="online puja"
                         >
                           <picture>
                             <source
                               type="image/webp"
-                              srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/online-puja-_-services-banner.webp"
+                              srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/online-puja-_-services-banner.webp"
                             />
                             <source
                               type="image/jpg"
-                              srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/online-puja-_-services-banner.jpg"
+                              srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/online-puja-_-services-banner.jpg"
                             />
                             <img
-                              src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/online-puja-_-services-banner.jpg"
+                              src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/online-puja-_-services-banner.jpg"
                               alt=""
                               loading="lazy"
                             />
@@ -4436,20 +4436,20 @@ var MyClass = React.createClass({
                       </div>
                       <div className="col-md-6 col-sm-12">
                         <a
-                          href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/durga-ambe-idols"
+                          href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/durga-ambe-idols"
                           aria-label="durga ambe"
                         >
                           <picture>
                             <source
                               type="image/webp"
-                              srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/vedic-vaani-chaitra-navratri-idol-banner.webp"
+                              srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/vedic-vaani-chaitra-navratri-idol-banner.webp"
                             />
                             <source
                               type="image/jpg"
-                              srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/vedic-vaani-chaitra-navratri-idol-banner.jpg"
+                              srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/vedic-vaani-chaitra-navratri-idol-banner.jpg"
                             />
                             <img
-                              src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/vedic-vaani-chaitra-navratri-idol-banner.jpg"
+                              src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/vedic-vaani-chaitra-navratri-idol-banner.jpg"
                               alt=""
                               loading="lazy"
                             />
@@ -4487,30 +4487,30 @@ var MyClass = React.createClass({
                                   <div className="custom_opacity item">
                                     <a
                                       className="item-image"
-                                      href="https://vedicvaani.com/deity-idols-and-pictures/shivling"
+                                      href="https://sanskar.com/deity-idols-and-pictures/shivling"
                                     >
                                       <picture className="img-responsive owl-lazy">
                                         <source
                                           type="image/webp"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B1_1.webp"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B1_1.webp"
                                         />
                                         <source
                                           type="image/jpg"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B1_1.jpg"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B1_1.jpg"
                                         />
                                         <img
                                           alt="Shivling"
                                           className="img-responsive"
-                                          data-src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B1_1.jpg"
+                                          data-src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B1_1.jpg"
                                           loading="lazy"
-                                          src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B1_1.jpg"
+                                          src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B1_1.jpg"
                                           style={{}}
                                         />
                                       </picture>
                                     </a>{" "}
                                     <a
                                       className="item-title"
-                                      href="https://vedicvaani.com/deity-idols-and-pictures/shivling"
+                                      href="https://sanskar.com/deity-idols-and-pictures/shivling"
                                     >
                                       <span>Shivling</span>
                                     </a>
@@ -4526,30 +4526,30 @@ var MyClass = React.createClass({
                                   <div className="custom_opacity item">
                                     <a
                                       className="item-image"
-                                      href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha"
+                                      href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha"
                                     >
                                       <picture className="img-responsive owl-lazy">
                                         <source
                                           type="image/webp"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B2.webp"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B2.webp"
                                         />
                                         <source
                                           type="image/jpg"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B2.jpg"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B2.jpg"
                                         />
                                         <img
                                           alt="Rudraksha"
                                           className="img-responsive"
-                                          data-src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B2.jpg"
+                                          data-src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B2.jpg"
                                           loading="lazy"
-                                          src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B2.jpg"
+                                          src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B2.jpg"
                                           style={{}}
                                         />
                                       </picture>
                                     </a>{" "}
                                     <a
                                       className="item-title"
-                                      href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha"
+                                      href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha"
                                     >
                                       <span>Rudraksha</span>
                                     </a>
@@ -4565,30 +4565,30 @@ var MyClass = React.createClass({
                                   <div className="custom_opacity item">
                                     <a
                                       className="item-image"
-                                      href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/lord-ganesha-idols"
+                                      href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/lord-ganesha-idols"
                                     >
                                       <picture className="img-responsive owl-lazy">
                                         <source
                                           type="image/webp"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B3.webp"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B3.webp"
                                         />
                                         <source
                                           type="image/jpg"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B3.jpg"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B3.jpg"
                                         />
                                         <img
                                           alt="Ganesh Idols"
                                           className="img-responsive"
-                                          data-src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B3.jpg"
+                                          data-src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B3.jpg"
                                           loading="lazy"
-                                          src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B3.jpg"
+                                          src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B3.jpg"
                                           style={{}}
                                         />
                                       </picture>
                                     </a>{" "}
                                     <a
                                       className="item-title"
-                                      href="https://vedicvaani.com/deity-idols-and-pictures/god-sculptures/lord-ganesha-idols"
+                                      href="https://sanskar.com/deity-idols-and-pictures/god-sculptures/lord-ganesha-idols"
                                     >
                                       <span>Ganesh Idols</span>
                                     </a>
@@ -4604,30 +4604,30 @@ var MyClass = React.createClass({
                                   <div className="custom_opacity item">
                                     <a
                                       className="item-image"
-                                      href="https://vedicvaani.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks"
+                                      href="https://sanskar.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks"
                                     >
                                       <picture className="img-responsive owl-lazy">
                                         <source
                                           type="image/webp"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B5.webp"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B5.webp"
                                         />
                                         <source
                                           type="image/jpg"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B5.jpg"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B5.jpg"
                                         />
                                         <img
                                           alt="Agarbatti"
                                           className="img-responsive"
-                                          data-src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B5.jpg"
+                                          data-src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B5.jpg"
                                           loading="lazy"
-                                          src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B5.jpg"
+                                          src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B5.jpg"
                                           style={{}}
                                         />
                                       </picture>
                                     </a>{" "}
                                     <a
                                       className="item-title"
-                                      href="https://vedicvaani.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks"
+                                      href="https://sanskar.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks"
                                     >
                                       <span>Agarbatti</span>
                                     </a>
@@ -4643,30 +4643,30 @@ var MyClass = React.createClass({
                                   <div className="custom_opacity item">
                                     <a
                                       className="item-image"
-                                      href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-kantha-malas"
+                                      href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-kantha-malas"
                                     >
                                       <picture className="img-responsive owl-lazy">
                                         <source
                                           type="image/webp"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B7.webp"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B7.webp"
                                         />
                                         <source
                                           type="image/jpg"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B7.jpg"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B7.jpg"
                                         />
                                         <img
                                           alt="Mala"
                                           className="img-responsive"
-                                          data-src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B7.jpg"
+                                          data-src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B7.jpg"
                                           loading="lazy"
-                                          src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B7.jpg"
+                                          src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B7.jpg"
                                           style={{}}
                                         />
                                       </picture>
                                     </a>{" "}
                                     <a
                                       className="item-title"
-                                      href="https://vedicvaani.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-kantha-malas"
+                                      href="https://sanskar.com/rudraksha-and-yantras/energised-rudraksha/rudraksha-kantha-malas"
                                     >
                                       <span>Mala</span>
                                     </a>
@@ -4682,30 +4682,30 @@ var MyClass = React.createClass({
                                   <div className="custom_opacity item">
                                     <a
                                       className="item-image"
-                                      href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/kumkum-sindoor-sandal-tilaks-and-paste"
+                                      href="https://sanskar.com/puja-items-and-pooja-services/puja-items/kumkum-sindoor-sandal-tilaks-and-paste"
                                     >
                                       <picture className="img-responsive owl-lazy">
                                         <source
                                           type="image/webp"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B4.webp"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B4.webp"
                                         />
                                         <source
                                           type="image/jpg"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B4.jpg"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B4.jpg"
                                         />
                                         <img
                                           alt="Tilaks & Paste"
                                           className="img-responsive"
-                                          data-src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B4.jpg"
+                                          data-src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B4.jpg"
                                           loading="lazy"
-                                          src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B4.jpg"
+                                          src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B4.jpg"
                                           style={{}}
                                         />
                                       </picture>
                                     </a>{" "}
                                     <a
                                       className="item-title"
-                                      href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/kumkum-sindoor-sandal-tilaks-and-paste"
+                                      href="https://sanskar.com/puja-items-and-pooja-services/puja-items/kumkum-sindoor-sandal-tilaks-and-paste"
                                     >
                                       <span>Tilaks &amp; Paste</span>
                                     </a>
@@ -4721,30 +4721,30 @@ var MyClass = React.createClass({
                                   <div className="custom_opacity item">
                                     <a
                                       className="item-image"
-                                      href="https://vedicvaani.com/puja-items-and-pooja-services/dhotis-chunri/dhotis"
+                                      href="https://sanskar.com/puja-items-and-pooja-services/dhotis-chunri/dhotis"
                                     >
                                       <picture className="img-responsive owl-lazy">
                                         <source
                                           type="image/webp"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B10.webp"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B10.webp"
                                         />
                                         <source
                                           type="image/jpg"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B10.jpg"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B10.jpg"
                                         />
                                         <img
                                           alt="Dhotis"
                                           className="img-responsive"
-                                          data-src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B10.jpg"
+                                          data-src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B10.jpg"
                                           loading="lazy"
-                                          src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B10.jpg"
+                                          src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B10.jpg"
                                           style={{}}
                                         />
                                       </picture>
                                     </a>{" "}
                                     <a
                                       className="item-title"
-                                      href="https://vedicvaani.com/puja-items-and-pooja-services/dhotis-chunri/dhotis"
+                                      href="https://sanskar.com/puja-items-and-pooja-services/dhotis-chunri/dhotis"
                                     >
                                       <span>Dhotis</span>
                                     </a>
@@ -4760,30 +4760,30 @@ var MyClass = React.createClass({
                                   <div className="custom_opacity item">
                                     <a
                                       className="item-image"
-                                      href="https://vedicvaani.com/rudraksha-and-yantras/shree-yantra"
+                                      href="https://sanskar.com/rudraksha-and-yantras/shree-yantra"
                                     >
                                       <picture className="img-responsive owl-lazy">
                                         <source
                                           type="image/webp"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B8_2_.webp"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B8_2_.webp"
                                         />
                                         <source
                                           type="image/jpg"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B8_2_.jpg"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B8_2_.jpg"
                                         />
                                         <img
                                           alt="Shree Yantra"
                                           className="img-responsive"
-                                          data-src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B8_2_.jpg"
+                                          data-src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B8_2_.jpg"
                                           loading="lazy"
-                                          src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B8_2_.jpg"
+                                          src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B8_2_.jpg"
                                           style={{}}
                                         />
                                       </picture>
                                     </a>{" "}
                                     <a
                                       className="item-title"
-                                      href="https://vedicvaani.com/rudraksha-and-yantras/shree-yantra"
+                                      href="https://sanskar.com/rudraksha-and-yantras/shree-yantra"
                                     >
                                       <span>Shree Yantra</span>
                                     </a>
@@ -4799,28 +4799,28 @@ var MyClass = React.createClass({
                                   <div className="custom_opacity item">
                                     <a
                                       className="item-image"
-                                      href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/puja-kits"
+                                      href="https://sanskar.com/puja-items-and-pooja-services/puja-items/puja-kits"
                                     >
                                       <picture className="img-responsive owl-lazy">
                                         <source
                                           type="image/webp"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B6.webp"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B6.webp"
                                         />
                                         <source
                                           type="image/jpg"
-                                          data-srcset="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B6.jpg"
+                                          data-srcset="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B6.jpg"
                                         />
                                         <img
                                           alt="Puja Kits"
                                           className="img-responsive owl-lazy"
-                                          data-src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/B6.jpg"
+                                          data-src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/B6.jpg"
                                           loading="lazy"
                                         />
                                       </picture>
                                     </a>{" "}
                                     <a
                                       className="item-title"
-                                      href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/puja-kits"
+                                      href="https://sanskar.com/puja-items-and-pooja-services/puja-items/puja-kits"
                                     >
                                       <span>Puja Kits</span>
                                     </a>
@@ -4861,7 +4861,7 @@ var MyClass = React.createClass({
                       <p className="actions">
                         <a
                           className="action view-more"
-                          href="https://vedicvaani.com/new-arrivals"
+                          href="https://sanskar.com/new-arrivals"
                         >
                           View all
                         </a>
@@ -4898,7 +4898,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/champa-pushpa-agarbatti"
+                                            href="https://sanskar.com/champa-pushpa-agarbatti"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -4912,13 +4912,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Champa Pushpa Incense Sticks AG396"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/h/champa-pushpa-incense-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/h/champa-pushpa-incense-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Champa Pushpa Incense Sticks AG396"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/h/champa-pushpa-incense-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/h/champa-pushpa-incense-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -4934,7 +4934,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Champa Pushpa Incense Sticks"
-                                                href="https://vedicvaani.com/champa-pushpa-agarbatti"
+                                                href="https://sanskar.com/champa-pushpa-agarbatti"
                                               >
                                                 Champa Pushpa Incense Sticks
                                               </a>
@@ -4965,7 +4965,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/champa-pushpa-agarbatti?options=cart"
+                                                    action="https://sanskar.com/champa-pushpa-agarbatti?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -5046,7 +5046,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/radhe-rani-poshak-dress"
+                                            href="https://sanskar.com/radhe-rani-poshak-dress"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -5060,13 +5060,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Radha Rani Devi Colorful Devi Maa Poshak-3 inches AZ6167"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/a/radha-dress-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/a/radha-dress-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Radha Rani Devi Colorful Devi Maa Poshak-3 inches AZ6167"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/a/radha-dress-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/a/radha-dress-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -5082,7 +5082,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Radha Rani Devi Colorful Devi Maa Poshak-3 inches"
-                                                href="https://vedicvaani.com/radhe-rani-poshak-dress"
+                                                href="https://sanskar.com/radhe-rani-poshak-dress"
                                               >
                                                 Radha Rani Devi Colorful Devi
                                                 Maa Poshak-3 inches
@@ -5114,7 +5114,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13750/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13750/"
                                                     method="post"
                                                   >
                                                     <input
@@ -5195,7 +5195,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/orange-3-inches-devi-dress"
+                                            href="https://sanskar.com/orange-3-inches-devi-dress"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -5209,13 +5209,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Mata Rani Dress Poshak in Orange Color-3 inches"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/o/r/orange-dress-devi-maa-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/o/r/orange-dress-devi-maa-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Mata Rani Dress Poshak in Orange Color-3 inches"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/o/r/orange-dress-devi-maa-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/o/r/orange-dress-devi-maa-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -5231,7 +5231,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Mata Rani Dress Poshak in Orange Color-3 inches"
-                                                href="https://vedicvaani.com/orange-3-inches-devi-dress"
+                                                href="https://sanskar.com/orange-3-inches-devi-dress"
                                               >
                                                 Mata Rani Dress Poshak in Orange
                                                 Color-3 inches
@@ -5263,7 +5263,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13749/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13749/"
                                                     method="post"
                                                   >
                                                     <input
@@ -5344,7 +5344,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/3-inches-devi-dress"
+                                            href="https://sanskar.com/3-inches-devi-dress"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -5358,13 +5358,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Poshak Lehenga Patka for Devi Maa-3 inches AZ6164"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/l/e/lehenga-dress-red-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/l/e/lehenga-dress-red-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Poshak Lehenga Patka for Devi Maa-3 inches AZ6164"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/l/e/lehenga-dress-red-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/l/e/lehenga-dress-red-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -5380,7 +5380,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Poshak Lehenga Patka for Devi Maa-3 inches"
-                                                href="https://vedicvaani.com/3-inches-devi-dress"
+                                                href="https://sanskar.com/3-inches-devi-dress"
                                               >
                                                 Poshak Lehenga Patka for Devi
                                                 Maa-3 inches
@@ -5412,7 +5412,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13747/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13747/"
                                                     method="post"
                                                   >
                                                     <input
@@ -5493,7 +5493,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/durga-dress-poshak"
+                                            href="https://sanskar.com/durga-dress-poshak"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -5507,13 +5507,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Designer Maa Durga Poshak Vastra-3 inches"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/v/a/vastra-dress-pink-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/v/a/vastra-dress-pink-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Designer Maa Durga Poshak Vastra-3 inches"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/v/a/vastra-dress-pink-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/v/a/vastra-dress-pink-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -5529,7 +5529,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Designer Maa Durga Poshak Vastra-3 inches"
-                                                href="https://vedicvaani.com/durga-dress-poshak"
+                                                href="https://sanskar.com/durga-dress-poshak"
                                               >
                                                 Designer Maa Durga Poshak
                                                 Vastra-3 inches
@@ -5561,7 +5561,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13748/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13748/"
                                                     method="post"
                                                   >
                                                     <input
@@ -5642,7 +5642,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/wedding-floral-red-haar"
+                                            href="https://sanskar.com/wedding-floral-red-haar"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -5656,13 +5656,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Rose Flower Floral Garland Varmala for Wedding"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/h/a/har-garland-red-white-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/h/a/har-garland-red-white-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Rose Flower Floral Garland Varmala for Wedding"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/h/a/har-garland-red-white-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/h/a/har-garland-red-white-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -5678,7 +5678,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Rose Flower Floral Garland Varmala for Wedding"
-                                                href="https://vedicvaani.com/wedding-floral-red-haar"
+                                                href="https://sanskar.com/wedding-floral-red-haar"
                                               >
                                                 Rose Flower Floral Garland
                                                 Varmala for Wedding
@@ -5710,7 +5710,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/wedding-floral-red-haar?options=cart"
+                                                    action="https://sanskar.com/wedding-floral-red-haar?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -5791,7 +5791,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/traditional-varmala"
+                                            href="https://sanskar.com/traditional-varmala"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -5805,13 +5805,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Wedding Tradition of India Jay Mala for Dulha Dulhan"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-1-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-1-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Wedding Tradition of India Jay Mala for Dulha Dulhan"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-1-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-1-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -5827,7 +5827,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Wedding Tradition of India Jay Mala for Dulha Dulhan"
-                                                href="https://vedicvaani.com/traditional-varmala"
+                                                href="https://sanskar.com/traditional-varmala"
                                               >
                                                 Wedding Tradition of India Jay
                                                 Mala for Dulha Dulhan
@@ -5859,7 +5859,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/traditional-varmala?options=cart"
+                                                    action="https://sanskar.com/traditional-varmala?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -5940,7 +5940,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/bride-jai-mala-haar"
+                                            href="https://sanskar.com/bride-jai-mala-haar"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -5954,13 +5954,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Jaimala for Bride & Groom Wedding Mala AZ6161"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-white-flower-red-roses-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-white-flower-red-roses-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Jaimala for Bride & Groom Wedding Mala AZ6161"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-white-flower-red-roses-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-white-flower-red-roses-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -5976,7 +5976,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Jaimala for Bride & Groom Wedding Mala"
-                                                href="https://vedicvaani.com/bride-jai-mala-haar"
+                                                href="https://sanskar.com/bride-jai-mala-haar"
                                               >
                                                 Jaimala for Bride &amp; Groom
                                                 Wedding Mala
@@ -6008,7 +6008,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/bride-jai-mala-haar?options=cart"
+                                                    action="https://sanskar.com/bride-jai-mala-haar?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -6089,7 +6089,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/floral-garland-jai-mala"
+                                            href="https://sanskar.com/floral-garland-jai-mala"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -6103,13 +6103,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Indian Wedding Floral Garland Jai Mala Haar"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-red-golden-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-red-golden-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Indian Wedding Floral Garland Jai Mala Haar"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-red-golden-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-red-golden-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -6125,7 +6125,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Indian Wedding Floral Garland Jai Mala Haar"
-                                                href="https://vedicvaani.com/floral-garland-jai-mala"
+                                                href="https://sanskar.com/floral-garland-jai-mala"
                                               >
                                                 Indian Wedding Floral Garland
                                                 Jai Mala Haar
@@ -6157,7 +6157,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/floral-garland-jai-mala?options=cart"
+                                                    action="https://sanskar.com/floral-garland-jai-mala?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -6238,7 +6238,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/flower-wedding-haar-mala"
+                                            href="https://sanskar.com/flower-wedding-haar-mala"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -6252,13 +6252,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Wedding Ceremony Dulha Dulhan Jai Varmala in Artificial Flowers AZ6158"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-pink-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-pink-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Wedding Ceremony Dulha Dulhan Jai Varmala in Artificial Flowers AZ6158"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-pink-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/garland-pink-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -6274,7 +6274,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Wedding Ceremony Dulha Dulhan Jai Varmala in Artificial Flowers"
-                                                href="https://vedicvaani.com/flower-wedding-haar-mala"
+                                                href="https://sanskar.com/flower-wedding-haar-mala"
                                               >
                                                 Wedding Ceremony Dulha Dulhan
                                                 Jai Varmala in Artificial
@@ -6307,7 +6307,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/flower-wedding-haar-mala?options=cart"
+                                                    action="https://sanskar.com/flower-wedding-haar-mala?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -6396,20 +6396,20 @@ var MyClass = React.createClass({
                       <div className="row">
                         <div className="col-sm-24">
                           <a
-                            href="https://vedicvaani.com/rudraksha-and-yantras/shaligrams"
+                            href="https://sanskar.com/rudraksha-and-yantras/shaligrams"
                             aria-label="shaligrams"
                           >
                             <picture>
                               <source
                                 type="image/webp"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/shaligrams-1.webp"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/shaligrams-1.webp"
                               />
                               <source
                                 type="image/jpg"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/shaligrams-1.jpg"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/shaligrams-1.jpg"
                               />
                               <img
-                                src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/shaligrams-1.jpg"
+                                src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/shaligrams-1.jpg"
                                 alt=""
                                 loading="lazy"
                               />
@@ -6418,20 +6418,20 @@ var MyClass = React.createClass({
                           <br />
                           <br />{" "}
                           <a
-                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/puja-kits"
+                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/puja-kits"
                             aria-label="Puja Kits"
                           >
                             <picture>
                               <source
                                 type="image/webp"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/puja-kits-3.webp"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/puja-kits-3.webp"
                               />
                               <source
                                 type="image/jpg"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/puja-kits-3.jpg"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/puja-kits-3.jpg"
                               />
                               <img
-                                src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/puja-kits-3.jpg"
+                                src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/puja-kits-3.jpg"
                                 alt=""
                                 loading="lazy"
                               />
@@ -6448,7 +6448,7 @@ var MyClass = React.createClass({
                             <p className="actions">
                               <a
                                 className="action view-more"
-                                href="https://vedicvaani.com/puja-items-and-pooja-services/dhotis-chunri/dhotis"
+                                href="https://sanskar.com/puja-items-and-pooja-services/dhotis-chunri/dhotis"
                               >
                                 View all
                               </a>
@@ -6485,7 +6485,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/maroon-zari-dhoti"
+                                                  href="https://sanskar.com/maroon-zari-dhoti"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -6499,13 +6499,13 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Religious Dress Dhoti in White Color with Maroon Zari Border AZ6142"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/z/a/zari-white-dhoti-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/z/a/zari-white-dhoti-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Religious Dress Dhoti in White Color with Maroon Zari Border AZ6142"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/z/a/zari-white-dhoti-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/z/a/zari-white-dhoti-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -6523,7 +6523,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Religious Dress Dhoti in White Color with Maroon Zari Border"
-                                                      href="https://vedicvaani.com/maroon-zari-dhoti"
+                                                      href="https://sanskar.com/maroon-zari-dhoti"
                                                     >
                                                       Religious Dress Dhoti in
                                                       White Color with Maroon
@@ -6556,7 +6556,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13694/"
+                                                          action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13694/"
                                                           method="post"
                                                         >
                                                           <input
@@ -6639,7 +6639,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/red-religious-dhoti"
+                                                  href="https://sanskar.com/red-religious-dhoti"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -6653,13 +6653,13 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Color of God's Red Dhoti Vastra for Daily Religious Ceremonies Pujan AZ6118"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/e/red-dhoti-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/e/red-dhoti-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Color of God's Red Dhoti Vastra for Daily Religious Ceremonies Pujan AZ6118"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/e/red-dhoti-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/e/red-dhoti-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -6677,7 +6677,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Color of God's Red Dhoti Vastra for Daily Religious Ceremonies Pujan"
-                                                      href="https://vedicvaani.com/red-religious-dhoti"
+                                                      href="https://sanskar.com/red-religious-dhoti"
                                                     >
                                                       Color of God's Red Dhoti
                                                       Vastra for Daily Religious
@@ -6710,7 +6710,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13661/"
+                                                          action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13661/"
                                                           method="post"
                                                         >
                                                           <input
@@ -6793,7 +6793,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/white-green-dhoti-for-men"
+                                                  href="https://sanskar.com/white-green-dhoti-for-men"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -6807,13 +6807,13 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="White Puja Angavastra Dhoti with Green Border for Men's AZ6117"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/r/green-white-dhoti-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/r/green-white-dhoti-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="White Puja Angavastra Dhoti with Green Border for Men's AZ6117"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/r/green-white-dhoti-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/r/green-white-dhoti-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -6831,7 +6831,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="White Puja Angavastra Dhoti with Green Border for Men's"
-                                                      href="https://vedicvaani.com/white-green-dhoti-for-men"
+                                                      href="https://sanskar.com/white-green-dhoti-for-men"
                                                     >
                                                       White Puja Angavastra
                                                       Dhoti with Green Border
@@ -6864,7 +6864,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13660/"
+                                                          action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13660/"
                                                           method="post"
                                                         >
                                                           <input
@@ -6947,7 +6947,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/yajman-angacastra-dhoti"
+                                                  href="https://sanskar.com/yajman-angacastra-dhoti"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -6961,13 +6961,13 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Regular Wear Traditional Dhoti Angavastram for Yajman/Pujari AZ6116"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/b/r/brown-dhoti-1-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/b/r/brown-dhoti-1-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Regular Wear Traditional Dhoti Angavastram for Yajman/Pujari AZ6116"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/b/r/brown-dhoti-1-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/b/r/brown-dhoti-1-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -6985,7 +6985,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Regular Wear Traditional Dhoti Angavastram for Yajman/Pujari"
-                                                      href="https://vedicvaani.com/yajman-angacastra-dhoti"
+                                                      href="https://sanskar.com/yajman-angacastra-dhoti"
                                                     >
                                                       Regular Wear Traditional
                                                       Dhoti Angavastram for
@@ -7018,7 +7018,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13659/"
+                                                          action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13659/"
                                                           method="post"
                                                         >
                                                           <input
@@ -7101,7 +7101,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/maroon-cotton-dhoti-towel"
+                                                  href="https://sanskar.com/maroon-cotton-dhoti-towel"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -7115,13 +7115,13 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Cotton Maroon Color Dhoti & Towel For Men, Traditional Festive & Regular Wear AZ6115"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/b/r/brown-dhoti-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/b/r/brown-dhoti-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Cotton Maroon Color Dhoti & Towel For Men, Traditional Festive & Regular Wear AZ6115"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/b/r/brown-dhoti-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/b/r/brown-dhoti-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -7139,7 +7139,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Cotton Maroon Color Dhoti & Towel For Men, Traditional Festive & Regular Wear"
-                                                      href="https://vedicvaani.com/maroon-cotton-dhoti-towel"
+                                                      href="https://sanskar.com/maroon-cotton-dhoti-towel"
                                                     >
                                                       Cotton Maroon Color Dhoti
                                                       &amp; Towel For Men,
@@ -7173,7 +7173,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13658/"
+                                                          action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13658/"
                                                           method="post"
                                                         >
                                                           <input
@@ -7260,7 +7260,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/protector-dhoti-vastra"
+                                                  href="https://sanskar.com/protector-dhoti-vastra"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -7274,13 +7274,13 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Negative Energies Protector Vastra Dhoti Angavastram for Men's AZ6089"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/p/r/protector-yellow-dhoti-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/p/r/protector-yellow-dhoti-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Negative Energies Protector Vastra Dhoti Angavastram for Men's AZ6089"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/p/r/protector-yellow-dhoti-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/p/r/protector-yellow-dhoti-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -7298,7 +7298,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Negative Energies Protector Vastra Dhoti Angavastram for Men's"
-                                                      href="https://vedicvaani.com/protector-dhoti-vastra"
+                                                      href="https://sanskar.com/protector-dhoti-vastra"
                                                     >
                                                       Negative Energies
                                                       Protector Vastra Dhoti
@@ -7358,7 +7358,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/hadloom-dhoti-for-pooja"
+                                                  href="https://sanskar.com/hadloom-dhoti-for-pooja"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -7372,13 +7372,13 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Handloom Dhoti/Uparna with Shawl for Auspicious Ceremonies-set of 2"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/e/set-of_2-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/e/set-of_2-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Handloom Dhoti/Uparna with Shawl for Auspicious Ceremonies-set of 2"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/e/set-of_2-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/e/set-of_2-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -7396,7 +7396,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Handloom Dhoti/Uparna with Shawl for Auspicious Ceremonies-set of 2"
-                                                      href="https://vedicvaani.com/hadloom-dhoti-for-pooja"
+                                                      href="https://sanskar.com/hadloom-dhoti-for-pooja"
                                                     >
                                                       Handloom Dhoti/Uparna with
                                                       Shawl for Auspicious
@@ -7429,7 +7429,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13230/"
+                                                          action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13230/"
                                                           method="post"
                                                         >
                                                           <input
@@ -7512,7 +7512,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/pancha-dhoti-in-purple-color"
+                                                  href="https://sanskar.com/pancha-dhoti-in-purple-color"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -7526,13 +7526,13 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Pancha Dhoti with Shawl for Religious Puja Ceremonies in Purple Color"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/p/a/pancha-purple-dhoti-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/p/a/pancha-purple-dhoti-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Pancha Dhoti with Shawl for Religious Puja Ceremonies in Purple Color"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/p/a/pancha-purple-dhoti-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/p/a/pancha-purple-dhoti-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -7550,7 +7550,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Pancha Dhoti with Shawl for Religious Puja Ceremonies in Purple Color"
-                                                      href="https://vedicvaani.com/pancha-dhoti-in-purple-color"
+                                                      href="https://sanskar.com/pancha-dhoti-in-purple-color"
                                                     >
                                                       Pancha Dhoti with Shawl
                                                       for Religious Puja
@@ -7583,7 +7583,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13229/"
+                                                          action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13229/"
                                                           method="post"
                                                         >
                                                           <input
@@ -7666,7 +7666,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/prayer-archana-dhoti"
+                                                  href="https://sanskar.com/prayer-archana-dhoti"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -7680,13 +7680,13 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Prayer Vastra Dhoti for Pooja Archana Religious Ceremonies"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/2/5/2530-red-dhoti-set-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/2/5/2530-red-dhoti-set-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Prayer Vastra Dhoti for Pooja Archana Religious Ceremonies"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/2/5/2530-red-dhoti-set-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/2/5/2530-red-dhoti-set-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -7704,7 +7704,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Prayer Vastra Dhoti for Pooja Archana Religious Ceremonies"
-                                                      href="https://vedicvaani.com/prayer-archana-dhoti"
+                                                      href="https://sanskar.com/prayer-archana-dhoti"
                                                     >
                                                       Prayer Vastra Dhoti for
                                                       Pooja Archana Religious
@@ -7737,7 +7737,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/prayer-archana-dhoti?options=cart"
+                                                          action="https://sanskar.com/prayer-archana-dhoti?options=cart"
                                                           method="post"
                                                         >
                                                           <input
@@ -7827,20 +7827,20 @@ var MyClass = React.createClass({
                       <div className="row">
                         <div className="col-sm-24">
                           <a
-                            href="https://vedicvaani.com/puja-asans-mats/meditation-kusha-mats-asans"
+                            href="https://sanskar.com/puja-asans-mats/meditation-kusha-mats-asans"
                             aria-label="Meditation Kusha"
                           >
                             <picture>
                               <source
                                 type="image/webp"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/meditation-mats-2.webp"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/meditation-mats-2.webp"
                               />
                               <source
                                 type="image/jpg"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/meditation-mats-2.jpg"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/meditation-mats-2.jpg"
                               />
                               <img
-                                src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/meditation-mats-2.jpg"
+                                src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/meditation-mats-2.jpg"
                                 alt=""
                                 loading="lazy"
                               />
@@ -7849,20 +7849,20 @@ var MyClass = React.createClass({
                           <br />
                           <br />{" "}
                           <a
-                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/puja-thalis"
+                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/puja-thalis"
                             aria-label="Puja Thalis"
                           >
                             <picture>
                               <source
                                 type="image/webp"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/puja-thalis-4.webp"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/puja-thalis-4.webp"
                               />
                               <source
                                 type="image/jpg"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/puja-thalis-4.jpg"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/puja-thalis-4.jpg"
                               />
                               <img
-                                src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/puja-thalis-4.jpg"
+                                src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/puja-thalis-4.jpg"
                                 alt=""
                                 loading="lazy"
                               />
@@ -7880,7 +7880,7 @@ var MyClass = React.createClass({
                       <p className="actions">
                         <a
                           className="action view-more"
-                          href="https://vedicvaani.com/agarbatti-and-dhoops/vedic-divine-collection"
+                          href="https://sanskar.com/agarbatti-and-dhoops/vedic-divine-collection"
                         >
                           View all
                         </a>
@@ -7917,7 +7917,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/premium-incense-set"
+                                            href="https://sanskar.com/premium-incense-set"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -7931,15 +7931,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Exotic Pure Premium Traditional Vedic Incense - set of 7"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/i/n/exotic-pure-premium-traditional-vedic-incense-set-of-7.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/i/n/exotic-pure-premium-traditional-vedic-incense-set-of-7.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/i/n/exotic-pure-premium-traditional-vedic-incense-set-of-7.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/i/n/exotic-pure-premium-traditional-vedic-incense-set-of-7.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Exotic Pure Premium Traditional Vedic Incense - set of 7"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/i/n/exotic-pure-premium-traditional-vedic-incense-set-of-7.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/i/n/exotic-pure-premium-traditional-vedic-incense-set-of-7.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/i/n/exotic-pure-premium-traditional-vedic-incense-set-of-7.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/i/n/exotic-pure-premium-traditional-vedic-incense-set-of-7.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -7955,7 +7955,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Exotic Pure Premium Traditional Vedic Incense - set of 7"
-                                                href="https://vedicvaani.com/premium-incense-set"
+                                                href="https://sanskar.com/premium-incense-set"
                                               >
                                                 Exotic Pure Premium Traditional
                                                 Vedic Incense - set of 7
@@ -7987,7 +7987,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/11138/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/11138/"
                                                     method="post"
                                                   >
                                                     <input
@@ -8068,7 +8068,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/javadhu-worship-kit"
+                                            href="https://sanskar.com/javadhu-worship-kit"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -8082,15 +8082,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Javadhu Traditional Sacred Worship Kit AZ1405"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/j/a/javadhu-traditional-sacred-worship-kit.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/j/a/javadhu-traditional-sacred-worship-kit.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/j/a/javadhu-traditional-sacred-worship-kit.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/j/a/javadhu-traditional-sacred-worship-kit.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Javadhu Traditional Sacred Worship Kit AZ1405"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/j/a/javadhu-traditional-sacred-worship-kit.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/j/a/javadhu-traditional-sacred-worship-kit.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/j/a/javadhu-traditional-sacred-worship-kit.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/j/a/javadhu-traditional-sacred-worship-kit.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -8106,7 +8106,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Javadhu Traditional Sacred Worship Kit"
-                                                href="https://vedicvaani.com/javadhu-worship-kit"
+                                                href="https://sanskar.com/javadhu-worship-kit"
                                               >
                                                 Javadhu Traditional Sacred
                                                 Worship Kit
@@ -8138,7 +8138,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/javadhu-worship-kit?options=cart"
+                                                    action="https://sanskar.com/javadhu-worship-kit?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -8219,7 +8219,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/long-burning-incense"
+                                            href="https://sanskar.com/long-burning-incense"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -8233,15 +8233,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Gajanana Vinayaka Utsav Incense (6 hour Long Burning Incense)"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/gajanana-vinayaka-utsav-incense-6-hour-long-burning-incense.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/gajanana-vinayaka-utsav-incense-6-hour-long-burning-incense.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/gajanana-vinayaka-utsav-incense-6-hour-long-burning-incense.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/gajanana-vinayaka-utsav-incense-6-hour-long-burning-incense.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Gajanana Vinayaka Utsav Incense (6 hour Long Burning Incense)"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/gajanana-vinayaka-utsav-incense-6-hour-long-burning-incense.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/gajanana-vinayaka-utsav-incense-6-hour-long-burning-incense.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/gajanana-vinayaka-utsav-incense-6-hour-long-burning-incense.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/a/gajanana-vinayaka-utsav-incense-6-hour-long-burning-incense.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -8257,7 +8257,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Gajanana Vinayaka Utsav Incense (6 hour Long Burning Incense)"
-                                                href="https://vedicvaani.com/long-burning-incense"
+                                                href="https://sanskar.com/long-burning-incense"
                                               >
                                                 Gajanana Vinayaka Utsav Incense
                                                 (6 hour Long Burning Incense)
@@ -8289,7 +8289,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/10883/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/10883/"
                                                     method="post"
                                                   >
                                                     <input
@@ -8370,7 +8370,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/natural-incense-set"
+                                            href="https://sanskar.com/natural-incense-set"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -8384,15 +8384,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Sacred God's Kasturi Musk Amber natural incense - Set of 3 pack"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/sacred-gods-kasturi-musk-amber-natural-incense-set-of-3-packdGQQ.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/sacred-gods-kasturi-musk-amber-natural-incense-set-of-3-packdGQQ.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/sacred-gods-kasturi-musk-amber-natural-incense-set-of-3-packdGQQ.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/sacred-gods-kasturi-musk-amber-natural-incense-set-of-3-packdGQQ.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Sacred God's Kasturi Musk Amber natural incense - Set of 3 pack"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/sacred-gods-kasturi-musk-amber-natural-incense-set-of-3-packdGQQ.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/sacred-gods-kasturi-musk-amber-natural-incense-set-of-3-packdGQQ.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/sacred-gods-kasturi-musk-amber-natural-incense-set-of-3-packdGQQ.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/sacred-gods-kasturi-musk-amber-natural-incense-set-of-3-packdGQQ.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -8408,7 +8408,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Sacred God's Kasturi Musk Amber natural incense - Set of 3 pack"
-                                                href="https://vedicvaani.com/natural-incense-set"
+                                                href="https://sanskar.com/natural-incense-set"
                                               >
                                                 Sacred God's Kasturi Musk Amber
                                                 natural incense - Set of 3 pack
@@ -8440,7 +8440,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/natural-incense-set?options=cart"
+                                                    action="https://sanskar.com/natural-incense-set?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -8521,7 +8521,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/vedic-yog-sutra-incense"
+                                            href="https://sanskar.com/vedic-yog-sutra-incense"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -8535,15 +8535,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Vedic Yog Sutra Incense Sticks - Set of 8 Packs"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/v/e/vedic-yog-sutra-incense-sticks-set-of-8-packsVdse.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/v/e/vedic-yog-sutra-incense-sticks-set-of-8-packsVdse.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/v/e/vedic-yog-sutra-incense-sticks-set-of-8-packsVdse.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/v/e/vedic-yog-sutra-incense-sticks-set-of-8-packsVdse.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Vedic Yog Sutra Incense Sticks - Set of 8 Packs"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/v/e/vedic-yog-sutra-incense-sticks-set-of-8-packsVdse.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/v/e/vedic-yog-sutra-incense-sticks-set-of-8-packsVdse.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/v/e/vedic-yog-sutra-incense-sticks-set-of-8-packsVdse.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/v/e/vedic-yog-sutra-incense-sticks-set-of-8-packsVdse.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -8559,7 +8559,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Vedic Yog Sutra Incense Sticks - Set of 8 Packs"
-                                                href="https://vedicvaani.com/vedic-yog-sutra-incense"
+                                                href="https://sanskar.com/vedic-yog-sutra-incense"
                                               >
                                                 Vedic Yog Sutra Incense Sticks -
                                                 Set of 8 Packs
@@ -8591,7 +8591,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/vedic-yog-sutra-incense?options=cart"
+                                                    action="https://sanskar.com/vedic-yog-sutra-incense?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -8672,7 +8672,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/navdurga-navratri-incense"
+                                            href="https://sanskar.com/navdurga-navratri-incense"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -8686,15 +8686,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Navdurga Navratri Bhakti Sadhna Set of 9 packs"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/navdurga-navratri-bhakti-sadhna-set-of-9-packsn3lO.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/navdurga-navratri-bhakti-sadhna-set-of-9-packsn3lO.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/navdurga-navratri-bhakti-sadhna-set-of-9-packsn3lO.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/navdurga-navratri-bhakti-sadhna-set-of-9-packsn3lO.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Navdurga Navratri Bhakti Sadhna Set of 9 packs"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/navdurga-navratri-bhakti-sadhna-set-of-9-packsn3lO.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/navdurga-navratri-bhakti-sadhna-set-of-9-packsn3lO.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/navdurga-navratri-bhakti-sadhna-set-of-9-packsn3lO.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/navdurga-navratri-bhakti-sadhna-set-of-9-packsn3lO.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -8710,7 +8710,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Navdurga Navratri Bhakti Sadhna Set of 9 packs"
-                                                href="https://vedicvaani.com/navdurga-navratri-incense"
+                                                href="https://sanskar.com/navdurga-navratri-incense"
                                               >
                                                 Navdurga Navratri Bhakti Sadhna
                                                 Set of 9 packs
@@ -8742,7 +8742,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/navdurga-navratri-incense?options=cart"
+                                                    action="https://sanskar.com/navdurga-navratri-incense?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -8823,7 +8823,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/god-blessing-nagchampa-incense"
+                                            href="https://sanskar.com/god-blessing-nagchampa-incense"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -8837,13 +8837,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Vedic Nagchampa God's Blessing Series (SET OF 10 Masala Incense)"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/o/vedic-nagchampa-gods-blessing-series-set-of-10-masala-incense.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/o/vedic-nagchampa-gods-blessing-series-set-of-10-masala-incense.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Vedic Nagchampa God's Blessing Series (SET OF 10 Masala Incense)"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/o/vedic-nagchampa-gods-blessing-series-set-of-10-masala-incense.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/g/o/vedic-nagchampa-gods-blessing-series-set-of-10-masala-incense.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -8859,7 +8859,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Vedic Nagchampa God's Blessing Series (SET OF 10 Masala Incense)"
-                                                href="https://vedicvaani.com/god-blessing-nagchampa-incense"
+                                                href="https://sanskar.com/god-blessing-nagchampa-incense"
                                               >
                                                 Vedic Nagchampa God's Blessing
                                                 Series (SET OF 10 Masala
@@ -8892,7 +8892,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/god-blessing-nagchampa-incense?options=cart"
+                                                    action="https://sanskar.com/god-blessing-nagchampa-incense?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -8973,7 +8973,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/devotional-vitthal-pandurang-incense"
+                                            href="https://sanskar.com/devotional-vitthal-pandurang-incense"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -8987,13 +8987,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Devotional Vitthal Pandurang Incense Collection"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/e/devotional-vitthal-pandurang-incense-collection.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/e/devotional-vitthal-pandurang-incense-collection.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Devotional Vitthal Pandurang Incense Collection"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/e/devotional-vitthal-pandurang-incense-collection.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/e/devotional-vitthal-pandurang-incense-collection.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -9009,7 +9009,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Devotional Vitthal Pandurang Incense Collection"
-                                                href="https://vedicvaani.com/devotional-vitthal-pandurang-incense"
+                                                href="https://sanskar.com/devotional-vitthal-pandurang-incense"
                                               >
                                                 Devotional Vitthal Pandurang
                                                 Incense Collection
@@ -9041,7 +9041,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/devotional-vitthal-pandurang-incense?options=cart"
+                                                    action="https://sanskar.com/devotional-vitthal-pandurang-incense?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -9136,7 +9136,7 @@ var MyClass = React.createClass({
                           style={{ background: "#391e66", color: "#ffffff" }}
                         >
                           <p className="b-title h2">
-                            <a href="https://vedicvaani.com/pujas-and-yagnas/online-puja">
+                            <a href="https://sanskar.com/pujas-and-yagnas/online-puja">
                               Online Puja
                             </a>
                           </p>
@@ -9167,7 +9167,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/ganesh-puja"
+                                                href="https://sanskar.com/ganesh-puja"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -9181,15 +9181,15 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Ganesh Puja for Good Fortune & Wealth PS01"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/g/a/ganesh-puja-for-good-fortune-wealth-ps01.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/g/a/ganesh-puja-for-good-fortune-wealth-ps01.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/g/a/ganesh-puja-for-good-fortune-wealth-ps01.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/g/a/ganesh-puja-for-good-fortune-wealth-ps01.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Ganesh Puja for Good Fortune & Wealth PS01"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/g/a/ganesh-puja-for-good-fortune-wealth-ps01.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/g/a/ganesh-puja-for-good-fortune-wealth-ps01.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/g/a/ganesh-puja-for-good-fortune-wealth-ps01.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/g/a/ganesh-puja-for-good-fortune-wealth-ps01.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -9199,7 +9199,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/ganesh-puja?options=cart"
+                                                    action="https://sanskar.com/ganesh-puja?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -9235,7 +9235,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Ganesh Puja for Good Fortune & Wealth"
-                                                    href="https://vedicvaani.com/ganesh-puja"
+                                                    href="https://sanskar.com/ganesh-puja"
                                                   >
                                                     Ganesh Puja for Good Fortune
                                                     &amp; Wealth
@@ -9270,7 +9270,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/lakshmi-puja"
+                                                href="https://sanskar.com/lakshmi-puja"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -9284,15 +9284,15 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="MahaLakshmi Puja for Wealth and Harmony PS02"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/m/a/mahalakshmi-puja-for-wealth-and-harmony-ps02.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/m/a/mahalakshmi-puja-for-wealth-and-harmony-ps02.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/m/a/mahalakshmi-puja-for-wealth-and-harmony-ps02.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/m/a/mahalakshmi-puja-for-wealth-and-harmony-ps02.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="MahaLakshmi Puja for Wealth and Harmony PS02"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/l/a/mahalakshmi-puja-for-wealth-and-harmony-ps02.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/l/a/mahalakshmi-puja-for-wealth-and-harmony-ps02.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/l/a/mahalakshmi-puja-for-wealth-and-harmony-ps02.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/l/a/mahalakshmi-puja-for-wealth-and-harmony-ps02.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -9302,7 +9302,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/lakshmi-puja?options=cart"
+                                                    action="https://sanskar.com/lakshmi-puja?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -9338,7 +9338,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="MahaLakshmi Puja for Wealth and Harmony"
-                                                    href="https://vedicvaani.com/lakshmi-puja"
+                                                    href="https://sanskar.com/lakshmi-puja"
                                                   >
                                                     MahaLakshmi Puja for Wealth
                                                     and Harmony
@@ -9380,7 +9380,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/navgraha-puja"
+                                                href="https://sanskar.com/navgraha-puja"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -9394,15 +9394,15 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Navagraha (9 planets) Shanti Puja PS04"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/n/a/navagraha-9-planets-shanti-puja-ps04.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/n/a/navagraha-9-planets-shanti-puja-ps04.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/n/a/navagraha-9-planets-shanti-puja-ps04.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/n/a/navagraha-9-planets-shanti-puja-ps04.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Navagraha (9 planets) Shanti Puja PS04"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/n/a/navagraha-9-planets-shanti-puja-ps04.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/n/a/navagraha-9-planets-shanti-puja-ps04.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/n/a/navagraha-9-planets-shanti-puja-ps04.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/n/a/navagraha-9-planets-shanti-puja-ps04.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -9412,7 +9412,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/navgraha-puja?options=cart"
+                                                    action="https://sanskar.com/navgraha-puja?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -9448,7 +9448,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Navagraha (9 planets) Shanti Puja"
-                                                    href="https://vedicvaani.com/navgraha-puja"
+                                                    href="https://sanskar.com/navgraha-puja"
                                                   >
                                                     Navagraha (9 planets) Shanti
                                                     Puja
@@ -9483,7 +9483,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/durga-puja"
+                                                href="https://sanskar.com/durga-puja"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -9497,15 +9497,15 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Durga Puja all kind of Adversaries, Evil forces, Evil Energies PS05"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/d/u/durga-puja-all-kind-of-adversaries-evil-forces-evil-energies-ps05.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/d/u/durga-puja-all-kind-of-adversaries-evil-forces-evil-energies-ps05.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/d/u/durga-puja-all-kind-of-adversaries-evil-forces-evil-energies-ps05.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/d/u/durga-puja-all-kind-of-adversaries-evil-forces-evil-energies-ps05.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Durga Puja all kind of Adversaries, Evil forces, Evil Energies PS05"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/d/u/durga-puja-all-kind-of-adversaries-evil-forces-evil-energies-ps05.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/d/u/durga-puja-all-kind-of-adversaries-evil-forces-evil-energies-ps05.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/d/u/durga-puja-all-kind-of-adversaries-evil-forces-evil-energies-ps05.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/d/u/durga-puja-all-kind-of-adversaries-evil-forces-evil-energies-ps05.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -9515,7 +9515,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/durga-puja?options=cart"
+                                                    action="https://sanskar.com/durga-puja?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -9551,7 +9551,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Durga Puja all kind of Adversaries, Evil forces, Evil Energies"
-                                                    href="https://vedicvaani.com/durga-puja"
+                                                    href="https://sanskar.com/durga-puja"
                                                   >
                                                     Durga Puja all kind of
                                                     Adversaries, Evil forces,
@@ -9594,7 +9594,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/shani-puja"
+                                                href="https://sanskar.com/shani-puja"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -9608,15 +9608,15 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Shani (Saturn) Puja for Sade Sati PS06"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-puja-for-sade-sati-ps06M4ZP.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-puja-for-sade-sati-ps06M4ZP.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-puja-for-sade-sati-ps06M4ZP.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-puja-for-sade-sati-ps06M4ZP.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Shani (Saturn) Puja for Sade Sati PS06"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-puja-for-sade-sati-ps06.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-puja-for-sade-sati-ps06.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-puja-for-sade-sati-ps06.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-puja-for-sade-sati-ps06.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -9626,7 +9626,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/shani-puja?options=cart"
+                                                    action="https://sanskar.com/shani-puja?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -9662,7 +9662,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Shani (Saturn) Puja for Sade Sati"
-                                                    href="https://vedicvaani.com/shani-puja"
+                                                    href="https://sanskar.com/shani-puja"
                                                   >
                                                     Shani (Saturn) Puja for Sade
                                                     Sati
@@ -9697,7 +9697,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/shani-dosh-nivaran-puja"
+                                                href="https://sanskar.com/shani-dosh-nivaran-puja"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -9711,15 +9711,15 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Shani / Saturn Dosh Nivaran Puja  PS15"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-dosh-nivaran-puja-ps15.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-dosh-nivaran-puja-ps15.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-dosh-nivaran-puja-ps15.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-dosh-nivaran-puja-ps15.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Shani / Saturn Dosh Nivaran Puja  PS15"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-dosh-nivaran-puja-ps15.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-dosh-nivaran-puja-ps15.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-dosh-nivaran-puja-ps15.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-dosh-nivaran-puja-ps15.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -9729,7 +9729,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/shani-dosh-nivaran-puja?options=cart"
+                                                    action="https://sanskar.com/shani-dosh-nivaran-puja?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -9765,7 +9765,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Shani / Saturn Dosh Nivaran Puja "
-                                                    href="https://vedicvaani.com/shani-dosh-nivaran-puja"
+                                                    href="https://sanskar.com/shani-dosh-nivaran-puja"
                                                   >
                                                     Shani / Saturn Dosh Nivaran
                                                     Puja
@@ -9807,7 +9807,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/ganesh-mantra-japa"
+                                                href="https://sanskar.com/ganesh-mantra-japa"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -9821,13 +9821,13 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Ganesh Mantra Japa for Removing Obstacles in Life PS27"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/g/a/ganesh-mantra-japa-for-removing-obstacles-in-life-ps27.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/g/a/ganesh-mantra-japa-for-removing-obstacles-in-life-ps27.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Ganesh Mantra Japa for Removing Obstacles in Life PS27"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/g/a/ganesh-mantra-japa-for-removing-obstacles-in-life-ps27.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/g/a/ganesh-mantra-japa-for-removing-obstacles-in-life-ps27.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -9837,7 +9837,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/ganesh-mantra-japa?options=cart"
+                                                    action="https://sanskar.com/ganesh-mantra-japa?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -9873,7 +9873,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Ganesh Mantra Japa for Removing Obstacles in Life"
-                                                    href="https://vedicvaani.com/ganesh-mantra-japa"
+                                                    href="https://sanskar.com/ganesh-mantra-japa"
                                                   >
                                                     Ganesh Mantra Japa for
                                                     Removing Obstacles in Life
@@ -9908,7 +9908,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/laxmi-mantra-japa"
+                                                href="https://sanskar.com/laxmi-mantra-japa"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -9922,13 +9922,13 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Laxmi mantra Japa/Puja for Financial Issues PS28"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/p/s/laxmi-mantra-japapuja-for-financial-issues-ps28.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/p/s/laxmi-mantra-japapuja-for-financial-issues-ps28.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Laxmi mantra Japa/Puja for Financial Issues PS28"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/p/s/laxmi-mantra-japapuja-for-financial-issues-ps28.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/p/s/laxmi-mantra-japapuja-for-financial-issues-ps28.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -9938,7 +9938,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/laxmi-mantra-japa?options=cart"
+                                                    action="https://sanskar.com/laxmi-mantra-japa?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -9974,7 +9974,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Laxmi mantra Japa/Puja for Financial Issues"
-                                                    href="https://vedicvaani.com/laxmi-mantra-japa"
+                                                    href="https://sanskar.com/laxmi-mantra-japa"
                                                   >
                                                     Laxmi mantra Japa/Puja for
                                                     Financial Issues
@@ -10016,7 +10016,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/shani-saturn-mantra-siddhi-japa-and-yagna"
+                                                href="https://sanskar.com/shani-saturn-mantra-siddhi-japa-and-yagna"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -10030,13 +10030,13 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Shani Saturn Mantra Siddhi Japa and Yagna for Sade Sati in Birth Chart PS29"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-mantra-siddhi-japa-and-yagna-for-sade-sati-in-birth-chart-ps29.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-mantra-siddhi-japa-and-yagna-for-sade-sati-in-birth-chart-ps29.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Shani Saturn Mantra Siddhi Japa and Yagna for Sade Sati in Birth Chart PS29"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-mantra-siddhi-japa-and-yagna-for-sade-sati-in-birth-chart-ps29.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/h/shani-saturn-mantra-siddhi-japa-and-yagna-for-sade-sati-in-birth-chart-ps29.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -10046,7 +10046,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/shani-saturn-mantra-siddhi-japa-and-yagna?options=cart"
+                                                    action="https://sanskar.com/shani-saturn-mantra-siddhi-japa-and-yagna?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -10082,7 +10082,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Shani Saturn Mantra Siddhi Japa and Yagna for Sade Sati in Birth Chart"
-                                                    href="https://vedicvaani.com/shani-saturn-mantra-siddhi-japa-and-yagna"
+                                                    href="https://sanskar.com/shani-saturn-mantra-siddhi-japa-and-yagna"
                                                   >
                                                     Shani Saturn Mantra Siddhi
                                                     Japa and Yagna for Sade Sati
@@ -10118,7 +10118,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/mahamrityunjaya-mantra-japa"
+                                                href="https://sanskar.com/mahamrityunjaya-mantra-japa"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -10132,13 +10132,13 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Mahamrityunjaya mantra Japa PS30"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/m/a/mahamrityunjaya-mantra-japa-ps30.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/m/a/mahamrityunjaya-mantra-japa-ps30.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Mahamrityunjaya mantra Japa PS30"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/m/a/mahamrityunjaya-mantra-japa-ps30.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/m/a/mahamrityunjaya-mantra-japa-ps30.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -10148,7 +10148,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/mahamrityunjaya-mantra-japa?options=cart"
+                                                    action="https://sanskar.com/mahamrityunjaya-mantra-japa?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -10184,7 +10184,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Mahamrityunjaya mantra Japa"
-                                                    href="https://vedicvaani.com/mahamrityunjaya-mantra-japa"
+                                                    href="https://sanskar.com/mahamrityunjaya-mantra-japa"
                                                   >
                                                     Mahamrityunjaya mantra Japa
                                                   </a>
@@ -10225,7 +10225,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/gayatri-mantra-japa"
+                                                href="https://sanskar.com/gayatri-mantra-japa"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -10239,13 +10239,13 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Gayatri Mantra Japa/Puja for Knowledge, Wisdom and Intelligence PS31"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/p/s/gayatri-mantra-japapuja-for-knowledge-wisdom-and-intelligence-ps31.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/p/s/gayatri-mantra-japapuja-for-knowledge-wisdom-and-intelligence-ps31.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Gayatri Mantra Japa/Puja for Knowledge, Wisdom and Intelligence PS31"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/p/s/gayatri-mantra-japapuja-for-knowledge-wisdom-and-intelligence-ps31.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/p/s/gayatri-mantra-japapuja-for-knowledge-wisdom-and-intelligence-ps31.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -10255,7 +10255,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/gayatri-mantra-japa?options=cart"
+                                                    action="https://sanskar.com/gayatri-mantra-japa?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -10291,7 +10291,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Gayatri Mantra Japa/Puja for Knowledge, Wisdom and Intelligence"
-                                                    href="https://vedicvaani.com/gayatri-mantra-japa"
+                                                    href="https://sanskar.com/gayatri-mantra-japa"
                                                   >
                                                     Gayatri Mantra Japa/Puja for
                                                     Knowledge, Wisdom and
@@ -10327,7 +10327,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/sudarshan-gayatri-mantra-siddhi-japa-and-yagna"
+                                                href="https://sanskar.com/sudarshan-gayatri-mantra-siddhi-japa-and-yagna"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -10341,13 +10341,13 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Sudarshan Gayatri Mantra Siddhi Japa and Yagna PS37"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/u/sudarshan-gayatri-mantra-siddhi-japa-and-yagna-ps37.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/u/sudarshan-gayatri-mantra-siddhi-japa-and-yagna-ps37.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Sudarshan Gayatri Mantra Siddhi Japa and Yagna PS37"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/u/sudarshan-gayatri-mantra-siddhi-japa-and-yagna-ps37.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/u/sudarshan-gayatri-mantra-siddhi-japa-and-yagna-ps37.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -10357,7 +10357,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/sudarshan-gayatri-mantra-siddhi-japa-and-yagna?options=cart"
+                                                    action="https://sanskar.com/sudarshan-gayatri-mantra-siddhi-japa-and-yagna?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -10393,7 +10393,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Sudarshan Gayatri Mantra Siddhi Japa and Yagna"
-                                                    href="https://vedicvaani.com/sudarshan-gayatri-mantra-siddhi-japa-and-yagna"
+                                                    href="https://sanskar.com/sudarshan-gayatri-mantra-siddhi-japa-and-yagna"
                                                   >
                                                     Sudarshan Gayatri Mantra
                                                     Siddhi Japa and Yagna
@@ -10464,7 +10464,7 @@ var MyClass = React.createClass({
                           style={{ background: "#391e66", color: "#ffffff" }}
                         >
                           <p className="b-title h2">
-                            <a href="https://vedicvaani.com/deity-idols-and-pictures/kanha-ji-poshak">
+                            <a href="https://sanskar.com/deity-idols-and-pictures/kanha-ji-poshak">
                               Kanha Ji Poshak
                             </a>
                           </p>
@@ -10495,7 +10495,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/peacock-8-inches-kanha-dress"
+                                                href="https://sanskar.com/peacock-8-inches-kanha-dress"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -10509,15 +10509,15 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Handcrafted Peacock Work Poshak for Baby Krishna-Divine Jardosi Creation AZ5842"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5842.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5842.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5842.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5842.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Handcrafted Peacock Work Poshak for Baby Krishna-Divine Jardosi Creation AZ5842"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5842.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5842.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5842.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5842.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -10527,7 +10527,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13346/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13346/"
                                                     method="post"
                                                   >
                                                     <input
@@ -10563,7 +10563,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Handcrafted Peacock Work Poshak for Baby Krishna-Divine Jardosi Creation"
-                                                    href="https://vedicvaani.com/peacock-8-inches-kanha-dress"
+                                                    href="https://sanskar.com/peacock-8-inches-kanha-dress"
                                                   >
                                                     Handcrafted Peacock Work
                                                     Poshak for Baby
@@ -10600,7 +10600,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/zardosi-bal-gopal-dress"
+                                                href="https://sanskar.com/zardosi-bal-gopal-dress"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -10614,15 +10614,15 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Zardosi Designer Poshak for Laddu Gopal/Kanha Ji  AZ5848"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5848.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5848.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5848.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5848.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Zardosi Designer Poshak for Laddu Gopal/Kanha Ji  AZ5848"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5848.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5848.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5848.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5848.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -10632,7 +10632,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13351/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13351/"
                                                     method="post"
                                                   >
                                                     <input
@@ -10668,7 +10668,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Zardosi Designer Poshak for Laddu Gopal/Kanha Ji "
-                                                    href="https://vedicvaani.com/zardosi-bal-gopal-dress"
+                                                    href="https://sanskar.com/zardosi-bal-gopal-dress"
                                                   >
                                                     Zardosi Designer Poshak for
                                                     Laddu Gopal/Kanha Ji
@@ -10710,7 +10710,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/baby-kanha-dess-poshak"
+                                                href="https://sanskar.com/baby-kanha-dess-poshak"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -10724,15 +10724,15 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Designer Dress Poshak for Bal Swaroop Kanha Ji in Green Color AZ5850"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850_1.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850_1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850_1.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850_1.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Designer Dress Poshak for Bal Swaroop Kanha Ji in Green Color AZ5850"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850_1.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850_1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850_1.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850_1.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -10755,7 +10755,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Designer Dress Poshak for Bal Swaroop Kanha Ji in Green Color"
-                                                    href="https://vedicvaani.com/baby-kanha-dess-poshak"
+                                                    href="https://sanskar.com/baby-kanha-dess-poshak"
                                                   >
                                                     Designer Dress Poshak for
                                                     Bal Swaroop Kanha Ji in
@@ -10791,7 +10791,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/little-baby-kanha-dress"
+                                                href="https://sanskar.com/little-baby-kanha-dress"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -10805,15 +10805,15 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Janmashtami Laddu Gopal Dress/Poshak for Bal Gopal/ Baby Krishna AZ5851"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Janmashtami Laddu Gopal Dress/Poshak for Bal Gopal/ Baby Krishna AZ5851"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5851_az5850.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -10823,7 +10823,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13354/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13354/"
                                                     method="post"
                                                   >
                                                     <input
@@ -10859,7 +10859,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Janmashtami Laddu Gopal Dress/Poshak for Bal Gopal/ Baby Krishna"
-                                                    href="https://vedicvaani.com/little-baby-kanha-dress"
+                                                    href="https://sanskar.com/little-baby-kanha-dress"
                                                   >
                                                     Janmashtami Laddu Gopal
                                                     Dress/Poshak for Bal Gopal/
@@ -10902,7 +10902,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/yellow-poshak-for-bal-gopal"
+                                                href="https://sanskar.com/yellow-poshak-for-bal-gopal"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -10916,13 +10916,13 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Yellow Designer Dress/Poshak for Little Kanha Ji Idol AZ5854"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5854_1_.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5854_1_.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Yellow Designer Dress/Poshak for Little Kanha Ji Idol AZ5854"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5854_1_.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5854_1_.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -10932,7 +10932,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13358/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13358/"
                                                     method="post"
                                                   >
                                                     <input
@@ -10968,7 +10968,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Yellow Designer Dress/Poshak for Little Kanha Ji Idol"
-                                                    href="https://vedicvaani.com/yellow-poshak-for-bal-gopal"
+                                                    href="https://sanskar.com/yellow-poshak-for-bal-gopal"
                                                   >
                                                     Yellow Designer Dress/Poshak
                                                     for Little Kanha Ji Idol
@@ -11003,7 +11003,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/poshak-for-bal-swaroop-krishna"
+                                                href="https://sanskar.com/poshak-for-bal-swaroop-krishna"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -11017,13 +11017,13 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Dress, Vastra, Poshak for Bal Gopal/Baby Krishna AZ5849"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5849.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5849.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Dress, Vastra, Poshak for Bal Gopal/Baby Krishna AZ5849"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5849.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/a/z/az5849.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -11033,7 +11033,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13352/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13352/"
                                                     method="post"
                                                   >
                                                     <input
@@ -11069,7 +11069,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Dress, Vastra, Poshak for Bal Gopal/Baby Krishna"
-                                                    href="https://vedicvaani.com/poshak-for-bal-swaroop-krishna"
+                                                    href="https://sanskar.com/poshak-for-bal-swaroop-krishna"
                                                   >
                                                     Dress, Vastra, Poshak for
                                                     Bal Gopal/Baby Krishna
@@ -11111,7 +11111,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/krishnaji-dress"
+                                                href="https://sanskar.com/krishnaji-dress"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -11125,13 +11125,13 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Krishnaji Poshak Maroon Zardosi Moti Work AZ5846"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/1/2/12-inches-red-1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/1/2/12-inches-red-1.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Krishnaji Poshak Maroon Zardosi Moti Work AZ5846"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/1/2/12-inches-red-1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/1/2/12-inches-red-1.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -11141,7 +11141,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13349/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13349/"
                                                     method="post"
                                                   >
                                                     <input
@@ -11176,7 +11176,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Krishnaji Poshak Maroon Zardosi Moti Work"
-                                                    href="https://vedicvaani.com/krishnaji-dress"
+                                                    href="https://sanskar.com/krishnaji-dress"
                                                   >
                                                     Krishnaji Poshak Maroon
                                                     Zardosi Moti Work
@@ -11211,7 +11211,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/green-poshak-for-bal-gopal"
+                                                href="https://sanskar.com/green-poshak-for-bal-gopal"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -11225,13 +11225,13 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Laddu Gopal / Kanha Vastra Dress (Poshak) in Green Color AZ5844"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/4/-/4-inches-green-1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/4/-/4-inches-green-1.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Laddu Gopal / Kanha Vastra Dress (Poshak) in Green Color AZ5844"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/4/-/4-inches-green-1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/4/-/4-inches-green-1.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -11241,7 +11241,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13348/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13348/"
                                                     method="post"
                                                   >
                                                     <input
@@ -11276,7 +11276,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Laddu Gopal / Kanha Vastra Dress (Poshak) in Green Color"
-                                                    href="https://vedicvaani.com/green-poshak-for-bal-gopal"
+                                                    href="https://sanskar.com/green-poshak-for-bal-gopal"
                                                   >
                                                     Laddu Gopal / Kanha Vastra
                                                     Dress (Poshak) in Green
@@ -11319,7 +11319,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/zardosi-dress-for-kanha"
+                                                href="https://sanskar.com/zardosi-dress-for-kanha"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -11333,13 +11333,13 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Zardosi Designer Poshak for Laddu Gopal/Kanha Ji AZ5843"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/4/-/4-inches-1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/4/-/4-inches-1.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Zardosi Designer Poshak for Laddu Gopal/Kanha Ji AZ5843"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/4/-/4-inches-1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/4/-/4-inches-1.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -11349,7 +11349,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13347/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13347/"
                                                     method="post"
                                                   >
                                                     <input
@@ -11384,7 +11384,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Zardosi Designer Poshak for Laddu Gopal/Kanha Ji"
-                                                    href="https://vedicvaani.com/zardosi-dress-for-kanha"
+                                                    href="https://sanskar.com/zardosi-dress-for-kanha"
                                                   >
                                                     Zardosi Designer Poshak for
                                                     Laddu Gopal/Kanha Ji
@@ -11419,7 +11419,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/vedic-dress-for-kanhaji"
+                                                href="https://sanskar.com/vedic-dress-for-kanhaji"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -11433,13 +11433,13 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Poshak/Dress for Baby Krishan/Kanhaji AZ5868"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/v/e/vedic-ladu-gopal-yellow-1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/v/e/vedic-ladu-gopal-yellow-1.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Poshak/Dress for Baby Krishan/Kanhaji AZ5868"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/v/e/vedic-ladu-gopal-yellow-1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/v/e/vedic-ladu-gopal-yellow-1.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -11449,7 +11449,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13372/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13372/"
                                                     method="post"
                                                   >
                                                     <input
@@ -11484,7 +11484,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Poshak/Dress for Baby Krishan/Kanhaji"
-                                                    href="https://vedicvaani.com/vedic-dress-for-kanhaji"
+                                                    href="https://sanskar.com/vedic-dress-for-kanhaji"
                                                   >
                                                     Poshak/Dress for Baby
                                                     Krishan/Kanhaji
@@ -11526,7 +11526,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/gopalji-dress-kanha"
+                                                href="https://sanskar.com/gopalji-dress-kanha"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -11540,15 +11540,15 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt="Gopalji Maroon Moti Work Zardosi Poshak AZ5847"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/1/0/10-inches-red-1.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/1/0/10-inches-red-1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/1/0/10-inches-red-1.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/1/0/10-inches-red-1.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt="Gopalji Maroon Moti Work Zardosi Poshak AZ5847"
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/1/0/10-inches-red-1.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/1/0/10-inches-red-1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/1/0/10-inches-red-1.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/1/0/10-inches-red-1.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -11558,7 +11558,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13350/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13350/"
                                                     method="post"
                                                   >
                                                     <input
@@ -11593,7 +11593,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title="Gopalji Maroon Moti Work Zardosi Poshak"
-                                                    href="https://vedicvaani.com/gopalji-dress-kanha"
+                                                    href="https://sanskar.com/gopalji-dress-kanha"
                                                   >
                                                     Gopalji Maroon Moti Work
                                                     Zardosi Poshak
@@ -11628,7 +11628,7 @@ var MyClass = React.createClass({
                                           <div className="product-item-info">
                                             <div className="product-item-top">
                                               <a
-                                                href="https://vedicvaani.com/set-of-outfit-for-krishna"
+                                                href="https://sanskar.com/set-of-outfit-for-krishna"
                                                 className="product photo product-item-photo"
                                               >
                                                 <span className="product-image-container">
@@ -11642,15 +11642,15 @@ var MyClass = React.createClass({
                                                       data-hasoptions={0}
                                                       className="product-image-photo main-img"
                                                       alt='10" Poshak/Outfit set for Bal Gopal Little Krishna AZ5898'
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/e/set-of-2-10-inches-1.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/e/set-of-2-10-inches-1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/e/set-of-2-10-inches-1.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/e/set-of-2-10-inches-1.jpg"
                                                       style={{}}
                                                     />
                                                     <img
                                                       className="product-image-photo hovered-img"
                                                       alt='10" Poshak/Outfit set for Bal Gopal Little Krishna AZ5898'
-                                                      src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/e/set-of-2-10-inches-1.jpg"
-                                                      data-src="https://vedicvaani.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/e/set-of-2-10-inches-1.jpg"
+                                                      src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/e/set-of-2-10-inches-1.jpg"
+                                                      data-src="https://sanskar.com/pub/media/catalog/product/cache/907e08d3ee960d62770abd7b6d845e3f/s/e/set-of-2-10-inches-1.jpg"
                                                       style={{}}
                                                     />
                                                   </span>
@@ -11660,7 +11660,7 @@ var MyClass = React.createClass({
                                                 <div className="actions-primary">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/set-of-outfit-for-krishna?options=cart"
+                                                    action="https://sanskar.com/set-of-outfit-for-krishna?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -11695,7 +11695,7 @@ var MyClass = React.createClass({
                                                   <a
                                                     className="product-item-link"
                                                     title='10" Poshak/Outfit set for Bal Gopal Little Krishna'
-                                                    href="https://vedicvaani.com/set-of-outfit-for-krishna"
+                                                    href="https://sanskar.com/set-of-outfit-for-krishna"
                                                   >
                                                     10" Poshak/Outfit set for
                                                     Bal Gopal Little Krishna
@@ -11754,7 +11754,7 @@ var MyClass = React.createClass({
                       <p className="actions">
                         <a
                           className="action view-more"
-                          href="https://vedicvaani.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks"
+                          href="https://sanskar.com/agarbatti-and-dhoops/dhoops-and-dhoop-sticks"
                         >
                           View all
                         </a>
@@ -11791,7 +11791,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/kashmiri-rose-premium-dhoop-sticks"
+                                            href="https://sanskar.com/kashmiri-rose-premium-dhoop-sticks"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -11805,15 +11805,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Kashmiri Rose Premium Dhoop Sticks DP91"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kashmiri-rose-dhoop-sticks-1.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kashmiri-rose-dhoop-sticks-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kashmiri-rose-dhoop-sticks-1.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kashmiri-rose-dhoop-sticks-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Kashmiri Rose Premium Dhoop Sticks DP91"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kashmiri-rose-dhoop-sticks-1.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kashmiri-rose-dhoop-sticks-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kashmiri-rose-dhoop-sticks-1.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kashmiri-rose-dhoop-sticks-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -11829,7 +11829,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Kashmiri Rose Premium Dhoop Sticks"
-                                                href="https://vedicvaani.com/kashmiri-rose-premium-dhoop-sticks"
+                                                href="https://sanskar.com/kashmiri-rose-premium-dhoop-sticks"
                                               >
                                                 Kashmiri Rose Premium Dhoop
                                                 Sticks
@@ -11861,7 +11861,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/kashmiri-rose-premium-dhoop-sticks?options=cart"
+                                                    action="https://sanskar.com/kashmiri-rose-premium-dhoop-sticks?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -11942,7 +11942,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/kawadi-dhop-cups"
+                                            href="https://sanskar.com/kawadi-dhop-cups"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -11956,15 +11956,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Kawadi Loban Dhoop Cups AZ1597"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kawadi-loban-1.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kawadi-loban-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kawadi-loban-1.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kawadi-loban-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Kawadi Loban Dhoop Cups AZ1597"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kawadi-loban-1.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kawadi-loban-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kawadi-loban-1.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/a/kawadi-loban-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -11980,7 +11980,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Kawadi Loban Dhoop Cups"
-                                                href="https://vedicvaani.com/kawadi-dhop-cups"
+                                                href="https://sanskar.com/kawadi-dhop-cups"
                                               >
                                                 Kawadi Loban Dhoop Cups
                                               </a>
@@ -12011,7 +12011,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/11443/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/11443/"
                                                     method="post"
                                                   >
                                                     <input
@@ -12092,7 +12092,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/benzoin-dhoop-powder"
+                                            href="https://sanskar.com/benzoin-dhoop-powder"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -12106,15 +12106,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Natural Loban Dhoop powder (Resin Gum Benzoin Powder) AZ1253"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/natural-loban-1.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/natural-loban-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/natural-loban-1.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/natural-loban-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Natural Loban Dhoop powder (Resin Gum Benzoin Powder) AZ1253"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/natural-loban-1.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/natural-loban-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/natural-loban-1.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/n/a/natural-loban-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -12130,7 +12130,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Natural Loban Dhoop powder (Resin Gum Benzoin Powder)"
-                                                href="https://vedicvaani.com/benzoin-dhoop-powder"
+                                                href="https://sanskar.com/benzoin-dhoop-powder"
                                               >
                                                 Natural Loban Dhoop powder
                                                 (Resin Gum Benzoin Powder)
@@ -12162,7 +12162,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/benzoin-dhoop-powder?options=cart"
+                                                    action="https://sanskar.com/benzoin-dhoop-powder?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -12243,7 +12243,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/oudh-and-loban-premium-dhoop-cup"
+                                            href="https://sanskar.com/oudh-and-loban-premium-dhoop-cup"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -12257,15 +12257,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Oudh And Loban Premium Dhoop Cup"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/o/u/oudh-loban-premium-cups_5_.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/o/u/oudh-loban-premium-cups_5_.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/o/u/oudh-loban-premium-cups_5_.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/o/u/oudh-loban-premium-cups_5_.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Oudh And Loban Premium Dhoop Cup"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/o/u/oudh-loban-premium-cups_5_.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/o/u/oudh-loban-premium-cups_5_.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/o/u/oudh-loban-premium-cups_5_.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/o/u/oudh-loban-premium-cups_5_.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -12281,7 +12281,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Oudh And Loban Premium Dhoop Cup"
-                                                href="https://vedicvaani.com/oudh-and-loban-premium-dhoop-cup"
+                                                href="https://sanskar.com/oudh-and-loban-premium-dhoop-cup"
                                               >
                                                 Oudh And Loban Premium Dhoop Cup
                                               </a>
@@ -12312,7 +12312,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/7127/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/7127/"
                                                     method="post"
                                                   >
                                                     <input
@@ -12393,7 +12393,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/loban-premium-dhoop-cup"
+                                            href="https://sanskar.com/loban-premium-dhoop-cup"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -12407,15 +12407,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Loban Premium Dhoop Cup DP96"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/l/o/loban-premium-dhoop-new_11_.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/l/o/loban-premium-dhoop-new_11_.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/l/o/loban-premium-dhoop-new_11_.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/l/o/loban-premium-dhoop-new_11_.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Loban Premium Dhoop Cup DP96"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/l/o/loban-premium-dhoop-new_11_.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/l/o/loban-premium-dhoop-new_11_.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/l/o/loban-premium-dhoop-new_11_.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/l/o/loban-premium-dhoop-new_11_.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -12431,7 +12431,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Loban Premium Dhoop Cup"
-                                                href="https://vedicvaani.com/loban-premium-dhoop-cup"
+                                                href="https://sanskar.com/loban-premium-dhoop-cup"
                                               >
                                                 Loban Premium Dhoop Cup
                                               </a>
@@ -12462,7 +12462,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/7121/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/7121/"
                                                     method="post"
                                                   >
                                                     <input
@@ -12543,7 +12543,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/loban-dhoop-sticks"
+                                            href="https://sanskar.com/loban-dhoop-sticks"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -12557,15 +12557,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Loban Dhoop Sticks DP53"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/p/loban-dhoop-sticks.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/p/loban-dhoop-sticks.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/p/loban-dhoop-sticks.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/p/loban-dhoop-sticks.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Loban Dhoop Sticks DP53"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/p/loban-dhoop-sticks.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/p/loban-dhoop-sticks.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/p/loban-dhoop-sticks.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/p/loban-dhoop-sticks.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -12581,7 +12581,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Loban Dhoop Sticks"
-                                                href="https://vedicvaani.com/loban-dhoop-sticks"
+                                                href="https://sanskar.com/loban-dhoop-sticks"
                                               >
                                                 Loban Dhoop Sticks
                                               </a>
@@ -12612,7 +12612,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/loban-dhoop-sticks?options=cart"
+                                                    action="https://sanskar.com/loban-dhoop-sticks?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -12693,7 +12693,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/loban-cups"
+                                            href="https://sanskar.com/loban-cups"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -12707,15 +12707,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Loban Cups DP05"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/L/o/loban-cups.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/L/o/loban-cups.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/L/o/loban-cups.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/L/o/loban-cups.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Loban Cups DP05"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/L/o/loban-cups.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/L/o/loban-cups.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/L/o/loban-cups.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/L/o/loban-cups.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -12731,7 +12731,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Loban Cups"
-                                                href="https://vedicvaani.com/loban-cups"
+                                                href="https://sanskar.com/loban-cups"
                                               >
                                                 Loban Cups
                                               </a>
@@ -12762,7 +12762,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/loban-cups?options=cart"
+                                                    action="https://sanskar.com/loban-cups?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -12843,7 +12843,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/saffron-kesar-dhoop-cones"
+                                            href="https://sanskar.com/saffron-kesar-dhoop-cones"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -12857,13 +12857,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Saffron Kesar Kashmiri Aroma Cones AZ5810"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/a/saffron-kesar-cone-1_1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/a/saffron-kesar-cone-1_1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Saffron Kesar Kashmiri Aroma Cones AZ5810"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/a/saffron-kesar-cone-1_1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/a/saffron-kesar-cone-1_1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -12879,7 +12879,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Saffron Kesar Kashmiri Aroma Cones"
-                                                href="https://vedicvaani.com/saffron-kesar-dhoop-cones"
+                                                href="https://sanskar.com/saffron-kesar-dhoop-cones"
                                               >
                                                 Saffron Kesar Kashmiri Aroma
                                                 Cones
@@ -12911,7 +12911,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/saffron-kesar-dhoop-cones?options=cart"
+                                                    action="https://sanskar.com/saffron-kesar-dhoop-cones?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -12992,7 +12992,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/red-rose-dhoop-cones"
+                                            href="https://sanskar.com/red-rose-dhoop-cones"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -13006,13 +13006,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Natural Garden Red Rose Beautiful Premium Dhoop Cones AZ1230"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/o/natural-garden-red-rose-beautiful-premium-dhoop-conesaxHd.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/o/natural-garden-red-rose-beautiful-premium-dhoop-conesaxHd.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Natural Garden Red Rose Beautiful Premium Dhoop Cones AZ1230"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/o/natural-garden-red-rose-beautiful-premium-dhoop-conesaxHd.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/o/natural-garden-red-rose-beautiful-premium-dhoop-conesaxHd.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -13028,7 +13028,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Natural Garden Red Rose Beautiful Premium Dhoop Cones"
-                                                href="https://vedicvaani.com/red-rose-dhoop-cones"
+                                                href="https://sanskar.com/red-rose-dhoop-cones"
                                               >
                                                 Natural Garden Red Rose
                                                 Beautiful Premium Dhoop Cones
@@ -13060,7 +13060,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/red-rose-dhoop-cones?options=cart"
+                                                    action="https://sanskar.com/red-rose-dhoop-cones?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -13141,7 +13141,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/rose-and-sandal-premium-dhoop-cup"
+                                            href="https://sanskar.com/rose-and-sandal-premium-dhoop-cup"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -13155,13 +13155,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Rose And Sandal Premium Dhoop Cup"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/a/sandal-rose-dhoop-cups_7_.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/a/sandal-rose-dhoop-cups_7_.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Rose And Sandal Premium Dhoop Cup"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/a/sandal-rose-dhoop-cups_7_.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/a/sandal-rose-dhoop-cups_7_.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -13177,7 +13177,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Rose And Sandal Premium Dhoop Cup"
-                                                href="https://vedicvaani.com/rose-and-sandal-premium-dhoop-cup"
+                                                href="https://sanskar.com/rose-and-sandal-premium-dhoop-cup"
                                               >
                                                 Rose And Sandal Premium Dhoop
                                                 Cup
@@ -13209,7 +13209,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/7125/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/7125/"
                                                     method="post"
                                                   >
                                                     <input
@@ -13290,7 +13290,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/rose-dhoop-sticks"
+                                            href="https://sanskar.com/rose-dhoop-sticks"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -13304,13 +13304,13 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Rose Dhoop Sticks DP57"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/p/dp57-presentation-.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/d/p/dp57-presentation-.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Rose Dhoop Sticks DP57"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/R/o/Rose-Dhoop-Sticks-2.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/R/o/Rose-Dhoop-Sticks-2.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -13326,7 +13326,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Rose Dhoop Sticks"
-                                                href="https://vedicvaani.com/rose-dhoop-sticks"
+                                                href="https://sanskar.com/rose-dhoop-sticks"
                                               >
                                                 Rose Dhoop Sticks
                                               </a>
@@ -13357,7 +13357,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/rose-dhoop-sticks?options=cart"
+                                                    action="https://sanskar.com/rose-dhoop-sticks?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -13446,20 +13446,20 @@ var MyClass = React.createClass({
                       <div className="row">
                         <div className="col-sm-24">
                           <a
-                            href="https://vedicvaani.com/puja-items-and-pooja-services/puja-items/attar"
+                            href="https://sanskar.com/puja-items-and-pooja-services/puja-items/attar"
                             aria-label="Attar"
                           >
                             <picture>
                               <source
                                 type="image/webp"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/divine-attars-5.webp"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/divine-attars-5.webp"
                               />
                               <source
                                 type="image/jpg"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/divine-attars-5.jpg"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/divine-attars-5.jpg"
                               />
                               <img
-                                src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/divine-attars-5.jpg"
+                                src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/divine-attars-5.jpg"
                                 alt=""
                                 loading="lazy"
                               />
@@ -13468,20 +13468,20 @@ var MyClass = React.createClass({
                           <br />
                           <br />{" "}
                           <a
-                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/havan-kund-and-sticks"
+                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/havan-kund-and-sticks"
                             aria-label="Havan Kund"
                           >
                             <picture>
                               <source
                                 type="image/webp"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/havan-kund-7.webp"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/havan-kund-7.webp"
                               />
                               <source
                                 type="image/jpg"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/havan-kund-7.jpg"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/havan-kund-7.jpg"
                               />
                               <img
-                                src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/havan-kund-7.jpg"
+                                src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/havan-kund-7.jpg"
                                 alt=""
                                 loading="lazy"
                               />
@@ -13498,7 +13498,7 @@ var MyClass = React.createClass({
                             <p className="actions">
                               <a
                                 className="action view-more"
-                                href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/mata-ka-chatar-crowns"
+                                href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/mata-ka-chatar-crowns"
                               >
                                 View all
                               </a>
@@ -13535,7 +13535,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/traditional-decor-mukut"
+                                                  href="https://sanskar.com/traditional-decor-mukut"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -13549,15 +13549,15 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Deity Ornaments Traditional Indian Style Mukut Crown for Head Size 2 Inches AZ6150"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size4-1.jpg"
-                                                        data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size4-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size4-1.jpg"
+                                                        data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size4-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Deity Ornaments Traditional Indian Style Mukut Crown for Head Size 2 Inches AZ6150"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size4-1.jpg"
-                                                        data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size4-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size4-1.jpg"
+                                                        data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size4-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -13575,7 +13575,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Deity Ornaments Traditional Indian Style Mukut Crown for Head Size 2 Inches"
-                                                      href="https://vedicvaani.com/traditional-decor-mukut"
+                                                      href="https://sanskar.com/traditional-decor-mukut"
                                                     >
                                                       Deity Ornaments
                                                       Traditional Indian Style
@@ -13609,7 +13609,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13712/"
+                                                          action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13712/"
                                                           method="post"
                                                         >
                                                           <input
@@ -13692,7 +13692,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/small-1-inch-mukut"
+                                                  href="https://sanskar.com/small-1-inch-mukut"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -13706,15 +13706,15 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Headgear Mukut Crown for God and Goddess Head Size 1 Inch AZ6148"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size-1-1.jpg"
-                                                        data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size-1-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size-1-1.jpg"
+                                                        data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size-1-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Headgear Mukut Crown for God and Goddess Head Size 1 Inch AZ6148"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size-1-1.jpg"
-                                                        data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size-1-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size-1-1.jpg"
+                                                        data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-size-1-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -13732,7 +13732,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Headgear Mukut Crown for God and Goddess Head Size 1 Inch"
-                                                      href="https://vedicvaani.com/small-1-inch-mukut"
+                                                      href="https://sanskar.com/small-1-inch-mukut"
                                                     >
                                                       Headgear Mukut Crown for
                                                       God and Goddess Head Size
@@ -13765,7 +13765,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13710/"
+                                                          action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13710/"
                                                           method="post"
                                                         >
                                                           <input
@@ -13848,7 +13848,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/shringar-god-idol-mukut"
+                                                  href="https://sanskar.com/shringar-god-idol-mukut"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -13862,15 +13862,15 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Traditional Gold Polish Mukut Crown for God and Goddess Shringar AZ6140"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/h/shringar-mukut-1.jpg"
-                                                        data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/h/shringar-mukut-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/h/shringar-mukut-1.jpg"
+                                                        data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/h/shringar-mukut-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Traditional Gold Polish Mukut Crown for God and Goddess Shringar AZ6140"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/h/shringar-mukut-1.jpg"
-                                                        data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/h/shringar-mukut-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/h/shringar-mukut-1.jpg"
+                                                        data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/s/h/shringar-mukut-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -13888,7 +13888,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Traditional Gold Polish Mukut Crown for God and Goddess Shringar"
-                                                      href="https://vedicvaani.com/shringar-god-idol-mukut"
+                                                      href="https://sanskar.com/shringar-god-idol-mukut"
                                                     >
                                                       Traditional Gold Polish
                                                       Mukut Crown for God and
@@ -13948,7 +13948,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/gold-polish-mukut-for-god"
+                                                  href="https://sanskar.com/gold-polish-mukut-for-god"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -13962,15 +13962,15 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Crown Mukut for Decor of Ganapati & God Idols AZ5914"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-golden-2-1.jpg"
-                                                        data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-golden-2-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-golden-2-1.jpg"
+                                                        data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-golden-2-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Crown Mukut for Decor of Ganapati & God Idols AZ5914"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-golden-2-1.jpg"
-                                                        data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-golden-2-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-golden-2-1.jpg"
+                                                        data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/u/mukut-golden-2-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -13988,7 +13988,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Crown Mukut for Decor of Ganapati & God Idols"
-                                                      href="https://vedicvaani.com/gold-polish-mukut-for-god"
+                                                      href="https://sanskar.com/gold-polish-mukut-for-god"
                                                     >
                                                       Crown Mukut for Decor of
                                                       Ganapati &amp; God Idols
@@ -14020,7 +14020,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13419/"
+                                                          action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/13419/"
                                                           method="post"
                                                         >
                                                           <input
@@ -14103,7 +14103,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/octangle-copper-mata-chatar"
+                                                  href="https://sanskar.com/octangle-copper-mata-chatar"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -14117,15 +14117,15 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="Chatra (Umbrella) for Deity Idols in Copper gold Polish VZ491"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/o/copper-gold-polish-chattar-1.jpg"
-                                                        data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/o/copper-gold-polish-chattar-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/o/copper-gold-polish-chattar-1.jpg"
+                                                        data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/o/copper-gold-polish-chattar-1.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="Chatra (Umbrella) for Deity Idols in Copper gold Polish VZ491"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/o/copper-gold-polish-chattar-1.jpg"
-                                                        data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/o/copper-gold-polish-chattar-1.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/o/copper-gold-polish-chattar-1.jpg"
+                                                        data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/o/copper-gold-polish-chattar-1.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -14143,7 +14143,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="Chatra (Umbrella) for Deity Idols in Copper gold Polish"
-                                                      href="https://vedicvaani.com/octangle-copper-mata-chatar"
+                                                      href="https://sanskar.com/octangle-copper-mata-chatar"
                                                     >
                                                       Chatra (Umbrella) for
                                                       Deity Idols in Copper gold
@@ -14176,7 +14176,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/12866/"
+                                                          action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/12866/"
                                                           method="post"
                                                         >
                                                           <input
@@ -14259,7 +14259,7 @@ var MyClass = React.createClass({
                                             >
                                               <div className="product-item-top">
                                                 <a
-                                                  href="https://vedicvaani.com/white-mukut-for-god"
+                                                  href="https://sanskar.com/white-mukut-for-god"
                                                   className="product photo product-item-photo"
                                                 >
                                                   <span className="product-image-container">
@@ -14273,15 +14273,15 @@ var MyClass = React.createClass({
                                                         data-hasoptions={0}
                                                         className="product-image-photo main-img"
                                                         alt="White Beautiful Sparkle Stone Work Mukut For Deity Statues"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/h/white-beautiful-sparkle-stone-work-mukut-for-deity-statueszEdO.jpg"
-                                                        data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/h/white-beautiful-sparkle-stone-work-mukut-for-deity-statueszEdO.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/h/white-beautiful-sparkle-stone-work-mukut-for-deity-statueszEdO.jpg"
+                                                        data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/h/white-beautiful-sparkle-stone-work-mukut-for-deity-statueszEdO.jpg"
                                                         style={{}}
                                                       />
                                                       <img
                                                         className="product-image-photo hovered-img"
                                                         alt="White Beautiful Sparkle Stone Work Mukut For Deity Statues"
-                                                        src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/h/white-beautiful-sparkle-stone-work-mukut-for-deity-statueszEdO.jpg"
-                                                        data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/h/white-beautiful-sparkle-stone-work-mukut-for-deity-statueszEdO.jpg"
+                                                        src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/h/white-beautiful-sparkle-stone-work-mukut-for-deity-statueszEdO.jpg"
+                                                        data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/h/white-beautiful-sparkle-stone-work-mukut-for-deity-statueszEdO.jpg"
                                                         style={{}}
                                                       />
                                                     </span>
@@ -14299,7 +14299,7 @@ var MyClass = React.createClass({
                                                     <a
                                                       className="product-item-link"
                                                       title="White Beautiful Sparkle Stone Work Mukut For Deity Statues"
-                                                      href="https://vedicvaani.com/white-mukut-for-god"
+                                                      href="https://sanskar.com/white-mukut-for-god"
                                                     >
                                                       White Beautiful Sparkle
                                                       Stone Work Mukut For Deity
@@ -14332,7 +14332,7 @@ var MyClass = React.createClass({
                                                       <div className="cart-qty">
                                                         <form
                                                           data-role="tocart-form"
-                                                          action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/12590/"
+                                                          action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/12590/"
                                                           method="post"
                                                         >
                                                           <input
@@ -14422,20 +14422,20 @@ var MyClass = React.createClass({
                       <div className="row">
                         <div className="col-sm-24">
                           <a
-                            href="https://vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/diyas-lamps"
+                            href="https://sanskar.com/puja-items-and-pooja-services/prayer-vessels/diyas-lamps"
                             aria-label="Diyas Lamps"
                           >
                             <picture>
                               <source
                                 type="image/webp"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/diyas-samai-6.webp"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/diyas-samai-6.webp"
                               />
                               <source
                                 type="image/jpg"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/diyas-samai-6.jpg"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/diyas-samai-6.jpg"
                               />
                               <img
-                                src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/diyas-samai-6.jpg"
+                                src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/diyas-samai-6.jpg"
                                 alt=""
                                 loading="lazy"
                               />
@@ -14444,20 +14444,20 @@ var MyClass = React.createClass({
                           <br />
                           <br />{" "}
                           <a
-                            href="https://vedicvaani.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks"
+                            href="https://sanskar.com/agarbatti-and-dhoops/agarbatti-and-incense-sticks"
                             aria-label="Agarbatti"
                           >
                             <picture>
                               <source
                                 type="image/webp"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/incense-collections-8.webp"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/incense-collections-8.webp"
                               />
                               <source
                                 type="image/jpg"
-                                srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/incense-collections-8.jpg"
+                                srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/incense-collections-8.jpg"
                               />
                               <img
-                                src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/2024/incense-collections-8.jpg"
+                                src="https://sanskar.com/pub/media/wysiwyg/vedic_home/2024/incense-collections-8.jpg"
                                 alt=""
                                 loading="lazy"
                               />
@@ -14475,7 +14475,7 @@ var MyClass = React.createClass({
                       <p className="actions">
                         <a
                           className="action view-more"
-                          href="https://vedicvaani.com/puja-asans-mats"
+                          href="https://sanskar.com/puja-asans-mats"
                         >
                           View all
                         </a>
@@ -14512,7 +14512,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/yoga-mat"
+                                            href="https://sanskar.com/yoga-mat"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -14526,15 +14526,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Yoga Mat PI74"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/P/I/PI74-Mat.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/P/I/PI74-Mat.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/P/I/PI74-Mat.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/P/I/PI74-Mat.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Yoga Mat PI74"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/C/h/Chatai_.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/C/h/Chatai_.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/C/h/Chatai_.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/C/h/Chatai_.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -14550,7 +14550,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Yoga Mat"
-                                                href="https://vedicvaani.com/yoga-mat"
+                                                href="https://sanskar.com/yoga-mat"
                                               >
                                                 Yoga Mat
                                               </a>
@@ -14581,7 +14581,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/yoga-mat?options=cart"
+                                                    action="https://sanskar.com/yoga-mat?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -14662,7 +14662,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/orange-kusha-mat-darbhasan"
+                                            href="https://sanskar.com/orange-kusha-mat-darbhasan"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -14676,15 +14676,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Orange Colour KUSHA MAT DARBHASAN "
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/u/kusha-mat_orange2_1.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/u/kusha-mat_orange2_1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/u/kusha-mat_orange2_1.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/u/kusha-mat_orange2_1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Orange Colour KUSHA MAT DARBHASAN "
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/u/kusha-mat_orange2_1.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/u/kusha-mat_orange2_1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/u/kusha-mat_orange2_1.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/u/kusha-mat_orange2_1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -14700,7 +14700,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Orange Colour KUSHA MAT DARBHASAN "
-                                                href="https://vedicvaani.com/orange-kusha-mat-darbhasan"
+                                                href="https://sanskar.com/orange-kusha-mat-darbhasan"
                                               >
                                                 Orange Colour KUSHA MAT
                                                 DARBHASAN
@@ -14732,7 +14732,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/12212/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/12212/"
                                                     method="post"
                                                   >
                                                     <input
@@ -14813,7 +14813,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/asan-made-of-rudraksha"
+                                            href="https://sanskar.com/asan-made-of-rudraksha"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -14827,15 +14827,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Aasan for Puja made of Rudraksha Beads"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/e/red-rudraksha-mat-1.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/e/red-rudraksha-mat-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/e/red-rudraksha-mat-1.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/e/red-rudraksha-mat-1.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Aasan for Puja made of Rudraksha Beads"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/e/red-rudraksha-mat-1.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/e/red-rudraksha-mat-1.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/e/red-rudraksha-mat-1.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/r/e/red-rudraksha-mat-1.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -14851,7 +14851,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Aasan for Puja made of Rudraksha Beads"
-                                                href="https://vedicvaani.com/asan-made-of-rudraksha"
+                                                href="https://sanskar.com/asan-made-of-rudraksha"
                                               >
                                                 Aasan for Puja made of Rudraksha
                                                 Beads
@@ -14883,7 +14883,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/10409/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/10409/"
                                                     method="post"
                                                   >
                                                     <input
@@ -14964,7 +14964,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/foldable-yoga-mat"
+                                            href="https://sanskar.com/foldable-yoga-mat"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -14978,15 +14978,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Foldable Mat for Prayer and Yoga"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/a/foldable-mat-for-prayer-and-yoga.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/a/foldable-mat-for-prayer-and-yoga.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/a/foldable-mat-for-prayer-and-yoga.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/a/foldable-mat-for-prayer-and-yoga.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Foldable Mat for Prayer and Yoga"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/a/foldable-mat-for-prayer-and-yoga.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/a/foldable-mat-for-prayer-and-yoga.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/a/foldable-mat-for-prayer-and-yoga.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/m/a/foldable-mat-for-prayer-and-yoga.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -15002,7 +15002,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Foldable Mat for Prayer and Yoga"
-                                                href="https://vedicvaani.com/foldable-yoga-mat"
+                                                href="https://sanskar.com/foldable-yoga-mat"
                                               >
                                                 Foldable Mat for Prayer and Yoga
                                               </a>
@@ -15033,7 +15033,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/10283/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/10283/"
                                                     method="post"
                                                   >
                                                     <input
@@ -15114,7 +15114,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/chakra-peace-relaxation-mat"
+                                            href="https://sanskar.com/chakra-peace-relaxation-mat"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -15128,15 +15128,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Chakra Peace Relaxation Mat"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/h/chakra-peace-relaxation-mat_2_.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/h/chakra-peace-relaxation-mat_2_.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/h/chakra-peace-relaxation-mat_2_.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/h/chakra-peace-relaxation-mat_2_.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Chakra Peace Relaxation Mat"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/h/chakra-peace-relaxation-mat_1_.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/h/chakra-peace-relaxation-mat_1_.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/h/chakra-peace-relaxation-mat_1_.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/c/h/chakra-peace-relaxation-mat_1_.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -15152,7 +15152,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Chakra Peace Relaxation Mat"
-                                                href="https://vedicvaani.com/chakra-peace-relaxation-mat"
+                                                href="https://sanskar.com/chakra-peace-relaxation-mat"
                                               >
                                                 Chakra Peace Relaxation Mat
                                               </a>
@@ -15183,7 +15183,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/7900/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/7900/"
                                                     method="post"
                                                   >
                                                     <input
@@ -15264,7 +15264,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/woolen-kusha-multi-color-aasan"
+                                            href="https://sanskar.com/woolen-kusha-multi-color-aasan"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -15278,15 +15278,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Woolen Kusha Multi Color Aasan"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/o/woolen-kusha-multi-color-aasan_1_.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/o/woolen-kusha-multi-color-aasan_1_.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/o/woolen-kusha-multi-color-aasan_1_.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/o/woolen-kusha-multi-color-aasan_1_.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Woolen Kusha Multi Color Aasan"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/o/woolen-kusha-multi-color-aasan_3_.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/o/woolen-kusha-multi-color-aasan_3_.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/o/woolen-kusha-multi-color-aasan_3_.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/w/o/woolen-kusha-multi-color-aasan_3_.jpg"
                                                   style={{}}
                                                 />
                                               </span>
@@ -15302,7 +15302,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Woolen Kusha Multi Color Aasan"
-                                                href="https://vedicvaani.com/woolen-kusha-multi-color-aasan"
+                                                href="https://sanskar.com/woolen-kusha-multi-color-aasan"
                                               >
                                                 Woolen Kusha Multi Color Aasan
                                               </a>
@@ -15333,7 +15333,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/woolen-kusha-multi-color-aasan?options=cart"
+                                                    action="https://sanskar.com/woolen-kusha-multi-color-aasan?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -15414,7 +15414,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/natural-darbhasan-mat"
+                                            href="https://sanskar.com/natural-darbhasan-mat"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -15428,15 +15428,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Natural Darbhasan (Mat)"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/t/r/tri-color-mat-3.JPG"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/t/r/tri-color-mat-3.JPG"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/t/r/tri-color-mat-3.JPG"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/t/r/tri-color-mat-3.JPG"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Natural Darbhasan (Mat)"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/t/r/tri-color-mat.JPG"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/t/r/tri-color-mat.JPG"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/t/r/tri-color-mat.JPG"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/t/r/tri-color-mat.JPG"
                                                   style={{}}
                                                 />
                                               </span>
@@ -15452,7 +15452,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Natural Darbhasan (Mat)"
-                                                href="https://vedicvaani.com/natural-darbhasan-mat"
+                                                href="https://sanskar.com/natural-darbhasan-mat"
                                               >
                                                 Natural Darbhasan (Mat)
                                               </a>
@@ -15483,7 +15483,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/7877/"
+                                                    action="https://sanskar.com/checkout/cart/add/uenc/aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~/product/7877/"
                                                     method="post"
                                                   >
                                                     <input
@@ -15564,7 +15564,7 @@ var MyClass = React.createClass({
                                       >
                                         <div className="product-item-top">
                                           <a
-                                            href="https://vedicvaani.com/multi-fold-kusha-mat"
+                                            href="https://sanskar.com/multi-fold-kusha-mat"
                                             className="product photo product-item-photo"
                                           >
                                             <span className="product-image-container">
@@ -15578,15 +15578,15 @@ var MyClass = React.createClass({
                                                   data-hasoptions={0}
                                                   className="product-image-photo main-img"
                                                   alt="Multi fold Kusha Mat"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/u/kusha-mat-pi101-2.jpg"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/u/kusha-mat-pi101-2.jpg"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/u/kusha-mat-pi101-2.jpg"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/k/u/kusha-mat-pi101-2.jpg"
                                                   style={{}}
                                                 />
                                                 <img
                                                   className="product-image-photo hovered-img"
                                                   alt="Multi fold Kusha Mat"
-                                                  src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/P/I/PI101-1.JPG"
-                                                  data-src="https://vedicvaani.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/P/I/PI101-1.JPG"
+                                                  src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/P/I/PI101-1.JPG"
+                                                  data-src="https://sanskar.com/pub/media/catalog/product/cache/e2ddbb45b5d33b0aefc7900382bfa8f2/P/I/PI101-1.JPG"
                                                   style={{}}
                                                 />
                                               </span>
@@ -15602,7 +15602,7 @@ var MyClass = React.createClass({
                                               <a
                                                 className="product-item-link"
                                                 title="Multi fold Kusha Mat"
-                                                href="https://vedicvaani.com/multi-fold-kusha-mat"
+                                                href="https://sanskar.com/multi-fold-kusha-mat"
                                               >
                                                 Multi fold Kusha Mat
                                               </a>
@@ -15633,7 +15633,7 @@ var MyClass = React.createClass({
                                                 <div className="cart-qty">
                                                   <form
                                                     data-role="tocart-form"
-                                                    action="https://vedicvaani.com/multi-fold-kusha-mat?options=cart"
+                                                    action="https://sanskar.com/multi-fold-kusha-mat?options=cart"
                                                     method="post"
                                                   >
                                                     <input
@@ -15721,20 +15721,20 @@ var MyClass = React.createClass({
                 </div>
                 <div className="container">
                   <div className="home_page_custom_text">
-                    <h1>BUY SPIRITUAL ITEMS ONLINE AT VEDIC VAANI</h1> Every
-                    prayer ritual in Hinduism should be performed exactly as the
-                    sacred writings say. A place of worship in your house or
-                    mandir has to reflect all the spirituality for you to be
-                    able to pay tribute to the Gods and the Goddesses properly.
-                    For this to happen, Vedic Vaani offers an astonishing
-                    variety of prayer vessels, cloth, beads, sculptures, and a
-                    myriad of other&nbsp;
+                    <h1>BUY SPIRITUAL ITEMS ONLINE AT Sanskar</h1> Every prayer
+                    ritual in Hinduism should be performed exactly as the sacred
+                    writings say. A place of worship in your house or mandir has
+                    to reflect all the spirituality for you to be able to pay
+                    tribute to the Gods and the Goddesses properly. For this to
+                    happen, Sanskar offers an astonishing variety of prayer
+                    vessels, cloth, beads, sculptures, and a myriad of
+                    other&nbsp;
                     <strong>
                       <a
                         title="Pooja accessories online"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services"
                         target="_self"
-                        data-cke-saved-href="https://www.vedicvaani.com/puja-items-and-pooja-services"
+                        data-cke-saved-href="https://www.sanskar.com/puja-items-and-pooja-services"
                       >
                         Pooja accessories online
                       </a>
@@ -15743,14 +15743,14 @@ var MyClass = React.createClass({
                     divine blessing for well-being and good fortune.
                     <br />
                     <br />
-                    Vedic Vaani is an all-in-one source of Puja items, Holy
-                    Books, statues, and&nbsp;
+                    Sanskar is an all-in-one source of Puja items, Holy Books,
+                    statues, and&nbsp;
                     <strong>
                       <a
                         title="Hindu idols for sale"
-                        href="https://www.vedicvaani.com/deity-idols-and-pictures/god-sculptures"
+                        href="https://www.sanskar.com/deity-idols-and-pictures/god-sculptures"
                         target="_self"
-                        data-cke-saved-href="https://www.vedicvaani.com/deity-idols-and-pictures/god-sculptures"
+                        data-cke-saved-href="https://www.sanskar.com/deity-idols-and-pictures/god-sculptures"
                       >
                         Hindu idols for sale
                       </a>
@@ -15767,12 +15767,12 @@ var MyClass = React.createClass({
                       <a
                         title="Buddha statue, buy it online"
                         target="_self"
-                        data-cke-saved-href="https://www.vedicvaani.com/buddha-statue-in-meditation-with-antic-finish"
+                        data-cke-saved-href="https://www.sanskar.com/buddha-statue-in-meditation-with-antic-finish"
                       >
                         Buddha statue, buy it online
                       </a>
                     </strong>
-                    &nbsp;at Vedic Vaani in a few clicks.
+                    &nbsp;at Sanskar in a few clicks.
                     <br />
                     <br />
                     To create favorable conditions for worship at your place,
@@ -15781,14 +15781,14 @@ var MyClass = React.createClass({
                     to various deities. At our store, they are available in many
                     forms and fragrances.
                     <br />
-                    <br /> <h2>WE GUARANTEE THE HIGHEST QUALITY</h2> Vedic Vaani
+                    <br /> <h2>WE GUARANTEE THE HIGHEST QUALITY</h2> Sanskar
                     enables you to direct the flow of positive energy to your
                     household with&nbsp;
                     <strong>
                       <a
                         title="Puja items at wholesale"
                         target="_self"
-                        data-cke-saved-href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/puja-essentials"
+                        data-cke-saved-href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/puja-essentials"
                       >
                         Puja items at wholesale
                       </a>
@@ -15802,7 +15802,7 @@ var MyClass = React.createClass({
                       <a
                         title="buy spiritual items online"
                         target="_self"
-                        data-cke-saved-href="https://www.vedicvaani.com"
+                        data-cke-saved-href="https://www.sanskar.com"
                       >
                         buy spiritual items online
                       </a>
@@ -15821,227 +15821,227 @@ var MyClass = React.createClass({
                       </div>
                       <a
                         title="Puja Items & Services"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services"
                       >
                         Puja Items &amp; Services
                       </a>
                       &nbsp;
                       <a
                         title="Puja items"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items"
                       >
                         Puja items
                       </a>
                       &nbsp;
                       <a
                         title="Puja kits"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/puja-kits"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/puja-kits"
                       >
                         Puja kits
                       </a>
                       &nbsp;
                       <a
                         title="Puja Essentials"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/puja-essentials"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/puja-essentials"
                       >
                         Puja Essentials
                       </a>
                       &nbsp;
                       <a
                         title="Rangoli"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/rangoli"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/rangoli"
                       >
                         Rangoli
                       </a>
                       &nbsp;
                       <a
                         title="Sacred threads"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/sacred-threads"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/sacred-threads"
                       >
                         Sacred threads
                       </a>
                       &nbsp;
                       <a
                         title="Rakhi Thread"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/rakhi-thread"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/rakhi-thread"
                       >
                         Rakhi Thread
                       </a>
                       <a
                         title="Diyas"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/diyas"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/diyas"
                       >
                         Diyas
                       </a>
                       <a
                         title="Essential Oils"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/essential-oils"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/essential-oils"
                       >
                         Essential Oils
                       </a>
                       <a
                         title="Navgraha Shanti Packs"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/navgraha-shanti-packs"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/navgraha-shanti-packs"
                       >
                         Navgraha Shanti Packs
                       </a>
                       <a
                         title="Puja Coins and Frames"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/puja-coins-and-frames"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/puja-coins-and-frames"
                       >
                         Puja Coins and Frames
                       </a>
                       <a
                         title="Attar"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/attar"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/attar"
                       >
                         Attar
                       </a>
                       <a
                         title="Kumkum, Sindoor, Sandal Tilaks & Paste"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/kumkum-sindoor-sandal-tilaks-and-paste"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/kumkum-sindoor-sandal-tilaks-and-paste"
                       >
                         Kumkum, Sindoor, Sandal Tilaks &amp; Paste
                       </a>
                       <a
                         title="Havan items"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/havan-items"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/havan-items"
                       >
                         Havan items
                       </a>
                       <a
                         title="Natural Floral water"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/natural-floral-water"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/natural-floral-water"
                       >
                         Natural Floral water
                       </a>
                       <a
                         title="Holy water"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/holy-water"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/holy-water"
                       >
                         Holy water
                       </a>
                       <a
                         title="Deity Garlands"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/deity-garlands"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/deity-garlands"
                       >
                         Deity Garlands
                       </a>
                       <a
                         title="Shagun Envelopes"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/envelopes"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/envelopes"
                       >
                         Shagun Envelopes
                       </a>
                       &nbsp;
                       <a
                         title="Dhoop / Camphor"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/dhoop-camphor"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/dhoop-camphor"
                       >
                         Dhoop / Camphor
                       </a>
                       &nbsp;
                       <a
                         title="Cotton Wicks"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/cotton-wicks"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/cotton-wicks"
                       >
                         Cotton Wicks
                       </a>
                       <a
                         title="Rare items"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/puja-items/rare-items"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/puja-items/rare-items"
                       >
                         Rare items
                       </a>
                       <a
                         title="Prayer Vessels"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels"
                       >
                         Prayer Vessels
                       </a>
                       &nbsp;
                       <a
                         title="Abhishek Items"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/abhishek-items"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/abhishek-items"
                       >
                         Abhishek Items
                       </a>
                       &nbsp;
                       <a
                         title="Havan Kund & Sticks"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/havan-kund-and-sticks"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/havan-kund-and-sticks"
                       >
                         Havan Kund &amp; Sticks
                       </a>
                       <a
                         title="Diyas / Lamps"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/diyas-lamps"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/diyas-lamps"
                       >
                         Diyas / Lamps
                       </a>
                       <a
                         title="Deity Thrones"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/deity-thrones"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/deity-thrones"
                       >
                         Deity Thrones
                       </a>
                       <a
                         title="Puja Thalis"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/puja-thalis"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/puja-thalis"
                       >
                         Puja Thalis
                       </a>
                       <a
                         title="Panchapatra & Glass"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/panchapatra-and-glass"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/panchapatra-and-glass"
                       >
                         Panchapatra &amp; Glass
                       </a>
                       <a
                         title="Puja Plates & Bowls"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/puja-plates-and-bowls"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/puja-plates-and-bowls"
                       >
                         Puja Plates &amp; Bowls
                       </a>
                       <a
                         title="Netipatra"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/netipatra"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/netipatra"
                       >
                         Netipatra
                       </a>
                       <a
                         title="Incense stands"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/incense-stands"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/incense-stands"
                       >
                         Incense stands
                       </a>
                       <a
                         title="Bells, Damrus"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/bells-damrus"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/bells-damrus"
                       >
                         Bells, Damrus
                       </a>
                       <a
                         title="Kalash / Pots"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/kalash-pots"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/kalash-pots"
                       >
                         Kalash / Pots
                       </a>
                       <a
                         title="Haldi Kumkum Containers"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/haldi-kumkum-containers"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/haldi-kumkum-containers"
                       >
                         Haldi Kumkum Containers
                       </a>
                       <a
                         title="Flower containers"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/flower-containers"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/flower-containers"
                       >
                         Flower containers
                       </a>
                       <a
                         title="Mata Ka Chatar, Crowns"
-                        href="https://www.vedicvaani.com/puja-items-and-pooja-services/prayer-vessels/mata-ka-chatar-crowns"
+                        href="https://www.sanskar.com/puja-items-and-pooja-services/prayer-vessels/mata-ka-chatar-crowns"
                       >
                         Mata Ka Chatar, Crowns
                       </a>
@@ -16064,7 +16064,7 @@ var MyClass = React.createClass({
                       <div className="col-sm-24 col-xs-24">
                         <div className="row">
                           <div className="item col-sm-6 col-xs-12 ">
-                            <a href="https://vedicvaani.com/payment-mode">
+                            <a href="https://sanskar.com/payment-mode">
                               <p className="item-icon">
                                 <span className="fa-lock fa">&nbsp;</span>
                               </p>
@@ -16084,7 +16084,7 @@ var MyClass = React.createClass({
                             </a>
                           </div>
                           <div className="item col-sm-6 col-xs-12 ">
-                            <a href="https://vedicvaani.com/term-conditions">
+                            <a href="https://sanskar.com/term-conditions">
                               <p className="item-icon">
                                 <span className="fa-plane fa">&nbsp;</span>
                               </p>
@@ -16094,7 +16094,7 @@ var MyClass = React.createClass({
                             </a>
                           </div>
                           <div className="item col-sm-6 col-xs-12 ">
-                            <a href="https://vedicvaani.com/term-conditions#delivery">
+                            <a href="https://sanskar.com/term-conditions#delivery">
                               <p className="item-icon">
                                 <span className="fa-truck fa">&nbsp;</span>
                               </p>
@@ -16160,14 +16160,14 @@ var MyClass = React.createClass({
                               <picture>
                                 <source
                                   type="image/webp"
-                                  srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/vedic-vaani-logo-google.webp"
+                                  srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/vedic-vaani-logo-google.webp"
                                 />
                                 <source
                                   type="image/png"
-                                  srcSet="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/vedic-vaani-logo-google.png"
+                                  srcSet="https://sanskar.com/pub/media/wysiwyg/vedic_home/vedic-vaani-logo-google.png"
                                 />
                                 <img
-                                  src="https://vedicvaani.com/pub/media/wysiwyg/vedic_home/vedic-vaani-logo-google.png"
+                                  src="https://sanskar.com/pub/media/wysiwyg/vedic_home/vedic-vaani-logo-google.png"
                                   alt=""
                                   loading="lazy"
                                 />
@@ -16190,9 +16190,9 @@ var MyClass = React.createClass({
                                 <p>
                                   <a
                                     className="icon-link "
-                                    href="mailto:contact@vedicvaani.com"
+                                    href="mailto:contact@sanskar.com"
                                   >
-                                    contact@vedicvaani.com
+                                    contact@sanskar.com
                                   </a>
                                 </p>
                               </div>
@@ -16211,14 +16211,14 @@ var MyClass = React.createClass({
                                   className="footer-link showhide hover-link01"
                                 >
                                   <li>
-                                    <a href="https://vedicvaani.com/about-us/">
+                                    <a href="https://sanskar.com/about-us/">
                                       About Us
                                     </a>
                                   </li>{" "}
                                   <li>
                                     <a
                                       title="Contact Us"
-                                      href="https://vedicvaani.com/contact"
+                                      href="https://sanskar.com/contact"
                                       target="_self"
                                     >
                                       Contact Us
@@ -16226,34 +16226,34 @@ var MyClass = React.createClass({
                                   </li>{" "}
                                   <li>
                                     <a
-                                      href="https://vedicvaani.com/faq"
+                                      href="https://sanskar.com/faq"
                                       target="_self"
                                     >
                                       FAQ's
                                     </a>
                                   </li>{" "}
                                   <li>
-                                    <a href="https://vedicvaani.com/term-conditions#delivery">
+                                    <a href="https://sanskar.com/term-conditions#delivery">
                                       Delivery Information
                                     </a>
                                   </li>{" "}
                                   <li>
-                                    <a href="https://vedicvaani.com/term-conditions">
+                                    <a href="https://sanskar.com/term-conditions">
                                       Terms and Conditions
                                     </a>
                                   </li>{" "}
                                   <li>
-                                    <a href="https://vedicvaani.com/term-conditions#return">
+                                    <a href="https://sanskar.com/term-conditions#return">
                                       Returns
                                     </a>
                                   </li>{" "}
                                   <li>
-                                    <a href="https://vedicvaani.com/term-conditions">
+                                    <a href="https://sanskar.com/term-conditions">
                                       Privacy Policy
                                     </a>
                                   </li>{" "}
                                   <li>
-                                    <a href="https://vedicvaani.com/ordertracking">
+                                    <a href="https://sanskar.com/ordertracking">
                                       Track Your Order
                                     </a>
                                   </li>
@@ -16269,7 +16269,7 @@ var MyClass = React.createClass({
                                 >
                                   <li>
                                     <a
-                                      href="https://vedicvaani.com/customer/account/login/"
+                                      href="https://sanskar.com/customer/account/login/"
                                       target="_self"
                                     >
                                       Shopping Cart
@@ -16277,19 +16277,19 @@ var MyClass = React.createClass({
                                   </li>{" "}
                                   <li>
                                     <a
-                                      href="https://vedicvaani.com/customer/account/login/"
+                                      href="https://sanskar.com/customer/account/login/"
                                       target="_self"
                                     >
                                       Order History
                                     </a>
                                   </li>{" "}
                                   <li>
-                                    <a href="https://vedicvaani.com/customer/account/login/">
+                                    <a href="https://sanskar.com/customer/account/login/">
                                       Wish List
                                     </a>
                                   </li>{" "}
                                   <li>
-                                    <a href="https://vedicvaani.com/html-sitemap">
+                                    <a href="https://sanskar.com/html-sitemap">
                                       Sitemap
                                     </a>
                                   </li>
@@ -16298,9 +16298,7 @@ var MyClass = React.createClass({
                             </div>
                             <div className="col-sm-8">
                               <div className="footer-box">
-                                <p className="h5 link-toggle">
-                                  Why Vedic Vaani?
-                                </p>
+                                <p className="h5 link-toggle">Why Sanskar?</p>
                                 <ul
                                   id="footer-content-4"
                                   className="footer-link showhide hover-link01"
@@ -16329,7 +16327,7 @@ var MyClass = React.createClass({
                     <div className="row">
                       <div className="col-sm-12">
                         <div className="footer-address">
-                          <p>© 2024 Vedic Vaani. All Rights Reserved.</p>
+                          <p>© 2024 Sanskar. All Rights Reserved.</p>
                         </div>
                       </div>
                       <div className="col-sm-12">
@@ -16337,15 +16335,15 @@ var MyClass = React.createClass({
                           <picture className="img-responsive">
                             <source
                               type="image/webp"
-                              srcSet="https://vedicvaani.com/pub/media/wysiwyg/codazon/footer-payment.webp"
+                              srcSet="https://sanskar.com/pub/media/wysiwyg/codazon/footer-payment.webp"
                             />
                             <source
                               type="image/png"
-                              srcSet="https://vedicvaani.com/pub/media/wysiwyg/codazon/footer-payment.png"
+                              srcSet="https://sanskar.com/pub/media/wysiwyg/codazon/footer-payment.png"
                             />
                             <img
                               className="img-responsive"
-                              src="https://vedicvaani.com/pub/media/wysiwyg/codazon/footer-payment.png"
+                              src="https://sanskar.com/pub/media/wysiwyg/codazon/footer-payment.png"
                               alt="Accept Payment"
                               loading="lazy"
                             />
@@ -16394,7 +16392,7 @@ var MyClass = React.createClass({
                             <li className="item col-xs-6 btn-home">
                               <a
                                 className="action"
-                                href="https://vedicvaani.com/"
+                                href="https://sanskar.com/"
                                 aria-label="home"
                               >
                                 <i className="fa fa-home" />
@@ -16423,7 +16421,7 @@ var MyClass = React.createClass({
                             <li className="item col-xs-6 btn-account">
                               <a
                                 className="action"
-                                href="https://vedicvaani.com/customer/account/"
+                                href="https://sanskar.com/customer/account/"
                                 aria-label="account"
                               >
                                 <i className="fa fa-user-o" />
@@ -16432,7 +16430,7 @@ var MyClass = React.createClass({
                             <li className="item col-xs-6 btn-contact">
                               <a
                                 className="action"
-                                href="https://vedicvaani.com/contact/"
+                                href="https://sanskar.com/contact/"
                                 aria-label="contact"
                               >
                                 <i className="fa fa-map-marker" />
@@ -16451,7 +16449,7 @@ var MyClass = React.createClass({
                             <li className="item col-xs-6 btn-wishlist">
                               <a
                                 className="action"
-                                href="https://vedicvaani.com/wishlist/"
+                                href="https://sanskar.com/wishlist/"
                                 aria-label="wishlist"
                               >
                                 <i className="fa fa-heart-o" />
@@ -16632,7 +16630,7 @@ var MyClass = React.createClass({
                         </div>
                         <form
                           name="loginForm"
-                          action="https://vedicvaani.com/customer/account/loginPost/"
+                          action="https://sanskar.com/customer/account/loginPost/"
                           method="post"
                           noValidate="novalidate"
                         >
@@ -16727,7 +16725,7 @@ var MyClass = React.createClass({
                             <div className="secondary">
                               <a
                                 className="action remind"
-                                href="https://vedicvaani.com/customer/account/forgotpassword/"
+                                href="https://sanskar.com/customer/account/forgotpassword/"
                               >
                                 <span>Forgot Your Password?</span>
                               </a>
@@ -16745,7 +16743,7 @@ var MyClass = React.createClass({
                         </span>{" "}
                         <a
                           className="create-account-link"
-                          href="https://vedicvaani.com/customer/account/create/"
+                          href="https://sanskar.com/customer/account/create/"
                         >
                           Start Here.
                         </a>
@@ -16757,7 +16755,7 @@ var MyClass = React.createClass({
                   <ul className="account-menu-items items">
                     <li className="nav item">
                       <a
-                        href="https://vedicvaani.com/customer/account/"
+                        href="https://sanskar.com/customer/account/"
                         className="account"
                       >
                         {" "}
@@ -16768,7 +16766,7 @@ var MyClass = React.createClass({
                     <li className="link wishlist" data-bind="scope: 'wishlist'">
                       <a
                         className="cdz-top-link"
-                        href="https://vedicvaani.com/wishlist/"
+                        href="https://sanskar.com/wishlist/"
                       >
                         My Wish List {/* ko if: wishlist().counter */}
                         {/* /ko */}
@@ -16791,7 +16789,7 @@ var MyClass = React.createClass({
                     </li>{" "}
                     <li className="nav item">
                       <a
-                        href="https://vedicvaani.com/sales/order/history/"
+                        href="https://sanskar.com/sales/order/history/"
                         className="order-link"
                       >
                         {" "}
@@ -16800,7 +16798,7 @@ var MyClass = React.createClass({
                     </li>
                     <li className="nav item">
                       <a
-                        href="https://vedicvaani.com/contact/"
+                        href="https://sanskar.com/contact/"
                         className="contact-link"
                       >
                         {" "}
@@ -16839,7 +16837,7 @@ var MyClass = React.createClass({
                               <li className="currency-AUD switcher-option">
                                 <a
                                   href="#"
-                                  data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"AUD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                  data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"AUD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                 >
                                   AUD - Australian Dollar
                                 </a>
@@ -16847,7 +16845,7 @@ var MyClass = React.createClass({
                               <li className="currency-GBP switcher-option">
                                 <a
                                   href="#"
-                                  data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"GBP","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                  data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"GBP","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                 >
                                   GBP - British Pound
                                 </a>
@@ -16855,7 +16853,7 @@ var MyClass = React.createClass({
                               <li className="currency-CAD switcher-option">
                                 <a
                                   href="#"
-                                  data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"CAD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                  data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"CAD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                 >
                                   CAD - Canadian Dollar
                                 </a>
@@ -16863,7 +16861,7 @@ var MyClass = React.createClass({
                               <li className="currency-EUR switcher-option">
                                 <a
                                   href="#"
-                                  data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"EUR","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                  data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"EUR","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                 >
                                   EUR - Euro
                                 </a>
@@ -16871,7 +16869,7 @@ var MyClass = React.createClass({
                               <li className="currency-MYR switcher-option">
                                 <a
                                   href="#"
-                                  data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"MYR","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                  data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"MYR","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                 >
                                   MYR - Malaysian Ringgit
                                 </a>
@@ -16879,7 +16877,7 @@ var MyClass = React.createClass({
                               <li className="currency-SGD switcher-option">
                                 <a
                                   href="#"
-                                  data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"SGD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                  data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"SGD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                 >
                                   SGD - Singapore Dollar
                                 </a>
@@ -16887,7 +16885,7 @@ var MyClass = React.createClass({
                               <li className="currency-USD switcher-option">
                                 <a
                                   href="#"
-                                  data-post='{"action":"https:\/\/vedicvaani.com\/directory\/currency\/switch\/","data":{"currency":"USD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
+                                  data-post='{"action":"https:\/\/sanskar.com\/directory\/currency\/switch\/","data":{"currency":"USD","uenc":"aHR0cHM6Ly92ZWRpY3ZhYW5pLmNvbS8~"}}'
                                 >
                                   USD - US Dollar
                                 </a>
@@ -17286,7 +17284,7 @@ var MyClass = React.createClass({
                           <a
                             className="action action-register primary"
                             data-bind="attr: {href: registerUrl}"
-                            href="https://vedicvaani.com/customer/account/create/"
+                            href="https://sanskar.com/customer/account/create/"
                           >
                             <span data-bind="i18n: 'Create an Account'">
                               Create an Account
@@ -17414,7 +17412,7 @@ var MyClass = React.createClass({
                               <a
                                 className="action"
                                 data-bind="attr: {href: forgotPasswordUrl}"
-                                href="https://vedicvaani.com/customer/account/forgotpassword/"
+                                href="https://sanskar.com/customer/account/forgotpassword/"
                               >
                                 <span data-bind="i18n: 'Forgot Your Password?'">
                                   Forgot Your Password?

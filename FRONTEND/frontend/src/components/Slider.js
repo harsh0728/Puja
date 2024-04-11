@@ -71,7 +71,9 @@ const Slider = ({ images }) => {
             index === currentImageIndex ? "active" : ""
           }`}
         />
+         
       ))}
+      
     </div>
   );
 };

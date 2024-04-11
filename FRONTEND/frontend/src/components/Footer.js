@@ -20,7 +20,7 @@ const Footer = () => {
             Every prayer ritual in Hinduism should be performed exactly as the
             sacred writings say. A place of worship in your house or mandir has
             to reflect all the spirituality for you to be able to pay tribute to
-            the Gods and the Goddesses properly. For this to happen, Vedic Vaani
+            the Gods and the Goddesses properly. For this to happen, Sanskar
             offers an astonishing variety of prayer vessels, cloth, beads,
             sculptures, and a myriad of other{" "}
             <strong className="font-bold cursor-pointer hover:text-blue-400">
@@ -31,8 +31,8 @@ const Footer = () => {
           </p>
           <br />
           <p className="font-serif">
-            Vedic Vaani is an all-in-one source of Puja items, Holy Books,
-            statues, and{" "}
+            Sanskar is an all-in-one source of Puja items, Holy Books, statues,
+            and{" "}
             <strong className="font-bold cursor-pointer hover:text-blue-400">
               Hindu idols for sale
             </strong>
@@ -46,7 +46,7 @@ const Footer = () => {
             <strong className="font-bold cursor-pointer hover:text-blue-400">
               Buddha statue, buy it online
             </strong>{" "}
-            at Vedic Vaani in a few clicks.{" "}
+            at Sanskar in a few clicks.{" "}
           </p>
           <br />
           <p className="font-serif">
@@ -63,8 +63,8 @@ const Footer = () => {
             WE GUARANTEE THE HIGHEST QUALITY
           </h2>
           <p className="font-serif">
-            Vedic Vaani enables you to direct the flow of positive energy to
-            your household with{" "}
+            Sanskar enables you to direct the flow of positive energy to your
+            household with{" "}
             <strong className="font-bold cursor-pointer hover:text-blue-400">
               Puja items at wholesale
             </strong>{" "}
@@ -200,12 +200,12 @@ export default Footer;
 
 {
   /* <div>
-        <h1>BUY SPIRITUAL ITEMS ONLINE AT VEDIC VAANI</h1>
+        <h1>BUY SPIRITUAL ITEMS ONLINE AT Sanskar</h1>
         <p>
           Every prayer ritual in Hinduism should be performed exactly as the
           sacred writings say. A place of worship in your house or mandir has to
           reflect all the spirituality for you to be able to pay tribute to the
-          Gods and the Goddesses properly. For this to happen, Vedic Vaani
+          Gods and the Goddesses properly. For this to happen, Sanskar
           offers an astonishing variety of prayer vessels, cloth, beads,
           sculptures, and a myriad of other Pooja accessories online. Our store
           opens its doors to everyone willing to get a divine blessing for
@@ -213,7 +213,7 @@ export default Footer;
         </p>
 
         <p>
-          Vedic Vaani is an all-in-one source of Puja items, Holy Books,
+          Sanskar is an all-in-one source of Puja items, Holy Books,
           statues, and Hindu idols for sale. If you want to make a spiritual
           ritual to honor a special guest, celebrate a wedding day, or mark any
           other remarkable event while worshiping the Gods with all your heart,
@@ -221,7 +221,7 @@ export default Footer;
           you will find everything you need in our catalog. From Rudraksha,
           Yantras to Shaligrams and gemstones – our range includes all items
           required for ritual practices. Even if you are looking for a Ganesh,
-          Shiva or Buddha statue, buy it online at Vedic Vaani in a few clicks.
+          Shiva or Buddha statue, buy it online at Sanskar in a few clicks.
         </p>
 
         <p>
@@ -233,7 +233,7 @@ export default Footer;
 
         <h2>WE GUARANTEE THE HIGHEST QUALITY</h2>
         <p>
-          Vedic Vaani enables you to direct the flow of positive energy to your
+          Sanskar enables you to direct the flow of positive energy to your
           household with Puja items at wholesale prices. Every product available
           in our catalog is 100% authentic and made with your spiritual needs in
           mind. Here you will also come across many skillfully handcrafted

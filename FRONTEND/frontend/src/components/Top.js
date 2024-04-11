@@ -15,15 +15,15 @@ const Top = () => {
         <div className=" header-top-links ">
           <a
             className="hover:text-orange-300 icon-link fa-mobile-phone"
-            href="tel:919820697944"
+            href="tel:8287440877"
           >
-            <span className="call_us ">Call Us:</span> +91-9820697944
+            <span className="call_us ">Call Us:</span> +91-8287440877
           </a>{" "}
           <a
             className="hover:text-orange-300 icon-link fa-envelope-o"
-            href="mailto:contact@vedicvaani.com"
+            href="mailto:shrivastawaaditya0@gmail.com"
           >
-            contact@vedicvaani.com
+            shrivastawaaditya0@gmail.com
           </a>
         </div>
       </div>
@@ -52,7 +52,7 @@ const Top = () => {
           <TiSocialFacebook className="size-7 hover:text-orange-300" />
           <TiSocialTwitter className="size-7 hover:text-orange-300" />
           <SlSocialYoutube className="size-7 hover:text-orange-300" />
-          <TiSocialLinkedin className="size-7 hover:text-orange-300" />
+          <a href="https://linkedin.com/in/aditya-shrivastawa"><TiSocialLinkedin  className="size-7 hover:text-orange-300" /></a>
           <TiSocialInstagram className="size-7 hover:text-orange-300" />
         </div>
       </div>
