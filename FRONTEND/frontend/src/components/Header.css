@@ -1,25 +1,109 @@
-.header-top {
+body {
+  color: #282828;
+  font: 400 13px / 1.35 Roboto, Helvetica Neue, Verdana, Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+}
+.top {
   background: #391e66;
   color: #fff;
   padding: 7px 0;
+  display: flex;
+  justify-content: space-evenly;
 }
+.header-top-left {
+  align-items: center;
+}
+
 .header-top-links a {
-  color: white;
+  color: #fff;
+  text-align: center;
 }
-.row {
+.header-top-right a {
+  color: #fff;
+}
+
+/* Dropdown container */
+.ui-dialog {
+  position: absolute;
+  z-index: 9999; /* Ensure the dropdown appears above other elements */
+  background-color: #fff; /* Background color of the dropdown */
+  border: 1px solid #ccc; /* Border of the dropdown */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Box shadow for dropdown */
+  padding: 10px; /* Padding inside the dropdown */
+}
+
+/* Dropdown items */
+.switcher-option {
+  list-style: none; /* Remove default list style */
+}
+
+.switcher-option a {
+  display: block; /* Make links block-level for easier styling */
+  padding: 8px 16px; /* Padding for each item */
+  color: #333; /* Text color */
+  text-decoration: none; /* Remove underline */
+}
+
+.switcher-option a:hover {
+  background-color: #f0f0f0; /* Background color on hover */
+}
+
+.middle {
+  /* width: 1817.6px;
+  height: 90px; */
+  display: grid;
+  grid-column: calc(12);
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.bottom {
+  background: #391e66;
+  color: #fff;
+  padding: 7px 0;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
-.header-top-right-inner a {
-  color: white;
+
+/* .menu-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+} */
+.groupmenu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+
+  :hover {
+    background-color: yellow;
+    color: black;
+  }
 }
 
-@media screen and (max-width: 767px) {
-  .header-top {
-    display: inline-table;
-    width: 100%;
-    padding: 10px 0px;
-    background: #f4cc07;
-  }
+.first {
+  width: 118.54px;
+  height: 38px;
+}
+
+.sec{
+  position: relative;
+  display: inline-block;
+}
+.sec-cont{
+  display: none;
+  position: absolute;
+  /* background-color: #f9f9f9; */
+  /* min-width: 160px; */
+  /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
+  z-index: 1;
 }
