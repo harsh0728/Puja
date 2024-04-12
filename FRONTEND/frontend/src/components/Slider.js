@@ -61,19 +61,23 @@ const Slider = ({ images }) => {
   }, [images.length]);
 
   return (
-    <div className="flex overflow-auto  justify-center mt-10 mb-10  gap-5">
-      {images.map((image, index) => (
-        <img
-          key={index}
-          src={image}
-          alt={`Slide ${index}`}
-          className={`w-[260px]   slider-image ${
-            index === currentImageIndex ? "active" : ""
-          }`}
-        />
-         
-      ))}
-      
+    <div className="bg-[#ffffff]  rounded-lg mx-14 flex flex-col overflow-auto  justify-center mt-10 gap-5">
+      <div className="bg-purple-200 h-1/2 w-full">
+        {" "}
+        <h1 className="font-bold text-xl my-3 mx-5">New Arrivals</h1>
+      </div>
+      <div className="relative flex gap-6 mx-12 ">
+        {images.map((image, index) => (
+          <img
+            key={index}
+            src={image}
+            alt={`Slide ${index}`}
+            className={`w-[50%] h-[50%] flex items-center place-content-center slider-image ${
+              index === currentImageIndex ? "active" : ""
+            }`}
+          />
+        ))}
+      </div>
     </div>
   );
 };

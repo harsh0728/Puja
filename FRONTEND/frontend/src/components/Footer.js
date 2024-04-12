@@ -185,7 +185,7 @@ const Footer = () => {
           <div>41</div>
         </div>
 
-        <footer className=" bg-[#391e66] pt-5 h-16  items-center text-white pl-20 ">
+        <footer className=" bg-[#391e66] pt-5 h-16 mx-auto items-center text-white pl-20 ">
           <p className="gap-4 items-center flex flex-row justify-center font-bold">
             <span className="">&copy;</span> 2024 Puja Products Store. All
             rights reserved.

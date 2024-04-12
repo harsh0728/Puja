@@ -16,3 +16,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+/* CSS used here will be applied after bootstrap.css */
+.carousel {
+  margin-top: 20px;
+}
+.item .thumb {
+width: 25%;
+cursor: pointer;
+float: left;
+}
+.item .thumb img {
+width: 100%;
+margin: 2px;
+}
+.item img {
+width: 100%;	
+}
+
+
+.slick-slide > div {
+  margin: 0 10px;
+}
+
+.slick-dots li.slick-active button:before {
+  color:orange !important;
+}

@@ -7,6 +7,8 @@ import img2 from "../assests/img2.jpg";
 import img3 from "../assests/img3.jpg";
 import img4 from "../assests/img4.jpg";
 import Footer from "../components/Footer";
+import Slid from "../components/Slid";
+
 
 const Home = () => {
   // Sample image URLs for the slider
@@ -28,15 +30,25 @@ const Home = () => {
   ];
 
   return (
-    <div className="bg-[#f4f4f4]">
+    <div className="bg-[#f4f4f4] ">
       <Header />
+      {/* <Slider images={images} /> */}
+      {/* <Slider images={images} />
       <Slider images={images} />
       <Slider images={images} />
       <Slider images={images} />
       <Slider images={images} />
-      <Slider images={images} />
-      <Slider images={images} />
-      <Slider images={images} />
+      <Slider images={images} /> */}
+      <Slid images={images} title="New Arrivals"/>
+      <Slid images={images} title="Dhotis"/>
+      <Slid images={images} title="Vedic Divine Collection
+
+"/>
+      <Slid images={images} title="Dhoop Sticks"/>
+      <Slid images={images} title="Mata Ka Chatar"/>
+      <Slid images={images} title="Puja Asans"/>
+      <Slid images={images} title="Dhotis"/>
+
       {/* Map through the products array and render ProductItem component for each product */}
       {/* {products.map((product, index) => (
         <ProductItem

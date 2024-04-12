@@ -7,11 +7,11 @@ const ULli = ({ title, content }) => {
         <li>
           <h2 className="font-semibold size-1">{title}</h2>
         </li>
-        <li>
-          {content.forEach((ele) => (
+        {content.map((ele, index) => (
+          <li key={index}>
             <p>{ele}</p>
-          ))}
-        </li>
+          </li>
+        ))}
       </ul>
     </div>
   );

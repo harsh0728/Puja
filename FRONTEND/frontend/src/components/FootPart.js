@@ -6,7 +6,7 @@ import { FaLock } from "react-icons/fa";
 
 const FootPart = () => {
   return (
-    <div className=" font-sans flex justify-around my-10  w-full bg-[#fff]">
+    <div className=" font-sans flex flex-row items-center place-content-center text-center justify-around my-10  w-[100%] bg-[#fff]">
       <div className=" items-center justify-center text-center my-auto ">
         <div className="h-20 w-20 flex items-center text-center m-auto rounded-full bg-[#f1f3f2] hover:bg-black hover:text-[#fff]">
           <FaLock className=" size-8 text-center justify-center align-center content-center place-self-center items-center mx-auto text-2xl " />
